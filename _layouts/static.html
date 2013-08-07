@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>
+            {% if page.title == 'index' %}
+                {{ site.name }}
+            {% else %}
+                {{ page.title }} - {{ site.name }}
+            {% endif %}
+        </title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+    
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" media="all" type="text/css" href="/css/unsemantic-grid-responsive.css" />
+        <link rel="stylesheet" media="all" type="text/css" href="/css/default.css" />
+    </head>
+    <body>
+
+        {% include header.html %}
+        
+        <section>
+            <div class="grid-container section-hero center">
+                <div class="grid-90 prefix-5 suffix-5">
+                    <h1>                    
+                        {{ page.hero }}
+                    </h1>
+                    {% if page.summary %}
+                    <p>                    
+                        {{ page.summary }}
+                    </p>
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        
+        {% include subscription-home-page.html %}
+    
+        {{ content }}
+        
+        {% include popular-and-recent-posts.html %}
+
+        {% include footer.html %}
+ 
+    </body>
+</html>
+
+

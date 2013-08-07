@@ -1,0 +1,26 @@
+<section class="section">
+    <div class="grid-container">
+        <div class="grid-50 grid-50--addPaddingRight">
+            <h2>Popular posts.</h2>
+            <p>
+                These are our greatest hits&mdash;the most read and discussed posts we've published to date: 
+            </p>
+            <ul class="PostList">
+                <li><a href="#">14 Renowned Experts Share Insanely Useful Startup Marketing Advice</a></li>
+                <li><a href="#">11 Remarkable Female Entrepreneurs Uncover Major Startup Marketing Mistakes</a></li>
+                <li><a href="#">Top 10 Best Startup Marketing Resources of 2012</a></li>
+            </ul>
+        </div>
+        <div class="grid-50 grid-50--addPaddingLeft">
+            <h2>Latest posts.</h2>
+            <p>
+                And here are some of the recent articles on Marketing&nbsp;Before&nbsp;Funding:
+            </p>
+            <ul class="PostList">
+                {% for post in site.posts %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}    
+            </ul>
+        </div>
+    </div>
+</section>
