@@ -50,11 +50,9 @@
                         <div class="post-content">
                             
                             {{ content }}
-                            
-                            <div class="post-meta-end">
-                                    {% include share.html %}
-                            </div>      
-                                                                    
+                              
+                            {% include share.html %}
+                                                                                                      
                             {% include disqus.html %}
                                                 
                         </div>
@@ -93,8 +91,7 @@
                    $( '#header').css('margin-left', bodyMarginLeft);
                    $( '#header').css('margin-right', bodyMarginRight);
                 }
-            });
-               
+            });             
        </script>
         
     </body>

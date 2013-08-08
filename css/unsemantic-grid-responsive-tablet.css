@@ -42,14 +42,14 @@
   .grid-container {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1200px;
+    max-width: 1440px;
     padding-left: 10px;
     padding-right: 10px;
   }
 
     /* going crazy over here */
         .grid-container.container-zero{
-            max-width: 1920px;
+            max-width: 1440px;
             padding: 0;
         }
         .grid-container.container-700{
