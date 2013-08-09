@@ -2952,110 +2952,111 @@ h3,
 h4,
 h5,
 h6 {
+  color: #222222;
   font-family: "Montserrat", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   margin: 1em 0 0.5em 0;
   font-weight: 800;
 }
 
-/* line 40, ../_sass/_typography.scss */
+/* line 41, ../_sass/_typography.scss */
 h4 {
   font-weight: 400;
 }
 
-/* line 77, ../_sass/_typography.scss */
+/* line 78, ../_sass/_typography.scss */
 h1 {
   font-size: 2.775em;
   line-height: 1.125;
 }
 
-/* line 81, ../_sass/_typography.scss */
+/* line 82, ../_sass/_typography.scss */
 h2 {
   font-size: 2.5em;
   line-height: 1.125;
 }
 @media screen and (max-width: 767px) {
-  /* line 81, ../_sass/_typography.scss */
+  /* line 82, ../_sass/_typography.scss */
   h2 {
     font-size: 2em;
     line-height: 1.125;
   }
 }
 
-/* line 88, ../_sass/_typography.scss */
+/* line 89, ../_sass/_typography.scss */
 h3 {
   font-size: 2em;
   line-height: 1.125;
 }
 @media screen and (max-width: 767px) {
-  /* line 88, ../_sass/_typography.scss */
+  /* line 89, ../_sass/_typography.scss */
   h3 {
     font-size: 1.875em;
     line-height: 1.125;
   }
 }
 
-/* line 95, ../_sass/_typography.scss */
+/* line 96, ../_sass/_typography.scss */
 h4 {
   font-size: 1.875em;
   line-height: 1.125;
 }
 @media screen and (max-width: 767px) {
-  /* line 95, ../_sass/_typography.scss */
+  /* line 96, ../_sass/_typography.scss */
   h4 {
     font-size: 1.5em;
   }
 }
 
-/* line 102, ../_sass/_typography.scss */
+/* line 103, ../_sass/_typography.scss */
 h5 {
   font-size: 1.5em;
 }
 @media screen and (max-width: 767px) {
-  /* line 102, ../_sass/_typography.scss */
+  /* line 103, ../_sass/_typography.scss */
   h5 {
     font-size: 1.3em;
   }
 }
 
-/* line 110, ../_sass/_typography.scss */
+/* line 111, ../_sass/_typography.scss */
 a {
   color: #9f1c1c;
   text-decoration: none;
 }
 
-/* line 114, ../_sass/_typography.scss */
+/* line 115, ../_sass/_typography.scss */
 a:hover {
   text-decoration: none;
   color: #d42525;
 }
 
-/* line 115, ../_sass/_typography.scss */
+/* line 116, ../_sass/_typography.scss */
 a:visited {
   text-decoration: none;
 }
 
-/* line 117, ../_sass/_typography.scss */
+/* line 118, ../_sass/_typography.scss */
 strong, b {
   font-weight: 600;
 }
 
-/* line 121, ../_sass/_typography.scss */
+/* line 122, ../_sass/_typography.scss */
 .center {
   text-align: center;
 }
 
-/* line 122, ../_sass/_typography.scss */
+/* line 123, ../_sass/_typography.scss */
 .left {
   text-align: left;
 }
 
-/* line 123, ../_sass/_typography.scss */
+/* line 124, ../_sass/_typography.scss */
 .right {
   text-align: right;
 }
 
-/* line 125, ../_sass/_typography.scss */
+/* line 126, ../_sass/_typography.scss */
 img {
   width: 100%;
   border: none;
