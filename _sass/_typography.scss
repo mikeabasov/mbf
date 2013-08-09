@@ -3,13 +3,10 @@
 
 
 *, html, body, section, div, p{
-	font-size: $base-font-size  ;
-	line-height: $base-line-height;
-	font-family: $body-font;
 	font-weight: 400;
+    line-height: $base-line-height;
+	font-family: $body-font;
 }
-
-
 
 p,
 ul,
@@ -20,12 +17,9 @@ ol {
 	ul {margin-left: 50px; list-style: disc;}
 	ol {margin-left: 50px; list-style: decimal;}
 
-
 br {
     line-height: 0;
 }
-
-
 
 /* --- Headlines --- */
 
