@@ -1,0 +1,45 @@
+/* --- Colour Variables --- */
+
+// Core Colours
+
+$black                              : #222;
+$grey                               : #444;
+$super-light-grey                   : #F4F4F4;
+$white                              : #fff;
+
+
+
+// Reds
+
+$red                                : #ef4a4a;
+$dark-red                           : #d42525;
+$super-dark-red                     : #9f1c1c;
+
+
+// Action Colours
+
+$link                               : $super-dark-red;
+$hover                              : $dark-red;
+
+/* --- Typography Variables --- */
+
+$base-font-size                     : 1em;
+$base-line-height                   : 1.5;
+$base-p-spacing                     : 1.3em;
+
+
+// Fonts
+
+$fallback-fonts                     : "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$body-font                          : "Open Sans", $fallback-fonts;
+$headline-font                      : "Montserrat", $fallback-fonts;
+
+
+
+/* --- Breakpoint Variables --- */
+
+$xs-break                           : 310px;
+$s-break                            : 480px;
+$m-break                            : 768px;
+$l-break                            : 960px;
+$xl-break                           : 1140px;

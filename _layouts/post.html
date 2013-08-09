@@ -9,11 +9,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
 
         <!-- Custom Fonts -->
-        <link 
-            href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Montserrat:400,700&subset=latin,cyrillic' 
-            rel='stylesheet' 
+        <link
+            href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Montserrat:400,700&subset=latin,cyrillic'
+            rel='stylesheet'
             type='text/css'>
-
 
         <link rel="stylesheet" media="all" type="text/css" href="/css/core.css">
 
@@ -22,70 +21,56 @@
     <body>
 
         {% include post-header.html %}
-        
+
         <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
             <div class="grid-container container-zero">
                 <div class="grid-60 suffix-40 tablet-grid-70 suffix-30">
                     <div class="grid-container container-700">
-                        <h1>                    
-                            {% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{%endif %}
+                        <h1>
+                            {% if page.headline %}
+                                {{ page.headline }}
+                            {% else %}
+                                {{ page.title }}
+                            {%endif %}
                         </h1>
                         <p class="post-meta">Written by {{ page.author }}</p>
                     </div>
                 </div>
             </div>
         </section>
-        
+
         <section>
             <div class="grid-container container-zero">
                 <div class="grid-60 tablet-grid-60">
                     <div class="grid-container container-700"  id="content">
                         <div class="post-content">
-                            
+
                             {{ content }}
-                              
+
                             {% include share.html %}
-                                                                                                      
+
                             {% include disqus.html %}
-                                                
+
                         </div>
                     </div>
-                </div>            
+                </div>
                 <div class="grid-35 tablet-grid-35 prefix-5 tablet-prefix-5 sidebar">
                     <div class="grid-container container-420" id="container-420">
-                        <div class="">
+                        <div>
                             {% include sidebar-subscriber.html %}
-                            
+
                             {% include sidebar-popular.html %}
-                            
+
                             {% include sidebar-classic.html %}
                         </div>
                     </div>
                 </div>
             </div>
-        </section>   
-        
+        </section>
+
         {% include footer.html %}
-        
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-        
-        <script>
-            $(window).ready(function (){    
-               var bodyMarginLeft = $( '#content').css('margin-left');  
-               var bodyMarginRight = $( '#container-420').css('margin-right');  
-               $( '#header').css('margin-left', bodyMarginLeft);
-               $( '#header').css('margin-right', bodyMarginRight);
-            });
-            
-            $(window).resize(function (){ 
-                if ($(window).width() >= 1024 ){   
-                   var bodyMarginLeft = $( '#content').css('margin-left');  
-                   var bodyMarginRight = $( '#container-420').css('margin-right');  
-                   $( '#header').css('margin-left', bodyMarginLeft);
-                   $( '#header').css('margin-right', bodyMarginRight);
-                }
-            });             
-       </script>
-        
+
+        {% include scripts.html %}
+
     </body>
 </html>

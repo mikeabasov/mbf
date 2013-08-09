@@ -2,5 +2,7 @@
 @import "unsemantic-grid-responsive-tablet.scss";
 @import "typography.scss";
 @import "default.scss";
-@import "sidebar.scss";
-@import "header.scss";
+@import "modules/sidebar.scss";
+@import "modules/header.scss";
+@import "modules/subscriber.scss";
+@import "modules/sections.scss";
