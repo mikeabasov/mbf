@@ -1,0 +1,28 @@
+/* ------------------ SIDEBAR ------------------ */
+
+
+.sidebar{
+    padding: 3em 1%;
+    background-color: #f4f4f4;
+}
+
+.sidebar-block{
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.classic-posts img{
+    margin: 0.5em 0;
+}
+
+@media all and (max-width:640px){
+    .sidebar{
+        padding: 0;
+        background-color: #fff;
+    }
+    .sidebar-block{
+        padding: 0;
+    }
+}
+
+/* ------------------ end SIDEBAR ------------------ */
