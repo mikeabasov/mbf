@@ -2910,8 +2910,10 @@ table {
     width: 100%;
   }
 }
-/* ------------------ TYPOGRAPHY ------------------ */
-/* line 4, ../_sass/_typography.scss */
+/* --- Colour Variables --- */
+/* --- Typography Variables --- */
+/* --- Breakpoint Variables --- */
+/* line 5, ../_sass/_typography.scss */
 *, html, body, section, div, p {
   font-size: 1em;
   line-height: 1.5;
@@ -2919,142 +2921,142 @@ table {
   font-weight: 400;
 }
 
-/* line 11, ../_sass/_typography.scss */
-p {
+/* line 16, ../_sass/_typography.scss */
+p,
+ul,
+ol {
   margin: 0 0 1.3em 0;
 }
 
-/* line 15, ../_sass/_typography.scss */
-ul, ol {
-  margin-bottom: 1.5em;
-}
-
-/* line 19, ../_sass/_typography.scss */
+/* line 20, ../_sass/_typography.scss */
 ul {
   margin-left: 50px;
   list-style: disc;
 }
 
-/* line 20, ../_sass/_typography.scss */
+/* line 21, ../_sass/_typography.scss */
 ol {
   margin-left: 50px;
   list-style: decimal;
 }
 
-/* line 23, ../_sass/_typography.scss */
+/* line 24, ../_sass/_typography.scss */
 br {
   line-height: 0;
 }
 
-/* line 25, ../_sass/_typography.scss */
-h1, h2, h3, h4, h5, h6 {
-  color: #222;
-  font-weight: 800;
+/* --- Headlines --- */
+/* line 39, ../_sass/_typography.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Montserrat", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  line-height: 1.3;
+  line-height: 1.5;
   margin: 1em 0 0.5em 0;
+  font-weight: 800;
 }
 
-/* line 33, ../_sass/_typography.scss */
-h1 {
-  font-size: 2.775em;
-}
-
-/* line 34, ../_sass/_typography.scss */
-h2 {
-  font-size: 2em;
-}
-
-/* line 35, ../_sass/_typography.scss */
-h3 {
-  font-size: 1.875em;
-}
-
-/* line 36, ../_sass/_typography.scss */
+/* line 46, ../_sass/_typography.scss */
 h4 {
-  font-size: 1.500em;
   font-weight: 400;
 }
 
-/* line 37, ../_sass/_typography.scss */
-h5 {
-  font-size: 1.3em;
+/* line 83, ../_sass/_typography.scss */
+h1 {
+  font-size: 2.775em;
+  line-height: 1.125;
 }
 
-/* line 38, ../_sass/_typography.scss */
-h6 {
-  font-size: 1em;
+/* line 87, ../_sass/_typography.scss */
+h2 {
+  font-size: 2.5em;
+  line-height: 1.125;
 }
-
-@media all and (min-width: 640px) {
-  /* line 41, ../_sass/_typography.scss */
-  h1 {
-    font-size: 2.775em;
-  }
-
-  /* line 42, ../_sass/_typography.scss */
+@media screen and (max-width: 767px) {
+  /* line 87, ../_sass/_typography.scss */
   h2 {
-    font-size: 2.5em;
-  }
-
-  /* line 43, ../_sass/_typography.scss */
-  h3 {
     font-size: 2em;
-  }
-
-  /* line 44, ../_sass/_typography.scss */
-  h4 {
-    font-size: 1.875em;
-  }
-
-  /* line 45, ../_sass/_typography.scss */
-  h5 {
-    font-size: 1.500em;
-  }
-
-  /* line 46, ../_sass/_typography.scss */
-  h6 {
-    font-size: 1.875em;
+    line-height: 1.125;
   }
 }
-/* line 49, ../_sass/_typography.scss */
+
+/* line 94, ../_sass/_typography.scss */
+h3 {
+  font-size: 2em;
+  line-height: 1.125;
+}
+@media screen and (max-width: 767px) {
+  /* line 94, ../_sass/_typography.scss */
+  h3 {
+    font-size: 1.875em;
+    line-height: 1.125;
+  }
+}
+
+/* line 101, ../_sass/_typography.scss */
+h4 {
+  font-size: 1.875em;
+  line-height: 1.125;
+}
+@media screen and (max-width: 767px) {
+  /* line 101, ../_sass/_typography.scss */
+  h4 {
+    font-size: 1.5em;
+  }
+}
+
+/* line 108, ../_sass/_typography.scss */
+h5 {
+  font-size: 1.5em;
+}
+@media screen and (max-width: 767px) {
+  /* line 108, ../_sass/_typography.scss */
+  h5 {
+    font-size: 1.3em;
+  }
+}
+
+/* line 116, ../_sass/_typography.scss */
 a {
   color: #9f1c1c;
   text-decoration: none;
 }
 
-/* line 53, ../_sass/_typography.scss */
+/* line 120, ../_sass/_typography.scss */
 a:hover {
   text-decoration: none;
   color: #d42525;
 }
 
-/* line 54, ../_sass/_typography.scss */
+/* line 121, ../_sass/_typography.scss */
 a:visited {
   text-decoration: none;
 }
 
-/* line 56, ../_sass/_typography.scss */
+/* line 123, ../_sass/_typography.scss */
 strong, b {
   font-weight: 600;
 }
 
-/* line 60, ../_sass/_typography.scss */
+/* line 127, ../_sass/_typography.scss */
 .center {
   text-align: center;
 }
 
-/* line 61, ../_sass/_typography.scss */
+/* line 128, ../_sass/_typography.scss */
 .left {
   text-align: left;
 }
 
-/* line 62, ../_sass/_typography.scss */
+/* line 129, ../_sass/_typography.scss */
 .right {
   text-align: right;
 }
 
-/* line 64, ../_sass/_typography.scss */
+/* line 131, ../_sass/_typography.scss */
 img {
   width: 100%;
   border: none;
@@ -3283,69 +3285,69 @@ input[type="text"]:focus {
 
 /* ------------------ end FORMS ------------------ */
 /* ------------------ SIDEBAR ------------------ */
-/* line 4, ../_sass/_sidebar.scss */
+/* line 4, ../_sass/modules/_sidebar.scss */
 .sidebar {
   padding: 3em 1%;
   background-color: #f4f4f4;
 }
 
-/* line 9, ../_sass/_sidebar.scss */
+/* line 9, ../_sass/modules/_sidebar.scss */
 .sidebar-block {
   padding: 1em;
   margin-bottom: 1em;
 }
 
-/* line 14, ../_sass/_sidebar.scss */
+/* line 14, ../_sass/modules/_sidebar.scss */
 .classic-posts img {
   margin: 0.5em 0;
 }
 
 @media all and (max-width: 640px) {
-  /* line 19, ../_sass/_sidebar.scss */
+  /* line 19, ../_sass/modules/_sidebar.scss */
   .sidebar {
     padding: 0;
     background-color: #fff;
   }
 
-  /* line 23, ../_sass/_sidebar.scss */
+  /* line 23, ../_sass/modules/_sidebar.scss */
   .sidebar-block {
     padding: 0;
   }
 }
 /* ------------------ end SIDEBAR ------------------ */
-/* line 1, ../_sass/_header.scss */
+/* line 1, ../_sass/modules/_header.scss */
 header, footer {
   background-color: #222;
   color: #f0f0f0;
 }
 
-/* line 6, ../_sass/_header.scss */
+/* line 6, ../_sass/modules/_header.scss */
 .header {
   padding: 1em 0 !important;
   text-transform: uppercase;
   text-align: center;
 }
 
-/* line 11, ../_sass/_header.scss */
+/* line 11, ../_sass/modules/_header.scss */
 .header span {
   display: block;
   margin: 0.5em 1em;
 }
 
-/* line 16, ../_sass/_header.scss */
+/* line 16, ../_sass/modules/_header.scss */
 #logo {
   min-width: 280px;
   max-width: 360px;
 }
 
 @media all and (min-width: 640px) {
-  /* line 22, ../_sass/_header.scss */
+  /* line 22, ../_sass/modules/_header.scss */
   .header {
     padding: 1em 10px !important;
   }
 }
 /* ------------------ NAVIGATION ------------------ */
-/* line 29, ../_sass/_header.scss */
+/* line 29, ../_sass/modules/_header.scss */
 .nav {
   list-style-type: none;
   font-weight: 400;
@@ -3354,69 +3356,69 @@ header, footer {
   padding: 0;
 }
 
-/* line 36, ../_sass/_header.scss */
+/* line 36, ../_sass/modules/_header.scss */
 .nav li {
   display: inline-block;
   padding: 0.5em;
 }
 
-/* line 40, ../_sass/_header.scss */
+/* line 40, ../_sass/modules/_header.scss */
 .nav li a {
   color: #c24040;
 }
 
-/* line 43, ../_sass/_header.scss */
+/* line 43, ../_sass/modules/_header.scss */
 .nav li a:hover {
   text-decoration: none;
   color: #9f1c1c;
 }
 
-/* line 45, ../_sass/_header.scss */
+/* line 45, ../_sass/modules/_header.scss */
 .nav-header {
   margin: 0.5em 0;
 }
 
 @media all and (min-width: 640px) {
-  /* line 51, ../_sass/_header.scss */
+  /* line 51, ../_sass/modules/_header.scss */
   .nav-header {
     margin: 1.3em 0;
     text-align: right;
     font-size: 1.3em;
   }
 
-  /* line 56, ../_sass/_header.scss */
+  /* line 56, ../_sass/modules/_header.scss */
   .nav-header li {
     padding: 0.5em 1em;
   }
 
-  /* line 59, ../_sass/_header.scss */
+  /* line 59, ../_sass/modules/_header.scss */
   .nav-header li:first-of-type a {
     padding-left: 0px;
   }
 
-  /* line 60, ../_sass/_header.scss */
+  /* line 60, ../_sass/modules/_header.scss */
   .nav-header li:last-of-type a {
     padding-right: 0px;
   }
 
-  /* line 61, ../_sass/_header.scss */
+  /* line 61, ../_sass/modules/_header.scss */
   .nav-header li a {
     font-weight: 600;
   }
 }
 /* ------------------ end NAVIGATION ------------------ */
-/* line 67, ../_sass/_header.scss */
+/* line 67, ../_sass/modules/_header.scss */
 .nav-footer {
   margin: 0.5em 0;
 }
 
-/* line 70, ../_sass/_header.scss */
+/* line 70, ../_sass/modules/_header.scss */
 .nav-footer li {
   display: block;
 }
 
 @media all and (min-width: 640px) {
-  /* line 74, ../_sass/_header.scss */
+  /* line 74, ../_sass/modules/_header.scss */
   .nav-footer li {
     display: inline-block;
   }

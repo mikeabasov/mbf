@@ -1,0 +1,19 @@
+// Media Queries
+
+@mixin screen-min($break) {
+    @media screen and (min-width: $break) {
+        @content;
+    }
+}
+
+@mixin screen-max($break) {
+    @media screen and (max-width: $break) {
+        @content;
+    }
+}
+
+@mixin screen-range($break1, $break2) {
+    @media screen and (min-width: $break1) and (max-width: $break2) {
+        @content;
+    }
+}

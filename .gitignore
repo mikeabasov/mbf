@@ -1,2 +1,4 @@
 _site/
-_site/sitemap.xml
+_site/*
+.sass-cache/
+.sass-cache/*
