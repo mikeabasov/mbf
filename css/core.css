@@ -3085,21 +3085,15 @@ body {
   padding: 3em 0;
 }
 
-/* line 29, ../_sass/_default.scss */
-.post-content p {
-  font-size: 1em;
-  line-height: 1.55;
-}
-
 @media all and (min-width: 640px) {
-  /* line 35, ../_sass/_default.scss */
+  /* line 30, ../_sass/_default.scss */
   .post-content p {
     font-size: 1.25em;
   }
 }
-/* line 40, ../_sass/_default.scss */
+/* line 37, ../_sass/_default.scss */
 .post-meta-end {
-  font-size: 1em;
+  font-size: 1.5;
   font-style: italic;
   font-weight: 700;
   text-align: center;
@@ -3108,7 +3102,7 @@ body {
 
 /* ------------------ end POSTS ------------------ */
 /* ------------------ LISTS ------------------------ */
-/* line 55, ../_sass/_default.scss */
+/* line 52, ../_sass/_default.scss */
 .post-list {
   list-style-type: none;
   padding: 0;
@@ -3116,7 +3110,7 @@ body {
   border-top: #c8c8c9 solid 1px;
 }
 
-/* line 61, ../_sass/_default.scss */
+/* line 58, ../_sass/_default.scss */
 .post-list li {
   border-bottom: #c8c8c9 solid 1px;
   padding: 0.7em 0;
@@ -3124,17 +3118,17 @@ body {
 
 /* ------------------ end LISTS -------------------- */
 /* ------------------ FORMS ------------------------ */
-/* line 72, ../_sass/_default.scss */
+/* line 69, ../_sass/_default.scss */
 form {
   margin: 24px 0;
 }
 
-/* line 73, ../_sass/_default.scss */
+/* line 70, ../_sass/_default.scss */
 form.noMargin {
   margin: 0;
 }
 
-/* line 76, ../_sass/_default.scss */
+/* line 73, ../_sass/_default.scss */
 input[type="text"],
 input[type="email"] {
   font-size: 1.3em;
@@ -3143,18 +3137,18 @@ input[type="email"] {
   outline: none;
   padding: 10px;
   margin: 6px 0;
-  border: solid 1px #fff;
+  border: solid 1px white;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
   border-radius: 6px;
 }
 
-/* line 88, ../_sass/_default.scss */
+/* line 85, ../_sass/_default.scss */
 input[type="text"]:focus {
   border-color: #d42525;
 }
 
-/* line 90, ../_sass/_default.scss */
+/* line 87, ../_sass/_default.scss */
 .btn {
   margin: 6px 0;
   font-size: 1.3em;
@@ -3169,28 +3163,20 @@ input[type="text"]:focus {
   border-radius: 6px;
   text-decoration: none;
   text-shadow: none;
+  color: white;
+  background-color: #9f1c1c;
+  border-color: #9f1c1c;
 }
 
 /* line 105, ../_sass/_default.scss */
 .btn:hover {
   text-decoration: none;
   color: inherit;
-}
-
-/* line 107, ../_sass/_default.scss */
-.btn-red-dark {
-  color: #fff;
-  background: #9f1c1c;
-  border-color: #9f1c1c;
-}
-
-/* line 112, ../_sass/_default.scss */
-.btn-red-dark:hover {
   background: #be2121;
   border-color: #be2121;
 }
 
-/* line 116, ../_sass/_default.scss */
+/* line 112, ../_sass/_default.scss */
 .full-width input, a {
   width: 95%;
 }
