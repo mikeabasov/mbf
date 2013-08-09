@@ -15,17 +15,14 @@
             type='text/css'>
 
         <link rel="stylesheet" media="all" type="text/css" href="/css/core.css">
-
-
     </head>
     <body>
 
-        {% include post-header.html %}
+        {% include header.html %}
 
         <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
-            <div class="grid-container container-zero">
-                <div class="grid-60 suffix-40 tablet-grid-70 suffix-30">
-                    <div class="grid-container container-700">
+            <div class="grid-container">
+                <div class="grid-65 suffix-35 tablet-grid-70 suffix-30">
                         <h1>
                             {% if page.headline %}
                                 {{ page.headline }}
@@ -34,36 +31,26 @@
                             {%endif %}
                         </h1>
                         <p class="post-meta">Written by {{ page.author }}</p>
-                    </div>
                 </div>
             </div>
         </section>
 
         <section>
-            <div class="grid-container container-zero">
-                <div class="grid-60 tablet-grid-60">
-                    <div class="grid-container container-700"  id="content">
-                        <div class="post-content">
+            <div class="grid-container">
+                <div class="grid-60 tablet-grid-60 post-content">
 
                             {{ content }}
 
                             {% include share.html %}
 
                             {% include disqus.html %}
-
-                        </div>
-                    </div>
                 </div>
                 <div class="grid-35 tablet-grid-35 prefix-5 tablet-prefix-5 sidebar">
-                    <div class="grid-container container-420" id="container-420">
-                        <div>
                             {% include sidebar-subscriber.html %}
 
                             {% include sidebar-popular.html %}
 
                             {% include sidebar-classic.html %}
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
