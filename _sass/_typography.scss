@@ -31,7 +31,8 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: $headline-font;
+	color: $dark-grey;
+    font-family: $headline-font;
 	line-height: $base-line-height;
 	margin: 1em 0 0.5em 0;
     font-weight: 800;
