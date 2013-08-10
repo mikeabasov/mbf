@@ -9,13 +9,20 @@ layout: static
 {% for post in paginator.posts %}
 
     <h2>
-        <a href="{{ post.url }}" title="{{ post.date | date_to_string }}">
+        <a href="{{ post.url }}" title="Published on {{ post.date | date_to_string }}">
             {{ post.title }}
         </a>
     </h2>
 
     {% if post.content contains '<!-- more -->' %}
         {{ post.content | split:'<!-- more -->' | first }}
+
+        <p>
+            <a href="{{ post.url }}" title="{{ post.title }}">
+                <strong>Read more &raquo</strong>
+            </a>
+        </p>
+
     {% else %}
         {{ post.content }}
     {% endif %}
