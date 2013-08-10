@@ -29,20 +29,11 @@ Here's the question I asked:
 > What should be the #1 marketing priority for a new startup and why?
 
 
-
 Although the answers varied, **you will see that there were 3 common themes** that were mentioned by the experts:
 
-
-
-
   1. Build an awesome product.
-
-
   2. Figure out your story and consistently communicate it to the world.
-
-
   3. Treat your customers like superstars.
-
 
 
 All these and other topics will be discussed on Marketing Before Funding in the upcoming months. But for now, read on to see what the experts had to say.

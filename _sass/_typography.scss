@@ -127,6 +127,8 @@ h5 {
 a {
 	color: $link;
 	text-decoration: none;
+    font-weight: inherit;
+    font-size: inherit;
 }
 	a:hover {text-decoration: none; color: $hover;}
 	a:visited {text-decoration: none;}

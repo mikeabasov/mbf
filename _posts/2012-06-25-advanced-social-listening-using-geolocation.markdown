@@ -26,10 +26,6 @@ _Twitter_ also allows you to find all these **conversations happening in your lo
 
 [_(click here if you don't see the video)_](http://www.youtube.com/watch?v=A-JjcvfpTEQ)
 
-
-
-
-
 ### How Geolocalated Search Works
 
 
@@ -62,10 +58,6 @@ Search for something that matters to your business. Fox example, coffee.
 
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.26.34-AM.png)
 
-
-
-
-
 #### 2. Narrow down your search.
 
 
@@ -73,9 +65,6 @@ Use the tips from my "[How to Monitor Everything on Twitter](/2010/09/05/how-to-
 
 
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.28.20-AM.png)
-
-
-
 
 
 #### 3. Add geolocation filtering.
@@ -93,9 +82,6 @@ Once you've saved the changes, you'll have your **targeted local search results*
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.29-AM.png)
 
 
-
-
-
 ### How to Search Beyond One Location
 
 
@@ -109,7 +95,7 @@ To search for tweets in cities other than your own, you need to find the geocode
 
 Last thing you need to do is **replicate your search streams** with the new geocodes and enjoy targeted results. Here's an example for Vancouver (left) and Toronto:
 
-[caption id="attachment_265" align="aligncenter" width="500"][![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM-500x287.png)](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM.png) Click to Enlarge[/caption]
+![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM.png)
 
 If you want to **cover the whole country**, select a number of major cities, get their geocodes, and set up all necessary streams with large search radius.
 

@@ -5,7 +5,6 @@ date: 2012-02-28 09:13:55+00:00
 layout: post
 slug: why-social-media-jobs-dont-pay-much-what-to-do-about-it
 title: Why Social Media Jobs Don’t Pay Much & What to Do about It
-wordpress_id: 66
 categories:
 - Personal Branding
 - Social Media
@@ -20,7 +19,6 @@ A few weeks ago, an [infographic came out](http://mashable.com/2012/02/12/social
 
 ### Why We Are Paid So Low
 
-
 There is a clear notion in the business world that social media jobs pay much less than other more “prestigious” marketing positions. But why?
 
 Some would say that tweeting and blogging can't be as complicated of a job as making TV commercials or writing press releases, can it? So why would a company pay people more? Though I would strongly disagree, this view of things has **2 real issues behind it**.
@@ -31,7 +29,6 @@ Secondly, I believe that **many companies still have no clue** what they want th
 
 
 ### Economics to the Rescue
-
 
 The basic theory in economics is the one of **supply and demand**. Demand generates supply, and the price for a good or service depends on how much demand and how much supply there is. So let's apply this to our industry.
 
@@ -45,11 +42,7 @@ Now this overflow of supply, again, lowers the price of the service. The result?
 [![Social Media Explained](/wp-content/uploads/2012/06/tumblr_m04n9f0L5R1qa9j4k.jpeg)](http://instagr.am/p/nm695/)
 
 
-
-
-
 ### What We Should Do
-
 
 Now that we _know why_ the industry is broken, _what can we do_ to actually start making money doing what we love? Here's a recipe made out of **3 ingredients**.
 

@@ -29,9 +29,6 @@ In this post, I'd like to show you a **few simple tricks** that you can apply t
 ![Sharing Links on Facebook, Step 0](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.32.50-AM.png)
 
 
-
-
-
 ### Step 1: Throw away the URL.
 
 
@@ -70,7 +67,6 @@ It should be noted that sometimes _Facebook_ doesn't grab any images worth showi
 
 ### Step 4: Fix the Description
 
-
 Description is also generated automatically from your link. Sometimes it can include things that shouldn't be there or otherwise misrepresent the link.
 
 Just spend a few seconds fixing the problem. **Click on the description to make minor changes** or even rewrite it completely. Same goes for the title.
@@ -84,20 +80,9 @@ Just spend a few seconds fixing the problem. **Click on the description to make 
 
 ### BONUS: Other Things to Consider
 
-
-
-
-
-	
   * Remove all signs of Twitter hashtags from your post.
-
-	
   * Tag relevant people/pages in your post by either typing @somebody or clicking the button in the bottom left corner.
-
-	
   * Select the best time to share. If you share your link in the middle of the night, only few people will see it, let alone engage.
-
-	
   * Follow up on every comment you receive. Keep the conversation flowing.
 
 

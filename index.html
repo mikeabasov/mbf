@@ -1,19 +1,77 @@
 ---
 title:  Blog
 headline:  Latest Posts
-summary: "Here are our most recent articles about startup marketing.""
+summary: "Here are our most recent articles about startup marketing."
 layout: static
 ---
 
 
-<ul>
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
+{% for post in site.posts %}
+
+    <h2>
+        <a href="{{ post.url }}" title="{{ post.date | date_to_string }}">
+            {{ post.title }}
+        </a>
+    </h2>
+
+    {% if post.content contains '<!-- more -->' %}
+        {{ post.content | split:'<!-- more -->' | first }}
+    {% else %}
+        {{ post.content }}
+    {% endif %}
+
+{% endfor %}
+
+<div class="grid-container">
+    <div class="grid-50">
+        {% if previous_page %}
+            <a class="btn" href="{{ previous_page_path }}">
+                View older posts
+            </a>
+        {% endif %}
+    </div>
+    <div class="grid-50">
+        {% if previous_page %}
+            <a class="btn" href="{{ next_page_path }}">
+                View newer posts
+            </a>
+        {% endif %}
+    </div>
+</div>
 
 
-<!-- <section class="section">
+page
+current page number
+
+per_page
+number of posts per page
+
+posts
+a list of posts for the current page
+
+total_posts
+total number of posts in the site
+
+total_pages
+number of pagination pages
+
+previous_page
+page number of the previous pagination page, or nil if no previous page exists
+
+previous_page_path
+path of previous pagination page, or nil if no previous page exists
+next_page
+page number of the next pagination page, or nil if no subsequent page exists
+next_page_path
+path of next pagination page, or nil if no subsequent page exists
+
+
+
+<!--
+
+<li><span></span> &raquo; <a href=""></a></li>
+
+<section class="section">
     <div class="grid-container">
         <div class="grid-50 grid-50--addPaddingRight">
             <h2>New here?</h2>
