@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-07-12 12:00:42+00:00
 layout: post

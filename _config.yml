@@ -1,4 +1,4 @@
 name: Marketing Before Funding
 markdown: redcarpet
 pygments: true
-permalink: :year/:day/:month/:title/
+permalink: :year/:month/:day/:title/

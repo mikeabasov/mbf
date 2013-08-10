@@ -7,3 +7,7 @@ _site/
 .sass-cache/
 
 css/core.css
+
+wp-content
+
+wp-content/
