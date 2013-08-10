@@ -14,8 +14,24 @@ ol {
 	margin: 0 0 $base-p-spacing 0;
 }
 
-	ul {margin-left: 50px; list-style: disc;}
-	ol {margin-left: 50px; list-style: decimal;}
+	ul {
+        margin-left: $base-font-size;
+        @include screen-max($m-break) {
+          margin-left: 0;
+        }
+        list-style: disc;
+    }
+	ol {
+        margin-left: $base-font-size;
+        @include screen-max($m-break) {
+          margin-left: 0;
+        }
+        list-style: decimal;
+    }
+
+    li {
+        padding: 0 0 0.5*$base-p-spacing 0;
+    }
 
 br {
     line-height: 0;
@@ -123,7 +139,4 @@ strong, b {
 .left {text-align: left;}
 .right {text-align: right;}
 
-img {
-    width: 100%;
-    border: none;
-}
+

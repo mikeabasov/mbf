@@ -14,7 +14,7 @@ tags:
 - Resources
 ---
 
-[![6 Questions to Ask Yourself When Bootstrapping Your Startup Design](http://marketingbeforefunding.com/wp-content/uploads/2012/09/design-590x442.png)](http://marketingbeforefunding.com/2012/09/05/startup-design-questions)
+[![6 Questions to Ask Yourself When Bootstrapping Your Startup Design](/wp-content/uploads/2012/09/design-590x442.png)](/2012/09/05/startup-design-questions)
 
 
 
@@ -216,7 +216,7 @@ There is no right answer. It's all about priorities.
 
 
 
-Remember the [80/20 rule we've talked about](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/) a couple of weeks ago? Use it to define the 20% of design elements that are most important (e.g. UI and website) and focus on just that. 
+Remember the [80/20 rule we've talked about](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) a couple of weeks ago? Use it to define the 20% of design elements that are most important (e.g. UI and website) and focus on just that. 
 
 
 
@@ -263,7 +263,7 @@ If you have the money to pay a professional designer (freelancer or full-time hi
 
 
 
-**2. Your network.** It's often the case that you may already know a good designer or know somebody who can connect you with one. [Use your network](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/) to find people willing to help you out either at a discounted rate or even for free.
+**2. Your network.** It's often the case that you may already know a good designer or know somebody who can connect you with one. [Use your network](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) to find people willing to help you out either at a discounted rate or even for free.
 
 
 

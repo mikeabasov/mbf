@@ -32,7 +32,7 @@ If you’re in the process of implementing an SEO plan for your startup business
 A lot of startups head straight for content creation and social media in the first stages of a new site, but that could be a big mistake. Without a solid basis of technical (i.e. on-page) SEO, all of this will be meaningless. 
 
 
-[![5 Essential White Hat SEO Techniques for Startups](http://marketingbeforefunding.com/wp-content/uploads/2013/03/google-startup-seo-white-hat-techniques-590x440.jpg)](http://marketingbeforefunding.com/2013/03/07/5-essential-white-hat-seo-techniques-for-startups/)
+[![5 Essential White Hat SEO Techniques for Startups](/wp-content/uploads/2013/03/google-startup-seo-white-hat-techniques-590x440.jpg)](/2013/03/07/5-essential-white-hat-seo-techniques-for-startups/)
 
 Make sure your website can be crawled by search engines by giving it good architecture that’s easy to navigate. The next step in your technical SEO process is to ensure your pages are being indexed by Google. The aim of these two steps is to get your pages to rank, so you can nudge higher up the SERPs (Search Engine Results Pages) and beat your competitors. 
 
@@ -166,4 +166,4 @@ _This article was written by Aurora Johnson on behalf of Custard, a digital mark
 
 
 
-**From Mike:** This is the first time we have a guest post here at Marketing Before Funding. I'd love to hear your feedback! And if you want to write for us, [go here](http://marketingbeforefunding.com/guest-post/).
+**From Mike:** This is the first time we have a guest post here at Marketing Before Funding. I'd love to hear your feedback! And if you want to write for us, [go here](/guest-post/).

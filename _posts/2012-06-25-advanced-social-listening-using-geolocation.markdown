@@ -15,7 +15,7 @@ tags:
 - Twitter
 ---
 
-[![Advanced Social Listening Using Geolocation](http://marketingbeforefunding.com/wp-content/uploads/2012/06/geolocal.png)](http://marketingbeforefunding.com/2012/06/25/advanced-social-listening-using-geolocation/)
+[![Advanced Social Listening Using Geolocation](/wp-content/uploads/2012/06/geolocal.png)](/2012/06/25/advanced-social-listening-using-geolocation/)
 
 You probably already know that _Twitter_ can be a great tool for listening to your current and potential customers. You can search for **keywords**, **brand mentions**, and other relevant things people may be talking about. But there's more to it!
 
@@ -60,7 +60,7 @@ For the sake of this example, I'll be using _[HootSuite](http://hootsuite.com)_,
 Search for something that matters to your business. Fox example, coffee.
 
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.26.34-AM.png)
+![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.26.34-AM.png)
 
 
 
@@ -69,10 +69,10 @@ Search for something that matters to your business. Fox example, coffee.
 #### 2. Narrow down your search.
 
 
-Use the tips from my "[How to Monitor Everything on Twitter](http://marketingbeforefunding.com/2010/09/05/how-to-monitor-everything-on-twitter/)" series to narrow down your search to questions about coffee. At this stage, tweets will be appearing from all over the world.
+Use the tips from my "[How to Monitor Everything on Twitter](/2010/09/05/how-to-monitor-everything-on-twitter/)" series to narrow down your search to questions about coffee. At this stage, tweets will be appearing from all over the world.
 
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.28.20-AM.png)
+![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.28.20-AM.png)
 
 
 
@@ -84,13 +84,13 @@ Use the tips from my "[How to Monitor Everything on Twitter](http://marketingbef
 As a local coffee shop owner, you probably don't care about what people think about coffee on the other side of the globe, so let's geolocate! **Click on that 'crosshair' button to share you location.** It is important that you do it _at the location of your coffee shop_.
 
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.22-AM.png)
+![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.22-AM.png)
 
 
 Once you've saved the changes, you'll have your **targeted local search results** in front of you. Now you can follow these people, engage with them, spark conversations, and drive sales.
 
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.29-AM.png)
+![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.29-AM.png)
 
 
 
@@ -102,14 +102,14 @@ Once you've saved the changes, you'll have your **targeted local search results*
 Sometimes, just one city is not enough. You may want to search for tweets at a number of places or want to cover a whole country. Unfortunately, there is no easy default way of doing this, but again geolocation comes to the rescue!
 
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.57-AM-500x170.png)](http://geocoder.ca)
+[![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.57-AM-500x170.png)](http://geocoder.ca)
 
 
 To search for tweets in cities other than your own, you need to find the geocodes of those cities. Use tools such as [GeoCoder.ca](http://geocoder.ca) and [Travelgis.com](http://www.travelgis.com/geocode/default.aspx) to find the codes, and then translate them into the format that works with _Twitter_: **geocode:LATITUDE,LONGITUDE,RADIUSkm**.
 
 Last thing you need to do is **replicate your search streams** with the new geocodes and enjoy targeted results. Here's an example for Vancouver (left) and Toronto:
 
-[caption id="attachment_265" align="aligncenter" width="500"][![](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM-500x287.png)](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM.png) Click to Enlarge[/caption]
+[caption id="attachment_265" align="aligncenter" width="500"][![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM-500x287.png)](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.57-AM.png) Click to Enlarge[/caption]
 
 If you want to **cover the whole country**, select a number of major cities, get their geocodes, and set up all necessary streams with large search radius.
 

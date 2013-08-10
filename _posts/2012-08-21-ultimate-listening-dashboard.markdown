@@ -16,10 +16,10 @@ tags:
 - Video
 ---
 
-[![Why Your Startup Needs an Ultimate Listening Dashboard](http://marketingbeforefunding.com/wp-content/uploads/2012/08/ULD-590x394.png)](http://marketingbeforefunding.com/2012/08/21/ultimate-listening-dashboard/)
+[![Why Your Startup Needs an Ultimate Listening Dashboard](/wp-content/uploads/2012/08/ULD-590x394.png)](/2012/08/21/ultimate-listening-dashboard/)
 
-Expert advice is sure [inspiring](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/).
-Theory is great too for [getting you on the right track](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/) from day one.
+Expert advice is sure [inspiring](/2012/08/07/startup-marketing-priorities/).
+Theory is great too for [getting you on the right track](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) from day one.
 
 **But this week I want you to take action!**
 
@@ -85,15 +85,15 @@ Let's do this!
 
 Go to [Netvibes.com](http://Netvibes.com), click the _Get Started_ button, and select _Go basic_.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.38.04-AM-590x219.png)](http://Netvibes.com)
+[![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.38.04-AM-590x219.png)](http://Netvibes.com)
 
 Enter your startup's name as the topic, and click _Dashboard it_.
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.40.50-AM-590x98.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.40.50-AM-590x98.png)
 
 You’ll be sent to a page with a variety of information from different sources.
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.11.04-AM-590x183.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.11.04-AM-590x183.png)
 
 It can be overwhelming, so let’s clean it up.
 
@@ -144,11 +144,11 @@ _Note: If you've just started your company, there won’t be many (or any) resul
 
 Go to Google and search for your own name (e.g. Mike Abasov). Choose to only search in the _News _and grab the RSS feed at the bottom.
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.12-AM-590x97.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.12-AM-590x97.png)
 
 Then go back to NetVibes, click _Add content_ → _Add a feed_, paste the RSS link, and click _Add feed_. Then drag and drop the new feed into your tab.
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.33-AM-590x146.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.33-AM-590x146.png)
 
 Repeat this step with** Google Blog Search**, **Yahoo! News**, **Bing News**, **Social Mention Blogs**, and any other relevant search engines.
 
@@ -179,7 +179,7 @@ Delete the default “Google: CompanyName” tab and rename the others according
 
 Now move all the feeds you've set up into the appropriate tabs. It should be pretty intuitive, but here’s a quick cheat-sheet of what you should have in the end.
 
-[![Matrix](http://marketingbeforefunding.com/wp-content/uploads/2012/08/uld1-copy.png)](http://marketingbeforefunding.com/wp-content/uploads/2012/08/uld1-copy.png)
+[![Matrix](/wp-content/uploads/2012/08/uld1-copy.png)](/wp-content/uploads/2012/08/uld1-copy.png)
 
 _Note: Some of these feeds are specific to English-speaking markets so make adjustments as needed._
 
@@ -196,7 +196,7 @@ We want the freedom to open multiple articles at once, so turn this setting on f
 All the other settings are don't matter much, so play around to find what you like. Here’s the way I do it.
 
 
-![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.29.31-AM.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.29.31-AM.png)
 
 
 Aaaand you’re done! You now have your own Ultimate Listening Dashboard!
@@ -209,7 +209,7 @@ Once set up, the dashboard will be informing you about any new content that need
 
 Here’s my process for every piece of content I discover.
 
-[![Process](http://marketingbeforefunding.com/wp-content/uploads/2012/08/mld2-copy.png)](http://marketingbeforefunding.com/wp-content/uploads/2012/08/mld2-copy.png)
+[![Process](/wp-content/uploads/2012/08/mld2-copy.png)](/wp-content/uploads/2012/08/mld2-copy.png)
 
 
 #### 1. Reading
@@ -259,7 +259,7 @@ Many companies have found ways to reward their fans with small, inexpensive gift
 
 For example, the guys over at [Hockey Community](http://hockey-community.com/) send hockey pucks that get photographed, Instagram’ed and shared all over the place.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Hockey-Community-puck-590x393.jpeg)](http://hockey-community.com/)
+[![](/wp-content/uploads/2012/08/Hockey-Community-puck-590x393.jpeg)](http://hockey-community.com/)
 
 If you were considering spending money on advertising, I suggest you look into such micro-rewards instead.
 

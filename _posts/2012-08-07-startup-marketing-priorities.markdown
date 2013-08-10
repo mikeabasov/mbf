@@ -17,7 +17,7 @@ tags:
 - Storytelling
 ---
 
-[![14 Renowned Experts Share Insanely Useful Startup Marketing Advice](http://marketingbeforefunding.com/wp-content/uploads/2012/08/14_MIDDLE_NODEN.png)](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)
+[![14 Renowned Experts Share Insanely Useful Startup Marketing Advice](/wp-content/uploads/2012/08/14_MIDDLE_NODEN.png)](/2012/08/07/startup-marketing-priorities/)
 
 What should be a startup's main focus when it comes to marketing? Where do you start? What matters and what doesn't?
 
@@ -59,7 +59,7 @@ And if you want to follow all of them on Twitter, [here's a list](https://twitte
 ### TONY HSIEH, CEO OF ZAPPOS
 
 
-![TonyHseih](http://marketingbeforefunding.com/wp-content/uploads/2012/08/TonyHseih-copy.jpeg)
+![TonyHseih](/wp-content/uploads/2012/08/TonyHseih-copy.jpeg)
 
 _"In the early days of the company (we were founded in 1999), we were unable to raise funding so we weren't able to spend a lot of money on expensive marketing campaigns. As a result, we were forced to focus more on our existing customers. What we found was that the more we invested into customer service and the customer experience, the more loyal they were, and the more we grew from word of mouth. Today, we take most of the money we would have spent on paid marketing or advertising and invest it into the customer experience instead."_
 
@@ -72,7 +72,7 @@ Follow [Tony on Twitter](http://twitter.com/zappos) or learn more about him at [
 ### DAVE OLSON, VP COMMUNITY AT HOOTSUITE
 
 
-![DaveOlson](http://marketingbeforefunding.com/wp-content/uploads/2012/08/DaveOlson-copy.jpeg)
+![DaveOlson](/wp-content/uploads/2012/08/DaveOlson-copy.jpeg)
 
 _"Start telling your story from day one. Archive and contextualize your artifacts, outreach to anyone who should be part of your community, and amplify what makes you interesting... long before you have product to launch."_
 
@@ -85,7 +85,7 @@ Follow [Dave on Twitter](http://twitter.com/daveohoots) or learn more about hi
 ### BOB WALSH, FOUNDER OF 47HATS
 
 
-![BobWalsh](http://marketingbeforefunding.com/wp-content/uploads/2012/08/BobWalsh-copy.png)
+![BobWalsh](/wp-content/uploads/2012/08/BobWalsh-copy.png)
 
 _"The number 1 priority for any startup is simple: You've got to get your product or service in front of at least a tiny slice of your hypothetical market and they have to respond with attention and enthusiasm._
 
@@ -108,7 +108,7 @@ Follow [Bob on Twitter](https://twitter.com/bobwalsh) or learn more about him a
 ### BRAD FELD, MANAGING DIRECTOR AT FOUNDRY GROUP
 
 
-![BradFeld](http://marketingbeforefunding.com/wp-content/uploads/2012/08/BradFeld-copy.jpeg)
+![BradFeld](/wp-content/uploads/2012/08/BradFeld-copy.jpeg)
 
 _"Create an amazing product that people want, love, and will tell everyone else on the planet about."_
 
@@ -121,7 +121,7 @@ Follow [Brad on Twitter](https://twitter.com/bfeld) or learn more about him at
 ### BRIAN WONG, FOUNDER AND CEO AT KIIP
 
 
-![BrianWong](http://marketingbeforefunding.com/wp-content/uploads/2012/08/BrianWong-copy.jpeg)
+![BrianWong](/wp-content/uploads/2012/08/BrianWong-copy.jpeg)
 
 _"Understand the "why" behind your business - it's much more important than just the "what". People need to understand the reasons behind your existence to believe in it as much as you - the more you can "inceptionize" folks that are around you - the more they'll be into believing the vision you're tackling and helping you do that."_
 
@@ -134,7 +134,7 @@ Follow [Brian on Twitter](https://twitter.com/brian_wong) or learn more about 
 ### BEN YOSKOVITZ, VP PRODUCT AT GOINSTANT
 
 
-![BenYoskovitz](http://marketingbeforefunding.com/wp-content/uploads/2012/08/BenYoskovitz-copy.jpeg)
+![BenYoskovitz](/wp-content/uploads/2012/08/BenYoskovitz-copy.jpeg)
 
 _"I'm not sure there's one specific priority that really precedes all others. For starters, I don't believe marketing plays a huge role for a startup until they've gotten product-market fit or very close to it; when they know (a) they've found a painful enough problem worth solving; and (b), they're delivering the appropriate solution. At that stage, it's time to market._
 
@@ -157,7 +157,7 @@ Follow [Ben on Twitter](https://twitter.com/byosko) or learn more about him at
 ### CHRIS GUILLEBEAU, AUTHOR OF "THE $100 STARTUP"
 
 
-![ChrisGuillebeau](http://marketingbeforefunding.com/wp-content/uploads/2012/08/ChrisGuillebeau-copy.jpeg)
+![ChrisGuillebeau](/wp-content/uploads/2012/08/ChrisGuillebeau-copy.jpeg)
 
 _"1a. Somehow acquire 5 customers, even if they are non-paying ones at first._
 
@@ -175,7 +175,7 @@ Follow [Chris on Twitter](http://twitter.com/chrisguillebeau) or learn more ab
 ### IAN WALKER, USER ENGAGEMENT MANAGER AT PERCH
 
 
-![IanWalker](http://marketingbeforefunding.com/wp-content/uploads/2012/08/IanWalker-copy.jpeg)
+![IanWalker](/wp-content/uploads/2012/08/IanWalker-copy.jpeg)
 
 _"Marketers in startups rarely do just marketing. If you're in a startup you're probably wearing at least 5 or 6 different hats a day. Whether it's building hype around your product, recruiting, or finding leads for your company, it's all part of the gig. And since you're probably spread so thin, prioritizing your tasks on the marketing side of things is key. So where do the efforts go? Well, whether you're putting in your first line of code, or pushing your first pixel, your focus should be directed on building an audience._
 
@@ -218,7 +218,7 @@ Follow [Ian on Twitter](https://twitter.com/walkerian) or find out more about hi
 ### DARIO MELI, CO-CEO AT INVOKE MEDIA
 
 
-![DarioMeli](http://marketingbeforefunding.com/wp-content/uploads/2012/08/DarioMeli-copy.jpeg)
+![DarioMeli](/wp-content/uploads/2012/08/DarioMeli-copy.jpeg)
 
 _"Create the most amazing product, service, or experience. PR, social, ads, all come second."_
 
@@ -231,7 +231,7 @@ Follow [Dario on Twitter](https://twitter.com/quikness) or find out more about
 ### BORIS WERTZ, EARLY-STAGE INVESTOR THROUGH VERSION ONE VENTURES
 
 
-![BorisWertz](http://marketingbeforefunding.com/wp-content/uploads/2012/08/Boris-Wertz-copy.jpeg)
+![BorisWertz](/wp-content/uploads/2012/08/Boris-Wertz-copy.jpeg)
 
 _"The number one marketing priority for any start-up is to figure out a clear communication strategy for the brand and the product – the message must be simple, clear and differentiated. Users must understand right away what problem the product solves and why they should use it and engage with it. And hopefully you also take this communication opportunity to show a bit of personality!"_
 
@@ -244,7 +244,7 @@ Follow [Boris on Twitter](https://twitter.com/bwertz) or learn more about him a
 ### GREG CIOTTI, CONTENT STRATEGIST AT HELPSCOUT
 
 
-![GregCiotti](http://marketingbeforefunding.com/wp-content/uploads/2012/08/GregCiotti-copy.png)
+![GregCiotti](/wp-content/uploads/2012/08/GregCiotti-copy.png)
 
 _"From where I'm standing, the #1 marketing priority for a new startup is to establish the all-important "content funnel" to drive visitors back to their site without relying on advertising. I may be a bit biased as I'm the content strategist at [HelpScout](https://www.helpscout.net/), but many other fantastic startups (notably the BufferApp) have succeeded in using free content to convert to paying customers._
 
@@ -287,7 +287,7 @@ Follow [Greg on Twitter](https://twitter.com/GregoryCiotti) or learn more about
 ### JON CARTWRIGHT, CO-FOUNDER AND CEO AT FOOD.EE
 
 
-![JonCartwright](http://marketingbeforefunding.com/wp-content/uploads/2012/08/JonCartwright-copy.jpeg)
+![JonCartwright](/wp-content/uploads/2012/08/JonCartwright-copy.jpeg)
 
 _"Find people who are screaming for help solving their pain and then target your product and messaging to them."_
 
@@ -300,7 +300,7 @@ Follow [Jon on Twitter](https://twitter.com/jon_cartwright) or learn more about 
 ### RYAN HOLMES, CO-FOUNDER AND CEO AT HOOTSUITE
 
 
-![RyanHolmes](http://marketingbeforefunding.com/wp-content/uploads/2012/08/RyanHolmes-copy.jpeg)
+![RyanHolmes](/wp-content/uploads/2012/08/RyanHolmes-copy.jpeg)
 
 _"The #1 marketing priority should be building a marketing channel. You need a way to communicate with your customers whether that's an email list, a twitter account, or a fan page, you need a way to distribute information down the road to the people who can help share your story."_
 
@@ -313,7 +313,7 @@ Follow [Ryan on Twitter](https://twitter.com/invoker) or learn more about his w
 ### RAY KANANI, FOUNDER AND CEO AT SMART PICS
 
 
-![RayKanani](http://marketingbeforefunding.com/wp-content/uploads/2012/08/RayKanani-copy.jpeg)
+![RayKanani](/wp-content/uploads/2012/08/RayKanani-copy.jpeg)
 
 _"Care about the problem you are solving!_
 

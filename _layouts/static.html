@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>{{ page.title }} - {{ site.name }}</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+        <!-- Custom Fonts -->
+        <link
+            href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Montserrat:400,700&subset=latin,cyrillic'
+            rel='stylesheet'
+            type='text/css'>
+
+        <link rel="stylesheet" media="all" type="text/css" href="/css/core.css">
+    </head>
+    <body>
+
+        {% include header.html %}
+
+        {% if page.featured %}
+        <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
+        {% else %}
+        <section class="section-headline" style="background-image: url('/img/featured/back3.jpg')">
+        {% endif %}
+            <div class="grid-container">
+                <div class="grid-65 suffix-35 tablet-grid-70 suffix-30">
+                        <h1>
+                            {% if page.headline %}
+                                {{ page.headline }}
+                            {% else %}
+                                {{ page.title }}
+                            {%endif %}
+                        </h1>
+                        <p class="post-meta">{{ page.summary }}
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="grid-container">
+                <div class="grid-60 tablet-grid-60 post-content">
+                            {{ content }}
+                </div>
+                <div class="grid-35 tablet-grid-35 prefix-5 tablet-prefix-5 sidebar">
+                            {% include sidebar-subscriber.html %}
+
+                            {% include sidebar-popular.html %}
+
+                            {% include sidebar-classic.html %}
+                </div>
+            </div>
+        </section>
+
+        {% include footer.html %}
+
+        {% include scripts.html %}
+
+    </body>
+</html>

@@ -21,11 +21,11 @@ I use _[HootSuite](http://hootsuite.com)_ for this, and I think that this is t
 It is this easy: in 2 clicks and 1 character I turned many tweets that I can't work with into a few engageable ones.
 
 
-![Twitter Engagement with HootSuite](http://marketingbeforefunding.com/wp-content/uploads/2012/06/tumblr_l86lz70teA1qa9j4k.png)
+![Twitter Engagement with HootSuite](/wp-content/uploads/2012/06/tumblr_l86lz70teA1qa9j4k.png)
 
 
 Don't get me wrong. I still have fun reading the other tweets, but when I don't have much time, I use this super-simple and super-efficient tip to start engaging is seconds!
 
 What super-tips do you have?
 
-Aslo check out my “[How to monitor everything on _Twitter_](http://marketingbeforefunding.com/2010/09/05/how-to-monitor-everything-on-twitter/)” series.
+Aslo check out my “[How to monitor everything on _Twitter_](/2010/09/05/how-to-monitor-everything-on-twitter/)” series.

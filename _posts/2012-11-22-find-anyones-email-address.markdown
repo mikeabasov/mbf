@@ -13,7 +13,7 @@ tags:
 - Tools
 ---
 
-![The Bulletproof Method for Finding Email Addresses of Influential People](http://marketingbeforefunding.com/wp-content/uploads/2012/11/email.png)
+![The Bulletproof Method for Finding Email Addresses of Influential People](/wp-content/uploads/2012/11/email.png)
 
 As entrepreneurs, we often have to hustle hard to reach influential people in our industry.
 
@@ -27,7 +27,7 @@ Sometimes, we get an introduction from a friend or an acquaintance. Other times,
 
 But you know what influential people all have in common? They rarely disclose their contact information.
 
-For example, to write my "[14 Renowned Experts […]](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)" post, I had to reach out to about 60 influential founders and startup marketers in North America.
+For example, to write my "[14 Renowned Experts […]](/2012/08/07/startup-marketing-priorities/)" post, I had to reach out to about 60 influential founders and startup marketers in North America.
 
 Of course, I didn't know most of them, so cold emailing was the way to go. But once I started researching my targets, I realized that I'll have to get creative to get their contact information.
 
@@ -101,7 +101,7 @@ See where I'm going with this?
 
 Here's an example, using my contacts…
 
-![Rapportive Email Insights](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-7.03.39-PM.png)
+![Rapportive Email Insights](/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-7.03.39-PM.png)
 
 Now, all you need to do is test out every email address on your list and see which one is in use. It's that easy.
 
@@ -143,7 +143,7 @@ Here's another idea. This one comes from Brian Wong of [Kiip](http://www.kiip.me
 
 Just compose your message and then type in all of those variations into the "Bcc" field. Then, take the address with the most potential to be real and type it into the "To" field.
 
-![Using Bcc to guess email adresses](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-6.42.05-PM.png)
+![Using Bcc to guess email adresses](/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-6.42.05-PM.png)
 
 **This way, when you send your email, there's a high probability that at least one of the addresses will work, and you'll reach your target.**
 
@@ -163,7 +163,7 @@ But if you want to avoid such premature outreach, you can try a couple of other 
 
 First, you can add your marks on LinkedIn. If they approve your request, you'll get access to all of her contact information. But if they don't, you're facing a penalty from this social network.
 
-![Gary Vaynerchuk's Contact Information on LinkedIn](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-7.09.21-PM-590x433.png)
+![Gary Vaynerchuk's Contact Information on LinkedIn](/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-7.09.21-PM-590x433.png)
 
 So before you click "Connect," make sure that the person has 500+ contacts, which usually means that they aren't particularly selective about who makes her acquaintance.
 
@@ -177,7 +177,7 @@ If you can find the person's profile, check if they have a short vanity URL. Min
 
 **Now, every user who has such a nice looking link, gets a similar email address as well, such as abasov [at] facebook.com.**
 
-![Sending Emails to Other Inbox on Facebook](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-12.15.28-AM.png)
+![Sending Emails to Other Inbox on Facebook](/wp-content/uploads/2012/11/Screen-Shot-2012-11-21-at-12.15.28-AM.png)
 
 The messages you send to such addresses will land into the person's "Other" inbox. And truth be told, they often go unnoticed. So I would only use this tactic as the last resort.
 

@@ -14,7 +14,7 @@ tags:
 - Lessons
 ---
 
-[![4 Vital Lessons for Marketing Professionals Going Startup](http://marketingbeforefunding.com/wp-content/uploads/2012/09/goingstartup-590x324.png)](http://marketingbeforefunding.com/2012/09/19/lessons-for-marketers-going-startup/)
+[![4 Vital Lessons for Marketing Professionals Going Startup](/wp-content/uploads/2012/09/goingstartup-590x324.png)](/2012/09/19/lessons-for-marketers-going-startup/)
 
 
 
@@ -147,7 +147,7 @@ What really matters, however, is that Dropbox did something new and unique with 
 
 
 
-And even if they had failed, there was nothing huge at stake. They could've tried again on a different platform or with a [different story](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/).
+And even if they had failed, there was nothing huge at stake. They could've tried again on a different platform or with a [different story](/2012/08/28/startup-storytelling-mistakes/).
 
 
 

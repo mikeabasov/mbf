@@ -14,7 +14,7 @@ tags:
 - Tools
 ---
 
-[![Telepathy and 5 Other Ways to Collect Actionable User Feedback](http://marketingbeforefunding.com/wp-content/uploads/2012/11/telepathy-590x393.png)](http://marketingbeforefunding.com/2012/11/07/collecting-user-feedback/telepathy/)
+[![Telepathy and 5 Other Ways to Collect Actionable User Feedback](/wp-content/uploads/2012/11/telepathy-590x393.png)](/2012/11/07/collecting-user-feedback/telepathy/)
 
 How good is your big idea? How good are your small ones? Your new features? Is your startup solving a real problem? Who are your most loyal customers?…
 
@@ -175,7 +175,7 @@ My faves are Google Forms for simple surveys and Qualtrics for the more advanced
 
 Right before canceling, a little form popped out asking why I was leaving. It's a simple one-question survey, but I'm sure it helps DailyBurn's team improve its product.
 
-![DailyBurn collects feedback through a quick survey](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-10-30-at-1.05.30-AM-590x505.png)
+![DailyBurn collects feedback through a quick survey](/wp-content/uploads/2012/11/Screen-Shot-2012-10-30-at-1.05.30-AM-590x505.png)
 
 Some of the possible reasons for quitting were technical. Others suggest a possible substitute or a flaw in the product. But overall, this answer is all that the company needs to know. Not more. Not less.
 
@@ -236,7 +236,7 @@ Social networks, forums and blogs often make for a great debate panel when it co
 #### Start by listening.
 
 
-Monitor blogs, comments and social networks for relevant keywords and study all conversations and reviews that are being posted. Check out my tutorial on how to build an [Ultimate Listening Dashboard](http://marketingbeforefunding.com/2012/08/21/ultimate-listening-dashboard/) for your business and start.
+Monitor blogs, comments and social networks for relevant keywords and study all conversations and reviews that are being posted. Check out my tutorial on how to build an [Ultimate Listening Dashboard](/2012/08/21/ultimate-listening-dashboard/) for your business and start.
 
 
 #### Go onto engaging.
@@ -261,7 +261,7 @@ Many users will be happy to share their ideas and suggestions with you as long a
 
 The tools work well even with mobile apps and allow you to see which features your customers really want and what issues they are experiencing. You can crowdsource ideas for your project and troubleshoot problems at the same time.
 
-[![HootSuite collects feedback using UserVoice](http://marketingbeforefunding.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-06-at-1.36.11-PM-590x168.png)](http://feedback.hootsuite.com/forums/40182-hootsuite-com-web-dashboard/status/224928)
+[![HootSuite collects feedback using UserVoice](/wp-content/uploads/2012/11/Screen-Shot-2012-11-06-at-1.36.11-PM-590x168.png)](http://feedback.hootsuite.com/forums/40182-hootsuite-com-web-dashboard/status/224928)
 
 [HootSuite](http://hootsuite.com) is known for using UserVoice to find the most demanded features for their products. They later implement those features if possible, which makes customers not only feel happy but also feel a sense of ownership of the product.
 

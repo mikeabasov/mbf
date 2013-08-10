@@ -17,7 +17,7 @@ tags:
 - Events
 ---
 
-[![Get Involved in Your Startup Community](http://marketingbeforefunding.com/wp-content/uploads/2013/03/stop-browsing-techcrunch-590x393.png)](http://marketingbeforefunding.com/2013/03/05/stop-browsing-techcrunch-get-involved-in-your-startup-community/)
+[![Get Involved in Your Startup Community](/wp-content/uploads/2013/03/stop-browsing-techcrunch-590x393.png)](/2013/03/05/stop-browsing-techcrunch-get-involved-in-your-startup-community/)
 
 A couple of weeks ago, I went out to get a few beers with a friend of mine. He's working for a big corporation, but over the last year has become really interested in startups.
 
@@ -131,7 +131,7 @@ It helps if you have met them online or offline beforehand. It helps if you can 
 
 But don't be afraid to reach out to those you don't know. Just be honest, straightforward and people will understand.
 
-_(if you're in Vancouver, you can [start with me](http://marketingbeforefunding.com/contact/).)_
+_(if you're in Vancouver, you can [start with me](/contact/).)_
 
 
 

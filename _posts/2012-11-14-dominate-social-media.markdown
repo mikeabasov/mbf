@@ -16,7 +16,7 @@ tags:
 - Video
 ---
 
-[![How to Dominate Social Media with HootSuite [VIDEO]](http://marketingbeforefunding.com/wp-content/uploads/2012/11/highres_177627112-1-590x355.jpeg)](http://marketingbeforefunding.com/2012/11/14/dominate-social-media/)
+[![How to Dominate Social Media with HootSuite [VIDEO]](/wp-content/uploads/2012/11/highres_177627112-1-590x355.jpeg)](/2012/11/14/dominate-social-media/)
 
 Social media can be extremely powerful for business. Everyone knows that by now. But...
 

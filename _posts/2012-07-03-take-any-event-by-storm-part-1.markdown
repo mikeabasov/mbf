@@ -16,7 +16,7 @@ tags:
 - Twitter
 ---
 
-[![How to Take any Event by Storm with Social Media](http://marketingbeforefunding.com/wp-content/uploads/2012/07/storm1.png)](http://marketingbeforefunding.com/2012/07/03/take-any-event-by-storm-part-1/)
+[![How to Take any Event by Storm with Social Media](/wp-content/uploads/2012/07/storm1.png)](/2012/07/03/take-any-event-by-storm-part-1/)
 
 In March 2011, HootSuite was named one of the [TOP 5 most talked about brands](http://radar.oreilly.com/2011/03/sxsw-champion-2011.html) at SXSW Interactive Festival. I wish I could take credit for that, but I wasn't actually on the ground with the team. I was managing social media outreach from the headquarters and helping the team make the most impact.
 
@@ -46,7 +46,7 @@ Also write down the **name of the event** in all of its variations. Is there an�
 The foundation for social media listening are Twitter lists. They allow you to **track conversations** about the event and **get acquainted** with the attendees beforehand.
 
 
-![Setting up Twitter Lists](http://marketingbeforefunding.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.46.41-AM.png)
+![Setting up Twitter Lists](/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.46.41-AM.png)
 
 
 Create a **new public list dedicated to the event** and add the official accounts and yourself to it. Then look up everyone who's attending (their Twitter handles) and add them to the list as well. Here are some ideas to get you started:
@@ -80,18 +80,18 @@ Make a point of creating the **most complete list possible**. It _always_ proves
 
 Use one of the social media dashboards to **set up search streams** for the event. I recommend [HootSuite](http://hootsuite.com), but others such as [TweetDeck](http://tweetdeck.com) will work just fine.
 
-Remember the information you got from Step 1? Search for the name of the event in all variations and [filter results](http://marketingbeforefunding.com/2010/09/08/how-to-monitor-your-topic-on-twitter/) until you reach a sweet spot.
+Remember the information you got from Step 1? Search for the name of the event in all variations and [filter results](/2010/09/08/how-to-monitor-your-topic-on-twitter/) until you reach a sweet spot.
 
 
-![HootSuite Event Search](http://marketingbeforefunding.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.50.57-AM.png)
+![HootSuite Event Search](/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.50.57-AM.png)
 
 
-Try using [geolocated searches](http://marketingbeforefunding.com/2012/06/25/advanced-social-listening-using-geolocation/) too; they are particularly useful if the event happens in many cities on the same day (e.g. [Social Media Day](http://meetup.com/mashable)).
+Try using [geolocated searches](/2012/06/25/advanced-social-listening-using-geolocation/) too; they are particularly useful if the event happens in many cities on the same day (e.g. [Social Media Day](http://meetup.com/mashable)).
 
 Don't forget to **set up searches for the event's hashtag**. If you couldn't find an official one, check your Twitter list for alternatives. No luck? Then come up with a hashtag yourself! Keep it _simple_ and _short_, yet _descriptive_. Then use it for all relevant tweets, and others will follow.
 
 
-![HootSuite Event Search Stream](http://marketingbeforefunding.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.54.08-AM.png)
+![HootSuite Event Search Stream](/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.54.08-AM.png)
 
 
 Goes without saying that **everyone you find in your search streams** should be followed and listed up.
@@ -116,7 +116,7 @@ If you have a blog, **write a post about the upcoming event**. Then promote it t
 
 
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.56.53-AM-500x291.png)](http://blog.hootsuite.com/sxsw2011/)
+[![](/wp-content/uploads/2012/07/Screen-Shot-2012-07-02-at-2.56.53-AM-500x291.png)](http://blog.hootsuite.com/sxsw2011/)
 
 
 
@@ -149,7 +149,7 @@ Again, this is not about you promoting yourself. It's about **giving something t
 #### 7. Schedule updates in advance.
 
 
-Live tweeting and facebooking [during any event](http://marketingbeforefunding.com/2012/07/04/take-any-event-by-storm-part-2/) is tough. Make it easier on yourself and schedule some of the updates before you head out.
+Live tweeting and facebooking [during any event](/2012/07/04/take-any-event-by-storm-part-2/) is tough. Make it easier on yourself and schedule some of the updates before you head out.
 
 
 [![Business Calendar & Schedule](http://farm8.staticflickr.com/7030/6812481635_ed463ae1fa.jpg)](http://www.flickr.com/photos/42931449@N07/6812481635/)
@@ -163,4 +163,4 @@ For example, you can share the link to your list or other useful resources. If 
 
 Preparations are important, but what about the actual event? How do you not get overwhelmed by all the tweets? What should you be sharing and how often? How can you make the most impact?
 
-[Find answers to these and other questions in Part Two!](http://marketingbeforefunding.com/2012/07/04/take-any-event-by-storm-part-2/) Meanwhile, post your event stories in the comments below and **share this page with friends and colleagues**!
+[Find answers to these and other questions in Part Two!](/2012/07/04/take-any-event-by-storm-part-2/) Meanwhile, post your event stories in the comments below and **share this page with friends and colleagues**!

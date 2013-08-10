@@ -14,7 +14,7 @@ tags:
 - Storytelling
 ---
 
-[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](http://marketingbeforefunding.com/wp-content/uploads/2012/08/sld-590x394.png)](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](/wp-content/uploads/2012/08/sld-590x394.png)](/2012/08/28/startup-storytelling-mistakes/)
 
 **Let me start with a question: What is your startup’s story?**
 

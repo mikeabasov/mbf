@@ -12,7 +12,7 @@ categories:
 - Remarkable Products
 ---
 
-[![8 Rules of Kickass Startup Marketing](http://marketingbeforefunding.com/wp-content/uploads/2012/08/1246790051_db893534c3_b-590x396.jpeg)](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/)
+[![8 Rules of Kickass Startup Marketing](/wp-content/uploads/2012/08/1246790051_db893534c3_b-590x396.jpeg)](/2012/08/14/the-8-rules-of-kickass-startup-marketing/)
 
 
 
@@ -23,7 +23,7 @@ Let me say a few words before we begin. I launched this blog only a week ago, 
 
 **Thank you so much** for becoming a part of our new community of entrepreneurs and marketers! We have a lot to discuss and learn in the coming months, and by “we” I mean you and I 'cause this is a two-way conversation.
 
-If you have any feedback, questions, or otherwise input, don’t hesitate to leave comments or [contact me directly](http://marketingbeforefunding.com/contact/). And if you haven't done it already, you can also [quickly subscribe to our newsletter](http://eepurl.com/ou0tv) for updates and exclusive content.
+If you have any feedback, questions, or otherwise input, don’t hesitate to leave comments or [contact me directly](/contact/). And if you haven't done it already, you can also [quickly subscribe to our newsletter](http://eepurl.com/ou0tv) for updates and exclusive content.
 
 
 
@@ -57,7 +57,7 @@ In order to build something remarkable, you have to go beyond just solving someb
 
 This can be accomplished through design, copywriting, customer service, and many other ways, all of which fall under the umbrella of marketing.
 
-[caption id="attachment_705" align="aligncenter" width="580"][![Dropbox offers much more than just utility. Its copywriting is brilliant.](http://marketingbeforefunding.com/wp-content/uploads/2012/08/dropbox-copy.png)](http://blog.hubspot.com/blog/tabid/6307/bid/33441/10-Companies-That-Totally-Nail-Copywriting.aspx) Dropbox offers much more than just utility. It's copywriting is brilliantly simple.[/caption]
+[caption id="attachment_705" align="aligncenter" width="580"][![Dropbox offers much more than just utility. Its copywriting is brilliant.](/wp-content/uploads/2012/08/dropbox-copy.png)](http://blog.hubspot.com/blog/tabid/6307/bid/33441/10-Companies-That-Totally-Nail-Copywriting.aspx) Dropbox offers much more than just utility. It's copywriting is brilliantly simple.[/caption]
 
 
 Before, marketing used to be separate from product development (not counting market research). 
@@ -75,9 +75,9 @@ It’s easy to get lost in tactics and tools when deciding how to market your st
 
 **Before you can select the right tools for your startup, you need to decide what your goals are.**
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/3145391821_f9d93e842d_z-590x393.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
+[![](/wp-content/uploads/2012/08/3145391821_f9d93e842d_z-590x393.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
 
-First, think in broad, [big picture](http://marketingbeforefunding.com/category/big-picture-stuff/), terms, but then also go into detail when working on something like you social media or content strategy.
+First, think in broad, [big picture](/category/big-picture-stuff/), terms, but then also go into detail when working on something like you social media or content strategy.
 
 I like using the [S.M.A.R.T. framework](http://www.projectsmart.co.uk/smart-goals.html) for goal-setting. They need to be:
 
@@ -149,7 +149,7 @@ _Side note: Theories and Whys are not the same thing. Because of this, formal ed
 
 One of the core principles in [Eric Ries’ “Lean Startup” methodology](http://theleanstartup.com/principles) is the build-measure-learn feedback loop.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/methodology_diagram-590x381.jpeg)](http://theleanstartup.com/principles)
+[![](/wp-content/uploads/2012/08/methodology_diagram-590x381.jpeg)](http://theleanstartup.com/principles)
 
 First you take your ideas, **build** a product or a part of it, and put it out into the world. Then you **measure** data, talk to customers, split test, and see what happens. Finally, you take all that feedback, analyze it, **learn** from it, and decide what to do next.
 
@@ -190,9 +190,9 @@ So do it! **Dump the 80% of marketing that doesn’t work** and reinvest those r
 
 Your network is one of the greatest assets you can have. Your friends, acquaintances, and advisors will help you improve your marketing and spread the word about your product.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/5090069380_e93d381635_z-590x393.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
+[![](/wp-content/uploads/2012/08/5090069380_e93d381635_z-590x393.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
 
-Connect with the right people and you will receive [free advice](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/), introductions to the influencers and the media, and otherwise get help.
+Connect with the right people and you will receive [free advice](/2012/08/07/startup-marketing-priorities/), introductions to the influencers and the media, and otherwise get help.
 
 Of course, I’m not suggesting you make friends for the sake of using them. I’m just saying that **you shouldn’t be shy about reaching out to the people you know for help**.
 

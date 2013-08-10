@@ -15,9 +15,9 @@ tags:
 - Twitter
 ---
 
-[![How to Take any Event by Storm [Part 3]](http://marketingbeforefunding.com/wp-content/uploads/2012/07/storm3.png)](http://marketingbeforefunding.com/2012/07/05/take-any-event-by-storm-part-3/)
+[![How to Take any Event by Storm [Part 3]](/wp-content/uploads/2012/07/storm3.png)](/2012/07/05/take-any-event-by-storm-part-3/)
 
-_This is Part Three of my bullet-proof guide to attending events like a rockstar. Check out Part One for [what to do before an event](http://marketingbeforefunding.com/2012/07/03/take-any-event-by-storm-part-1/) and Part Two for [what to do during the event](http://marketingbeforefunding.com/2012/07/04/take-any-event-by-storm-part-2/)._
+_This is Part Three of my bullet-proof guide to attending events like a rockstar. Check out Part One for [what to do before an event](/2012/07/03/take-any-event-by-storm-part-1/) and Part Two for [what to do during the event](/2012/07/04/take-any-event-by-storm-part-2/)._
 
 Ok, this is the last part! You prepared for your event; you went there; you rocked everyone's world. Now let's talk about the after-event social marketing, and this is where you get real differentiation!
 
@@ -91,7 +91,7 @@ If you did everything right, you must have a lot of photos and videos taken. Sel
 Now start posting** one group of photos per day** on your Facebook and/or Flickr. Then share the link to the pictures over Twitter, LinkedIn and Google+.
 
 
-![HootUp on Facebook](http://marketingbeforefunding.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-2.19.54-AM.png)
+![HootUp on Facebook](/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-2.19.54-AM.png)
 
 
 This way you will have **engaging content each day** and people will keep coming back for more. Do this over the course of two weeks max, until everything is uploaded.

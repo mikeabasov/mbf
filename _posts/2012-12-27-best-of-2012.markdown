@@ -12,7 +12,7 @@ tags:
 - Resources
 ---
 
-[![Top 10 Best Startup Marketing Resources of 2012](http://marketingbeforefunding.com/wp-content/uploads/2012/12/bestof2012-590x390.png)](http://marketingbeforefunding.com/2012/12/27/best-of-2012/)
+[![Top 10 Best Startup Marketing Resources of 2012](/wp-content/uploads/2012/12/bestof2012-590x390.png)](/2012/12/27/best-of-2012/)
 
 2012 was a great year for startups, and there were plenty of cool articles, videos, blog posts and other resources created by marketing experts to help entrepreneurs grow their companies.
 
@@ -108,34 +108,34 @@ KISSmetrics runs one of my favourite marketing blogs focusing on startups. And o
 As promised, here's a list of the best posts on Marketing Before Funding this year. Note that we've only been live since August, so there was less content to choose from.
 
 
-#### 5. ["Corporate Identity Essentials for Startups" ebook](http://marketingbeforefunding.com/2012/10/18/ebook/)
+#### 5. ["Corporate Identity Essentials for Startups" ebook](/2012/10/18/ebook/)
 
 
-This small free ebook has potential to help your startup rock a sweet corporate identity without spending a fortune. [Get a copy >>](http://marketingbeforefunding.com/2012/10/18/ebook/)
+This small free ebook has potential to help your startup rock a sweet corporate identity without spending a fortune. [Get a copy >>](/2012/10/18/ebook/)
 
 
-#### 4. [How to Start Marketing Your Startup While in Stealth Mode](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/)
+#### 4. [How to Start Marketing Your Startup While in Stealth Mode](/2012/09/12/marketing-in-stealth-mode/)
 
 
-What I expected to be a very controversial post (I argued that there are situations when going stealth is a smart decision), ended up being positively received by readers and media alike. [Learn more >>](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/)
+What I expected to be a very controversial post (I argued that there are situations when going stealth is a smart decision), ended up being positively received by readers and media alike. [Learn more >>](/2012/09/12/marketing-in-stealth-mode/)
 
 
-#### 3. [Five Storytelling Mistakes to Avoid when Marketing Your Startup](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+#### 3. [Five Storytelling Mistakes to Avoid when Marketing Your Startup](/2012/08/28/startup-storytelling-mistakes/)
 
 
-This article covers what storytelling is, why it is a powerful marketing tool and how avoid some of the most common mistakes associated with it. [Read on >>](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+This article covers what storytelling is, why it is a powerful marketing tool and how avoid some of the most common mistakes associated with it. [Read on >>](/2012/08/28/startup-storytelling-mistakes/)
 
 
-#### 2. [Sixteen Ways to Write Kickass Copy for Your Startup](http://marketingbeforefunding.com/2012/09/26/ways-to-improve-copywriting/)
+#### 2. [Sixteen Ways to Write Kickass Copy for Your Startup](/2012/09/26/ways-to-improve-copywriting/)
 
 
-With this post, I tried to compile most of my knowledge about copywriting into one practical guide. There are tips, tricks, "big picture" ideas and everything in-between. [Check it out >>](http://marketingbeforefunding.com/2012/09/26/ways-to-improve-copywriting/)
+With this post, I tried to compile most of my knowledge about copywriting into one practical guide. There are tips, tricks, "big picture" ideas and everything in-between. [Check it out >>](/2012/09/26/ways-to-improve-copywriting/)
 
 
-#### 1. [Fourteen Renowned Experts Share Insanely Useful Startup Marketing Advice](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)
+#### 1. [Fourteen Renowned Experts Share Insanely Useful Startup Marketing Advice](/2012/08/07/startup-marketing-priorities/)
 
 
-Without a doubt, this is the biggest post on MBF this year as it has resonated with lots and lots of entrepreneurs around the world. In this massive article, Tony Hsieh, Brad Feld, Ryan Holmes and others shared their thoughts and insights about impactful startup marketing. So if you haven't read it already, you're really missing out! [Catch up and read it >>](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)
+Without a doubt, this is the biggest post on MBF this year as it has resonated with lots and lots of entrepreneurs around the world. In this massive article, Tony Hsieh, Brad Feld, Ryan Holmes and others shared their thoughts and insights about impactful startup marketing. So if you haven't read it already, you're really missing out! [Catch up and read it >>](/2012/08/07/startup-marketing-priorities/)
 
 
 

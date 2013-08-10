@@ -19,7 +19,7 @@ tags:
 To monitor effectively, HootSuite allows you to save your **search queries** as **streams**. Also, as you might have many and many different queries, you can use **tabs** to combine and divide everything into groups. This allows you to keep track of everything without any mess.
 
 
-![Monitor Twitter with HootSuite](http://marketingbeforefunding.com/wp-content/uploads/2012/06/tumblr_l8d62vyhZa1qa9j4k.png)
+![Monitor Twitter with HootSuite](/wp-content/uploads/2012/06/tumblr_l8d62vyhZa1qa9j4k.png)
 
 
 For example, you can create tabs for the mentions of your startup, about your industry, and/or about your competitors. **Monitoring Twitter can be really easy or really complex.**
@@ -29,12 +29,12 @@ So this week, I've decided to share some simple **Twitter monitoring techniques
 
 
 	
-  * [How to Monitor Your Brand on Twitter](http://marketingbeforefunding.com/2010/09/07/how-to-monitor-your-brand-on-twitter/)
+  * [How to Monitor Your Brand on Twitter](/2010/09/07/how-to-monitor-your-brand-on-twitter/)
 
 	
-  * [How to Monitor Your Topic on Twitter](http://marketingbeforefunding.com/2010/09/08/how-to-monitor-your-topic-on-twitter/)
+  * [How to Monitor Your Topic on Twitter](/2010/09/08/how-to-monitor-your-topic-on-twitter/)
 
 	
-  * [How to Monitor Your Competition on Twitter](http://marketingbeforefunding.com/2010/09/09/how-to-monitor-your-competition-on-twitter/)
+  * [How to Monitor Your Competition on Twitter](/2010/09/09/how-to-monitor-your-competition-on-twitter/)
 
 

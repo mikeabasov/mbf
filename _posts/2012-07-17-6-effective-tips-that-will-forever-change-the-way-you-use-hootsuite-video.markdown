@@ -15,7 +15,7 @@ tags:
 - Video
 ---
 
-[![6 Effective Tips that Will Forever Change the Way You Use HootSuite [VIDEO]](http://marketingbeforefunding.com/wp-content/uploads/2012/07/hootsuite.png)](http://marketingbeforefunding.com/2012/07/17/6-effective-tips-that-will-forever-change-the-way-you-use-hootsuite-video/)
+[![6 Effective Tips that Will Forever Change the Way You Use HootSuite [VIDEO]](/wp-content/uploads/2012/07/hootsuite.png)](/2012/07/17/6-effective-tips-that-will-forever-change-the-way-you-use-hootsuite-video/)
 
 As many of you may know, I'm a huge [HootSuite](http://hootsuite.com) fan. Maybe, it's because I used to work there, but I tend to think that it's just 'cause their product is so damn good.
 
@@ -71,7 +71,7 @@ So **set your tabs to manual refresh** and never miss a post! To do so, click on
 ### 5. Narrow Down Search Results
 
 
-I've written about this before in "[How to Monitor Your Topic on Twitter](http://marketingbeforefunding.com/2010/09/08/how-to-monitor-your-topic-on-twitter/)," but here's a quick summary of cool** search filters** that few people know about:
+I've written about this before in "[How to Monitor Your Topic on Twitter](/2010/09/08/how-to-monitor-your-topic-on-twitter/)," but here's a quick summary of cool** search filters** that few people know about:
 
 
 
@@ -85,7 +85,7 @@ I've written about this before in "[How to Monitor Your Topic on Twitter](http:/
   * **?. **Perfect for finding questions you can answer and engage with quickly.
 
 	
-  * And, of course **[geolocation filtering](http://marketingbeforefunding.com/2012/06/25/advanced-social-listening-using-geolocation/)**, my personal fave.
+  * And, of course **[geolocation filtering](/2012/06/25/advanced-social-listening-using-geolocation/)**, my personal fave.
 
 
 
@@ -95,7 +95,7 @@ I've written about this before in "[How to Monitor Your Topic on Twitter](http:/
 
 Your Home Feed can be filtered live by keywords or [Klout score](http://klout.com). This allows you to quickly identify valuable tweets in a sea of #humblebrags. In the top right corner of the Home Feed, click on the arrow, select "Filter by..." and set it up to your preference.
 
-I don't usually use the **Klour score filter**, but I often narrow down my search by a question mark ("?"). This allows me to [engage with people in seconds](http://marketingbeforefunding.com/2010/09/03/how-to-start-engaging-on-twitter-in-seconds/) because answering questions is always easier than coming up with something to say.
+I don't usually use the **Klour score filter**, but I often narrow down my search by a question mark ("?"). This allows me to [engage with people in seconds](/2010/09/03/how-to-start-engaging-on-twitter-in-seconds/) because answering questions is always easier than coming up with something to say.
 
 [Watch the video bellow to see how I do it.](http://www.youtube.com/watch?v=z-OvuxVLFbI)
 

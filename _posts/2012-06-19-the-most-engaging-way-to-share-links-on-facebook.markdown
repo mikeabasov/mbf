@@ -12,7 +12,7 @@ tags:
 - Facebook
 ---
 
-[![The Most Engaging Way to Share Links on Facebook](http://marketingbeforefunding.com/wp-content/uploads/2012/06/5886225374_c57c6c1966_b.jpeg)](http://marketingbeforefunding.com/2012/06/19/the-most-engaging-way-to-share-links-on-facebook/)
+[![The Most Engaging Way to Share Links on Facebook](/wp-content/uploads/2012/06/5886225374_c57c6c1966_b.jpeg)](/2012/06/19/the-most-engaging-way-to-share-links-on-facebook/)
 
 
 
@@ -26,7 +26,7 @@ In this post, I'd like to show you a **few simple tricks** that you can apply t
 **We'll be working with this example:**
 
 
-![Sharing Links on Facebook, Step 0](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.32.50-AM.png)
+![Sharing Links on Facebook, Step 0](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.32.50-AM.png)
 
 
 
@@ -40,7 +40,7 @@ When you want to share a link, Facebook does an interesting thing with it. It go
 But did you know that you no longer need the actual URL in your post? Since people can (and will) use the preview to open the page, you can **go ahead and cut out the URL**.
 
 
-![Sharing Links on Facebook, Step 1](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.33.25-AM.png)
+![Sharing Links on Facebook, Step 1](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.33.25-AM.png)
 
 
 This way you are no longer duplicating the information, and have saved yourself a few characters for your post.
@@ -54,7 +54,7 @@ If you're sharing a link via one of the many social media dashboards, such as [_
 Instead of repeating yourself again, **remove the title and replace it** with something exciting. It could be a question or your own opinion about what you're sharing, or something else interesting.
 
 
-![Sharing Links on Facebook, Step 1](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.35.13-AM.png)
+![Sharing Links on Facebook, Step 1](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.35.13-AM.png)
 
 
 This is the key to engagement because you are no longer simply sharing a link, but inviting your audience to participate in a conversation. This simple change can dramatically increase the number of comments and likes you get.
@@ -76,7 +76,7 @@ Description is also generated automatically from your link. Sometimes it can inc
 Just spend a few seconds fixing the problem. **Click on the description to make minor changes** or even rewrite it completely. Same goes for the title.
 
 
-![Sharing Links on Facebook, Step 3](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.37.56-AM.png)
+![Sharing Links on Facebook, Step 3](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.37.56-AM.png)
 
 
 
@@ -104,7 +104,7 @@ Just spend a few seconds fixing the problem. **Click on the description to make 
 **The result:**
 
 
-![Sharing Links on Facebook, Step 4](http://marketingbeforefunding.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.39.33-AM.png)
+![Sharing Links on Facebook, Step 4](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.39.33-AM.png)
 
 
 That's it! These simple steps have been embraced by **many successful brands** such as [_Mashable_](https://www.facebook.com/mashable), [_Red Bull_](https://www.facebook.com/redbull), _[WSJ](https://www.facebook.com/wsj)_, and others. And if you want **your company's Facebook Page** to be remarkable, you should implement them too.

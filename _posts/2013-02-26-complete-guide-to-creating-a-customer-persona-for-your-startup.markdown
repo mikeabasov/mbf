@@ -16,7 +16,7 @@ tags:
 - Lessons
 ---
 
-[![Complete Guide to Creating a Customer Persona for Your Startup](http://marketingbeforefunding.com/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups-590x393.png)](http://marketingbeforefunding.com/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
+[![Complete Guide to Creating a Customer Persona for Your Startup](/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups-590x393.png)](/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
 
 _Why do some marketing campaigns succeed and others fail?_
 
@@ -204,7 +204,7 @@ You can find more information about these and other mistakes in [this great post
 ### Downloadable Buyer Persona Worksheet
 
 
-As promised, [here's your .pdf worksheet](http://marketingbeforefunding.com/wp-content/uploads/2013/02/Marketing-Before-Funding-Customer-Persona-Template.pdf). No sign up required.
+As promised, [here's your .pdf worksheet](/wp-content/uploads/2013/02/Marketing-Before-Funding-Customer-Persona-Template.pdf). No sign up required.
 
 I encourage you to try creating your own customer persona as soon as possible and then using it in real business situations.
 

@@ -16,11 +16,11 @@ tags:
 - Twitter
 ---
 
-[![How to Take any Event by Storm with Social Media [Part 2]](http://marketingbeforefunding.com/wp-content/uploads/2012/07/storm2.png)](http://marketingbeforefunding.com/2012/07/04/take-any-event-by-storm-part-2/)
+[![How to Take any Event by Storm with Social Media [Part 2]](/wp-content/uploads/2012/07/storm2.png)](/2012/07/04/take-any-event-by-storm-part-2/)
 
-_This is Part Two of my bullet-proof guide to attending events like a rockstar. Check out Part One for [what to do before an event](http://marketingbeforefunding.com/2012/07/03/take-any-event-by-storm-part-1/)._
+_This is Part Two of my bullet-proof guide to attending events like a rockstar. Check out Part One for [what to do before an event](/2012/07/03/take-any-event-by-storm-part-1/)._
 
-Let's recap. If you followed the steps from [Part One of this article](http://marketingbeforefunding.com/2012/07/03/take-any-event-by-storm-part-1/), then by the time you head out to your event, you should have the following:
+Let's recap. If you followed the steps from [Part One of this article](/2012/07/03/take-any-event-by-storm-part-1/), then by the time you head out to your event, you should have the following:
 
 
 
@@ -55,7 +55,7 @@ Next, **set up listening on your phone**. This way you can see what's going on o
 
 
 	
-  * Hashtag of the event [geolocated](http://marketingbeforefunding.com/2012/06/25/advanced-social-listening-using-geolocation/) at the event's location.
+  * Hashtag of the event [geolocated](/2012/06/25/advanced-social-listening-using-geolocation/) at the event's location.
 
 	
   * Your massive list.
@@ -86,10 +86,10 @@ You may have pre-scheduled these updates already, but **make sure that people kn
 #### 4. Do / Give / Have something worth talking about.
 
 
-If you are one of the speakers, you will get a lot of attention by default. But if you're just attending, there are other ways to get people engaged. In [Part One](http://marketingbeforefunding.com/2012/07/03/take-any-event-by-storm-part-1/), I suggested that you have some prizes for a giveaway, but you can also just give people you merchandise.
+If you are one of the speakers, you will get a lot of attention by default. But if you're just attending, there are other ways to get people engaged. In [Part One](/2012/07/03/take-any-event-by-storm-part-1/), I suggested that you have some prizes for a giveaway, but you can also just give people you merchandise.
 
 
-[![HootSuite HootKits](http://marketingbeforefunding.com/wp-content/uploads/2012/07/L00yQEFsOC.jpeg)](http://lifeofowly.tumblr.com/post/25105003494/hoothoot-welcome-to-the-hootclub-rt-kojbfilms)
+[![HootSuite HootKits](/wp-content/uploads/2012/07/L00yQEFsOC.jpeg)](http://lifeofowly.tumblr.com/post/25105003494/hoothoot-welcome-to-the-hootclub-rt-kojbfilms)
 
 
 The difference between awesome swag and lame one is that awesome swag is like a **little gift that was crafted with love**; it has a story to tell, and that story is not self-promotional. HootKits are a great example.

@@ -1,5 +1,6 @@
 @import "settings";
 @import "mixins";
+@import "compass/css3";
 
 
 /* ------------------ COLORS ------------------ */
@@ -20,32 +21,9 @@ body {
 
 /* ------------------ end BLOCKS ------------------ */
 
-/* ------------------ POSTS ------------------ */
-
-.post-content{
-    padding: 3*$base-font-size 0;
+img {
+    max-width: 100%;
 }
-
-@media all and (min-width:640px){
-    .post-content p{
-        font-size: 1.25*$base-font-size;
-    }
-}
-
-
-
-.post-meta-end{
-    font-size: $base-line-height;
-    font-style: italic;
-    font-weight: 700;
-    text-align: center;
-    margin: 2*$base-font-size 0;
-}
-
-/* ------------------ end POSTS ------------------ */
-
-
-
 
 /* ------------------ LISTS ------------------------ */
 
