@@ -1,0 +1,48 @@
+@import "settings";
+@import "mixins";
+@import "compass/css3";
+
+form {margin: $base-font-size 0;}
+
+
+input[type="text"],
+input[type="email"],
+.btn {
+    font-size: 1.3*$base-font-size;
+    line-height: $base-line-height;
+
+    display: block;
+    margin: 0.5*$base-font-size -7px;
+    width: 100%;
+    padding: 10px 5px;
+
+    border: solid 1px;
+    @include border-radius(6px);
+}
+
+
+input[type="text"],
+input[type="email"] {
+    font-weight: 200;
+    color: $grey;
+    outline: none;
+    border-color: $white;
+}
+input[type="text"]:focus, input[type="email"]:focus {
+    border-color: $dark-red;
+}
+
+.btn {
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+    color: $white;
+    border-color: $link;
+    background-color: $link;
+}
+    .btn:hover {
+        color: $white;
+        text-decoration: none;
+        background: $hover;
+        border-color: $hover ;
+    }

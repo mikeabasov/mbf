@@ -6,7 +6,7 @@ layout: static
 ---
 
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 
     <h2>
         <a href="{{ post.url }}" title="{{ post.date | date_to_string }}">
@@ -22,50 +22,24 @@ layout: static
 
 {% endfor %}
 
-<div class="grid-container">
+<div class="grid-container pagination">
     <div class="grid-50">
-        {% if previous_page %}
-            <a class="btn" href="{{ previous_page_path }}">
-                View older posts
+        {% if paginator.next_page %}
+            <a class="btn" href="{{ paginator.next_page_path }}">
+                &laquo View older posts
             </a>
         {% endif %}
     </div>
     <div class="grid-50">
-        {% if previous_page %}
-            <a class="btn" href="{{ next_page_path }}">
-                View newer posts
-            </a>
+        {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+                <a class="btn" href="/">View newer posts &raquo</a>
+            {% else %}
+                <a class="btn" href="{{ paginator.previous_page_path }}">View newer posts &raquo</a>
+            {% endif %}
         {% endif %}
     </div>
 </div>
-
-
-page
-current page number
-
-per_page
-number of posts per page
-
-posts
-a list of posts for the current page
-
-total_posts
-total number of posts in the site
-
-total_pages
-number of pagination pages
-
-previous_page
-page number of the previous pagination page, or nil if no previous page exists
-
-previous_page_path
-path of previous pagination page, or nil if no previous page exists
-next_page
-page number of the next pagination page, or nil if no subsequent page exists
-next_page_path
-path of next pagination page, or nil if no subsequent page exists
-
-
 
 <!--
 

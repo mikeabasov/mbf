@@ -1,3 +1,7 @@
+@import "settings";
+@import "mixins";
+@import "compass/css3";
+
 .post-content{
     padding: 3*$base-font-size 0;
 }
@@ -19,4 +23,11 @@
     font-weight: 700;
     text-align: center;
     margin: 2*$base-font-size 0;
+}
+
+
+// Comments
+
+.block-comments {
+    margin: $base-font-size 0;
 }
