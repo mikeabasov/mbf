@@ -6,9 +6,9 @@
 }
     .section-headline h1 {
         color: $white;
-        @include header-3;
+        @include header-2;
         @include screen-max($m-break - 1px) {
-            @include header-4;
+            @include header-5;
         }
         text-shadow: 1px 1px 2px black;
      }
