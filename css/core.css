@@ -2949,7 +2949,7 @@ h2 {
   font-size: 2.5em;
   line-height: 1.125;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 639px) {
   /* line 82, ../_sass/_typography.scss */
   h2 {
     font-size: 2em;
@@ -2962,7 +2962,7 @@ h3 {
   font-size: 2em;
   line-height: 1.125;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 639px) {
   /* line 89, ../_sass/_typography.scss */
   h3 {
     font-size: 1.875em;
@@ -2975,7 +2975,7 @@ h4 {
   font-size: 1.875em;
   line-height: 1.125;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 639px) {
   /* line 96, ../_sass/_typography.scss */
   h4 {
     font-size: 1.5em;
@@ -2986,7 +2986,7 @@ h4 {
 h5 {
   font-size: 1.5em;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 639px) {
   /* line 103, ../_sass/_typography.scss */
   h5 {
     font-size: 1.3em;
@@ -3156,70 +3156,85 @@ input[type="text"]:focus {
 }
 
 /* ------------------ end FORMS ------------------ */
-/* ------------------ SIDEBAR ------------------ */
-/* line 4, ../_sass/modules/_sidebar.scss */
+/* --- Colour Variables --- */
+/* --- Typography Variables --- */
+/* --- Breakpoint Variables --- */
+/* line 6, ../_sass/modules/_sidebar.scss */
 .sidebar {
   padding: 3em 1%;
   background-color: #f4f4f4;
 }
-
-/* line 9, ../_sass/modules/_sidebar.scss */
-.sidebar-block {
-  padding: 1em;
-  margin-bottom: 1em;
-}
-
-/* line 14, ../_sass/modules/_sidebar.scss */
-.classic-posts img {
-  margin: 0.5em 0;
-}
-
-@media all and (max-width: 640px) {
-  /* line 19, ../_sass/modules/_sidebar.scss */
+@media screen and (max-width: 640px) {
+  /* line 6, ../_sass/modules/_sidebar.scss */
   .sidebar {
     padding: 0;
     background-color: #fff;
   }
+}
 
-  /* line 23, ../_sass/modules/_sidebar.scss */
+/* line 15, ../_sass/modules/_sidebar.scss */
+.sidebar-block {
+  padding: 1em;
+  margin-bottom: 1em;
+}
+@media screen and (max-width: 640px) {
+  /* line 15, ../_sass/modules/_sidebar.scss */
   .sidebar-block {
     padding: 0;
   }
 }
-/* ------------------ end SIDEBAR ------------------ */
-/* line 1, ../_sass/modules/_header.scss */
-header, footer {
-  background-color: #222;
-  color: #f0f0f0;
+
+/* line 23, ../_sass/modules/_sidebar.scss */
+.classic-posts img {
+  margin: 0.5em 0;
+  -webkit-transition-property: opacity;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  transition-property: opacity;
+  -webkit-transition-duration: 2s;
+  -moz-transition-duration: 2s;
+  -o-transition-duration: 2s;
+  transition-duration: 2s;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
+  opacity: 0.5;
 }
 
-/* line 6, ../_sass/modules/_header.scss */
+/* line 30, ../_sass/modules/_sidebar.scss */
+.classic-posts img:hover {
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+}
+
+/* --- Colour Variables --- */
+/* --- Typography Variables --- */
+/* --- Breakpoint Variables --- */
+/* line 4, ../_sass/modules/_header.scss */
+header, footer {
+  background-color: #222222;
+  color: #f4f4f4;
+}
+
+/* line 9, ../_sass/modules/_header.scss */
 .header {
   padding: 1em 0 !important;
   text-transform: uppercase;
   text-align: center;
 }
 
-/* line 11, ../_sass/modules/_header.scss */
+/* line 17, ../_sass/modules/_header.scss */
 .header span {
   display: block;
   margin: 0.5em 1em;
 }
 
-/* line 16, ../_sass/modules/_header.scss */
+/* line 22, ../_sass/modules/_header.scss */
 #logo {
   min-width: 280px;
   max-width: 360px;
 }
 
-@media all and (min-width: 640px) {
-  /* line 22, ../_sass/modules/_header.scss */
-  .header {
-    padding: 1em 10px !important;
-  }
-}
 /* ------------------ NAVIGATION ------------------ */
-/* line 29, ../_sass/modules/_header.scss */
+/* line 28, ../_sass/modules/_header.scss */
 .nav {
   list-style-type: none;
   font-weight: 400;
@@ -3228,69 +3243,69 @@ header, footer {
   padding: 0;
 }
 
-/* line 36, ../_sass/modules/_header.scss */
+/* line 35, ../_sass/modules/_header.scss */
 .nav li {
   display: inline-block;
   padding: 0.5em;
 }
 
-/* line 40, ../_sass/modules/_header.scss */
+/* line 39, ../_sass/modules/_header.scss */
 .nav li a {
-  color: #c24040;
+  color: #ef4a4a;
 }
 
-/* line 43, ../_sass/modules/_header.scss */
+/* line 42, ../_sass/modules/_header.scss */
 .nav li a:hover {
   text-decoration: none;
-  color: #9f1c1c;
+  color: #d42525;
 }
 
-/* line 45, ../_sass/modules/_header.scss */
+/* line 44, ../_sass/modules/_header.scss */
 .nav-header {
   margin: 0.5em 0;
 }
 
 @media all and (min-width: 640px) {
-  /* line 51, ../_sass/modules/_header.scss */
+  /* line 50, ../_sass/modules/_header.scss */
   .nav-header {
     margin: 1.3em 0;
     text-align: right;
     font-size: 1.3em;
   }
 
-  /* line 56, ../_sass/modules/_header.scss */
+  /* line 55, ../_sass/modules/_header.scss */
   .nav-header li {
     padding: 0.5em 1em;
   }
 
-  /* line 59, ../_sass/modules/_header.scss */
+  /* line 58, ../_sass/modules/_header.scss */
   .nav-header li:first-of-type a {
     padding-left: 0px;
   }
 
-  /* line 60, ../_sass/modules/_header.scss */
+  /* line 59, ../_sass/modules/_header.scss */
   .nav-header li:last-of-type a {
     padding-right: 0px;
   }
 
-  /* line 61, ../_sass/modules/_header.scss */
+  /* line 60, ../_sass/modules/_header.scss */
   .nav-header li a {
     font-weight: 600;
   }
 }
 /* ------------------ end NAVIGATION ------------------ */
-/* line 67, ../_sass/modules/_header.scss */
+/* line 66, ../_sass/modules/_header.scss */
 .nav-footer {
   margin: 0.5em 0;
 }
 
-/* line 70, ../_sass/modules/_header.scss */
+/* line 69, ../_sass/modules/_header.scss */
 .nav-footer li {
   display: block;
 }
 
 @media all and (min-width: 640px) {
-  /* line 74, ../_sass/modules/_header.scss */
+  /* line 73, ../_sass/modules/_header.scss */
   .nav-footer li {
     display: inline-block;
   }
@@ -3327,7 +3342,7 @@ header, footer {
   line-height: 1.125;
   text-shadow: 1px 1px 2px black;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 639px) {
   /* line 7, ../_sass/modules/_sections.scss */
   .section-headline h1 {
     font-size: 1.5em;

@@ -1,28 +1,32 @@
-/* ------------------ SIDEBAR ------------------ */
+@import "compass/css3";
+@import "settings";
+@import "mixins";
 
 
-.sidebar{
+.sidebar {
     padding: 3em 1%;
     background-color: #f4f4f4;
-}
-
-.sidebar-block{
-    padding: 1em;
-    margin-bottom: 1em;
-}
-
-.classic-posts img{
-    margin: 0.5em 0;
-}
-
-@media all and (max-width:640px){
-    .sidebar{
+    @include screen-max($m-break) {
         padding: 0;
         background-color: #fff;
     }
-    .sidebar-block{
+}
+
+.sidebar-block {
+    padding: 1em;
+    margin-bottom: 1em;
+    @include screen-max($m-break) {
         padding: 0;
     }
 }
 
-/* ------------------ end SIDEBAR ------------------ */
+.classic-posts img {
+    margin: 0.5em 0;
+    @include transition-property(opacity);
+    @include transition-duration(2s);
+    @include opacity(0.5);
+}
+
+.classic-posts img:hover {
+    @include opacity(1);
+}

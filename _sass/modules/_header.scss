@@ -1,51 +1,50 @@
+@import "settings";
+@import "mixins";
+
 header, footer{
-    background-color: #222;
-    color: #f0f0f0;
+    background-color: $dark-grey;
+    color: $super-light-grey;
 }
 
 .header {
 	padding: 1em 0 !important;
 	text-transform: uppercase;
 	text-align: center;
+    @mixin screen-max($m-break) {
+        padding: 1em 10px !important;
+    }
 }
     .header span {
         display: block;
         margin: 0.5em 1em;
     }
-    
+
     #logo {
         min-width: 280px;
         max-width: 360px;
         }
 
-@media all and (min-width:640px){
-    .header {
-        padding: 1em 10px !important;
-    }
-}
-
-
 /* ------------------ NAVIGATION ------------------ */
 .nav {
 	list-style-type: none;
 	font-weight: 400;
-	font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: $body-font;
 	font-size: 0.9em;
 	padding: 0;
 }
-    .nav li { 
-            display: inline-block;	
+    .nav li {
+            display: inline-block;
             padding: 0.5em;
-    } 
+    }
 		.nav li a {
-            color: #c24040;
+            color: $red;
             }
-		.nav li a:hover {text-decoration: none; color: #9f1c1c;}
+		.nav li a:hover {text-decoration: none; color: $dark-red;}
 
 .nav-header{
     margin: 0.5em 0;
-} 	
-	
+}
+
 
 @media all and (min-width:640px){
     .nav-header {
@@ -54,7 +53,7 @@ header, footer{
         font-size: 1.3em;
     }
     .nav-header li{
-        padding: 0.5em 1em;   
+        padding: 0.5em 1em;
     }
     .nav-header li:first-of-type a { padding-left: 0px; }
     .nav-header li:last-of-type a { padding-right: 0px; }
