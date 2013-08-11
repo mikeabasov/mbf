@@ -40,7 +40,7 @@ And this article offers 16 practical and straightforward ways to take your copyw
 
 
 
-### 1. Think about Your Audience
+## 1. Think about Your Audience
 
 
 Always start with the audience. A press release for a major tech magazine has one audience. Your landing page has a different one. Your demo day pitch is for yet another one.
@@ -60,7 +60,7 @@ Another example. Using hashtags on Facebook is a clear violation of your audienc
 
 
 
-### 2. Consider the Platform
+## 2. Consider the Platform
 
 
 Depending on the platform you're writing for, you have different elements and rules to follow.
@@ -82,7 +82,7 @@ What changes should you make to your copy?
 
 
 
-### 3. Talk like a Human Being
+## 3. Talk like a Human Being
 
 
 It doesn't matter if you're B2B. It doesn't matter if you're for the enterprise or the government. Every person in your audience, however "suit-n-tie" he is, is a human being.
@@ -100,7 +100,7 @@ And on the other side of the spectrum are the companies like Starbucks. They hav
 
 
 
-### 4. Make It "Wacky"
+## 4. Make It "Wacky"
 
 
 Neville Medhora, the author of the famous [AppSumo Kopywriting Kourse](http://www.appsumo.com/kopywriting-kourse-eg), suggests taking the approach described above to the extreme.
@@ -124,7 +124,7 @@ I've used this technique myself, and it works. My only advice is to ease into it
 
 
 
-### 5. Use the Content Wireframe
+## 5. Use the Content Wireframe
 
 
 The Content Wireframe is probably on my TOP 3 favourite techniques for writing kickass copy. It works like this.
@@ -152,7 +152,7 @@ Try it out!
 
 
 
-### 6. Read a Good Book
+## 6. Read a Good Book
 
 
 Trust me when I say that reading affects your writing. Every time I finish a book I can sense the author's style slipping into my copy.
@@ -166,7 +166,7 @@ Sometimes, good is a Pulitzer Prize winning book. Other times, it's simply somet
 
 
 
-### 7. Have a Drink / Let the Words Flow
+## 7. Have a Drink / Let the Words Flow
 
 
 Not kidding. In fact, a large section of this post may or may not have been written after a bottle of beer ;).
@@ -182,7 +182,7 @@ We tend to over-think every sentence and focus on making it perfect before movin
 
 
 
-### 8. Talk to Someone about What You Want to Say
+## 8. Talk to Someone about What You Want to Say
 
 
 Most people are better at describing things vocally rather than in writing. So talk to a friend or a colleague about what you're writing.
@@ -192,7 +192,7 @@ This really helps clarify your message, get instant feedback about confusing or 
 
 
 
-### 9. Tell a Story
+## 9. Tell a Story
 
 
 Storytelling is one of the most underrated skills in business. It's been getting some attention lately but still is far from being common sense for most marketers.
@@ -232,7 +232,7 @@ You can [read up on all of these mistakes](/2012/08/28/startup-storytelling-mist
 
 
 
-### 10. Use the AIDA Framework
+## 10. Use the AIDA Framework
 
 
 AIDA stands for "Attention > Interest > Desire > Action," and its one of the most powerful frameworks for copywriting.
@@ -307,7 +307,7 @@ There's a lot more to learn about AIDA, but this should get you started.
 
 
 
-### 11. Apply the PEE principle
+## 11. Apply the PEE principle
 
 
 Another writing technique the PEE principle (I know it sounds funny). It works well with articles and blog posts, but isn't as valuable as AIDA to sales.
@@ -323,7 +323,7 @@ Makes sense?
 
 
 
-### 12. Use Lists
+## 12. Use Lists
 
 
 
@@ -351,7 +351,7 @@ Makes sense?
 
 
 
-### 13. Try a Different Medium
+## 13. Try a Different Medium
 
 
 [youtube_sc url="http://www.youtube.com/watch?v=i-JcCFlF5HU" fs="1" hd="1"]
@@ -359,7 +359,7 @@ Makes sense?
 
 
 
-### 14. Delete at least 10% of Words from Your First Draft
+## 14. Delete at least 10% of Words from Your First Draft
 
 
 One of the most effective ways to improve your copy is to delete 10% of the words you've written. Such pressure pushes you to stay on point.
@@ -369,7 +369,7 @@ This is also the time to sober up and edit whatever you've written in the "free 
 
 
 
-### 15. Ask Someone to Proofread the Copy
+## 15. Ask Someone to Proofread the Copy
 
 
 Ask your colleague, friend, partner, or whomever else to proofread what you've written and give you feedback.
@@ -389,7 +389,7 @@ Proofread, proofread, proofread.
 
 
 
-### 16. Split Test Your Copy
+## 16. Split Test Your Copy
 
 
 One of the best things about the Internet is the ability to almost effortlessly split test any copy you write.
@@ -403,7 +403,7 @@ The good news is that, from [Google Website Optimizer](http://www.google.com/web
 
 
 
-### Your Turn!
+## Your Turn!
 
 
 What techniques, frameworks or tools do you use for copywriting? Have you had interesting discoveries along the way? Share in the comments!

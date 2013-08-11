@@ -40,12 +40,12 @@ Let's recap. If you followed the steps from [Part One of this article](/2012/07/
 Time for some real action!
 
 
-### During The Event
+## During The Event
 
 
 
 
-#### 1. Get mobile.
+### 1. Get mobile.
 
 
 You'll want to have a smartphone with a **good camera** and a** 3G Internet access**. This will allow you to take pictures and videos fast and share them right-away. Also, **Wi-Fi is unreliable** at most events. If you _really_ can't get yourself a solid phone, bring a laptop, but don't blame me for your frustration.
@@ -69,7 +69,7 @@ Your default stream should be the one with the hashtag. This way every time you
 [youtube_sc url="http://www.youtube.com/watch?v=i9uBk3uZSlo" fs="1" hd="1"]
 
 
-#### 2. Devote a team member to social.
+### 2. Devote a team member to social.
 
 
 If you have someone on your team who can concentrate specifically on social media during the event, that's great! This will allow you to **stay focused on building relationships** while **keeping the conversation going online** at the same time.
@@ -77,13 +77,13 @@ If you have someone on your team who can concentrate specifically on social medi
 Of course, if you're a business of one or if everyone on you team already has things to do, **multitasking** is the way to go. I do it all the time, and it's been working out alright.
 
 
-#### 3. Occasionally share your whereabouts.
+### 3. Occasionally share your whereabouts.
 
 
 You may have pre-scheduled these updates already, but **make sure that people know where you are**. This is particularly important for trade shows where you have a booth, and large conferences where it's easy to get lost. You want people to be able to find you, don't you?
 
 
-#### 4. Do / Give / Have something worth talking about.
+### 4. Do / Give / Have something worth talking about.
 
 
 If you are one of the speakers, you will get a lot of attention by default. But if you're just attending, there are other ways to get people engaged. In [Part One](/2012/07/03/take-any-event-by-storm-part-1/), I suggested that you have some prizes for a giveaway, but you can also just give people you merchandise.
@@ -95,7 +95,7 @@ If you are one of the speakers, you will get a lot of attention by default. But 
 The difference between awesome swag and lame one is that awesome swag is like a **little gift that was crafted with love**; it has a story to tell, and that story is not self-promotional. HootKits are a great example.
 
 
-####  5. Don't over-tweet quotes.
+###  5. Don't over-tweet quotes.
 
 
 Many people want to share great quotes they hear at conferences, but forget about the **lack of context for the reader**. Think about it. People who are at the event with you already know what the speaker said, so they don't need you repeating it.
@@ -109,7 +109,7 @@ On the other hand, people who aren't at the event have a very hard time understa
 There is **a better way to share the knowledge** you gain at the event. Take as many notes as you can, write a blog post after the event is over and cover everything at once. I'll get back to that in Part 3.
 
 
-#### 6. Take as many photos and videos as you can.
+### 6. Take as many photos and videos as you can.
 
 
 Take photos with people you meet. Conduct an interview with a speaker. Photograph other booths. Long story short, you want to generate as much content as possible,so you can share it later. Post some pictures on social media during the event, but keep most of them reserved for when you get back.
@@ -121,7 +121,7 @@ Take photos with people you meet. Conduct an interview with a speaker. Photograp
 **The content you generate during the event is your most powerful weapon after the event.**
 
 
-### After The Event
+## After The Event
 
 
 I hope you had fun with this part. Tomorrow I'll share **the third and the last part** of this guide. It will cover everything you want to do once the event is over. **And it's going to be epic!**

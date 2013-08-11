@@ -27,12 +27,12 @@ In March 2011, HootSuite was named one of the [TOP 5 most talked about brands](h
 Over the years, I've developed a **bullet-proof approach to attending events**, either on behalf of a company or as a professional.  No matter what business you're in, at some point in your life you will be holding tickets to a conference or a trade show in your hands, and I hope that this guide will help you out. Let's dive in!
 
 
-### Before the Event
+## Before the Event
 
 
 
 
-#### 1. Start with research.
+### 1. Start with research.
 
 
 Go to the event's site and find as much information as you can. Many events (or their organizers) will have **social media accounts** that you can follow. Do that.
@@ -40,7 +40,7 @@ Go to the event's site and find as much information as you can. Many events (or 
 Also write down the **name of the event** in all of its variations. Is there an abbreviated version? Does the event have an **official hashtag**? You will need all this for the third step.
 
 
-#### 2. Set up a Twitter list.
+### 2. Set up a Twitter list.
 
 
 The foundation for social media listening are Twitter lists. They allow you to **track conversations** about the event and **get acquainted** with the attendees beforehand.
@@ -75,7 +75,7 @@ Create a **new public list dedicated to the event** and add the official account
 Make a point of creating the **most complete list possible**. It _always_ proves to be worth it.
 
 
-#### 3. Set up social listening.
+### 3. Set up social listening.
 
 
 Use one of the social media dashboards to **set up search streams** for the event. I recommend [HootSuite](http://hootsuite.com), but others such as [TweetDeck](http://tweetdeck.com) will work just fine.
@@ -97,7 +97,7 @@ Don't forget to **set up searches for the event's hashtag**. If you couldn't fin
 Goes without saying that **everyone you find in your search streams** should be followed and listed up.
 
 
-####  4. Announce that you're attending.
+###  4. Announce that you're attending.
 
 
 If you have a blog, **write a post about the upcoming event**. Then promote it through your social media channels. Here are some tips on how to make it rock:
@@ -122,7 +122,7 @@ If you have a blog, **write a post about the upcoming event**. Then promote it t
 
 
 
-#### 5. Volunteer to help out.
+### 5. Volunteer to help out.
 
 
 Reach out to the event's organizers and ask if there's anything you can do to help with the event. Don't sign up for a full-time position, but **find small things you can take care of**. For example, many non-techy trade shows need help with media coverage or even simply taking photos. I'm talking from experience.
@@ -130,7 +130,7 @@ Reach out to the event's organizers and ask if there's anything you can do to 
 Goes without saying that you should NOT ask for money or any other kind of reciprocity. You **goal is to befriend the organizers and genuinely help**. But trust me, they will be grateful, and your input won't go unnoticed.
 
 
-#### 6. Reach out to your list.
+### 6. Reach out to your list.
 
 
 Now is a good time to touch base with everyone on your list. Write them a @mention note and send them a link to your list. It should go something like this:
@@ -146,7 +146,7 @@ Most of the people will be grateful as you have just given them something of v
 Again, this is not about you promoting yourself. It's about **giving something to the community**.
 
 
-#### 7. Schedule updates in advance.
+### 7. Schedule updates in advance.
 
 
 Live tweeting and facebooking [during any event](/2012/07/04/take-any-event-by-storm-part-2/) is tough. Make it easier on yourself and schedule some of the updates before you head out.
@@ -158,7 +158,7 @@ Live tweeting and facebooking [during any event](/2012/07/04/take-any-event-by-s
 For example, you can share the link to your list or other useful resources. If you are a speaker, let people know when you're going to be on stage. If you have a booth, tell them where they can find you.
 
 
-### During The Event
+## During The Event
 
 
 Preparations are important, but what about the actual event? How do you not get overwhelmed by all the tweets? What should you be sharing and how often? How can you make the most impact?

@@ -66,7 +66,7 @@ But first things first...
 
 
 
-### How Design Has Become so Important 
+## How Design Has Become so Important 
 
 
 
@@ -125,7 +125,7 @@ You ask yourself the following six questions.
 
 
 
-#### Question #1: What is my Minimum Viable Design?
+### Question #1: What is my Minimum Viable Design?
 
 
 
@@ -228,7 +228,7 @@ The other 80%, say logo, business cards, banner ads, infographics, etc. should b
 
 
 
-#### Question #2: Should I hire or take the DIY route?
+### Question #2: Should I hire or take the DIY route?
 
 
 
@@ -317,7 +317,7 @@ Also, as Jason Fried of 37signals wrote in [Rework](http://37signals.com/rework/
 
 
 
-#### Question #3: What do I suck at? What am I good at? How can I get better? 
+### Question #3: What do I suck at? What am I good at? How can I get better? 
 
 
 
@@ -420,7 +420,7 @@ Start small. Try. Fail. Try again.
 
 
 
-#### Question #4: How can I make my design timeless?
+### Question #4: How can I make my design timeless?
 
 
 
@@ -473,7 +473,7 @@ Think about it.
 
 
 
-#### Question #5: Can I use a template for this?
+### Question #5: Can I use a template for this?
 
 
 
@@ -530,7 +530,7 @@ Check them out!
 
 
 
-#### Question #6: Where can I learn more about design?
+### Question #6: Where can I learn more about design?
 
 
 
@@ -616,7 +616,7 @@ I personally vouch for every singe one of them.
 
 
 
-### Your Turn
+## Your Turn
 
 
 
@@ -627,7 +627,7 @@ Let me know what's your take on design in 2012 and how you tackle it on a budget
 
 
 
-### Shameless Plug Section
+## Shameless Plug Section
 
 
 

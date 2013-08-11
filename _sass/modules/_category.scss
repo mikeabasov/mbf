@@ -1,0 +1,20 @@
+.category-page h1 {
+    margin: 0 0 0.1em 0;
+    @include screen-max($m-break) {
+        @include header-3;
+    }
+}
+
+.category-page h2 {
+    font-weight: 400;
+    @include screen-max($m-break) {
+        @include header-4;
+    }
+}
+
+p.category-page-meta {
+    font-size: 1.1*$base-font-size;
+    color: $light-grey;
+    font-style: italic;
+    font-weight: 400;
+}

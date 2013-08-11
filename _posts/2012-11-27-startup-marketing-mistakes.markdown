@@ -44,7 +44,7 @@ There's also a [Twitter list](//twitter.com/Mike_Abasov/featured-on-mbf/members)
 
 
 
-### JULIA HARTZ, CO-FOUNDER OF EVENTBRITE
+## JULIA HARTZ, CO-FOUNDER OF EVENTBRITE
 
 
 ![Julia Hartz](/wp-content/uploads/2012/11/JuliaHartz.jpg)
@@ -57,7 +57,7 @@ _"Many companies try to dive into driving awareness for their product or service
 
 
 
-### KATHRYN MINSHEW, FOUNDER OF THE DAILY MUSE
+## KATHRYN MINSHEW, FOUNDER OF THE DAILY MUSE
 
 
 ![Kathryn Minshew](/wp-content/uploads/2012/11/KathrynMinshew.jpg)
@@ -67,7 +67,7 @@ _"The #1 marketing mistake I see startups make is relying on a silver bullet. Yo
 [Click here to say thanks](http://clicktotweet.com/a86T5) to Kathryn on Twitter ([@kmin](http://twitter.com/kmin)). Check out [The Daily Muse](http://thedailymuse.com).
 
 
-### AMIELLE LAKE, FOUNDER OF TAGGA
+## AMIELLE LAKE, FOUNDER OF TAGGA
 
 ![Amielle Lake](/wp-content/uploads/2012/11/AmielleLake.jpeg)
 
@@ -76,7 +76,7 @@ _"Given that funds are limited - I think most mistakes are made based on spendin
 [Click here to say thanks](http://clicktotweet.com/VJe6Q) to Amielle on Twitter ([@amiellel](https://twitter.com/amiellel)). Take a look at [Tagga](http://www.tagga.com/).
 
 
-### KELLEE KHALIL, FOUNDER OF LOVER.LY
+## KELLEE KHALIL, FOUNDER OF LOVER.LY
 
 
 ![Kellee Khalil](/wp-content/uploads/2012/11/KelleeKhalil.png)
@@ -91,7 +91,7 @@ _New user acquisition, especially for bootstrapped startups require quite a bit 
 
 
 
-### ANDREA CUTRIGHT, FOUNDER OF FOODILY
+## ANDREA CUTRIGHT, FOUNDER OF FOODILY
 
 
 ![Andrea Cutright](/wp-content/uploads/2012/11/AndreaCutright.jpeg)
@@ -104,7 +104,7 @@ Connect with Foodily on Twitter [@FOODILY](https://twitter.com/FOODILY). Check o
 
 
 
-### MICHELLE ZATLYN, CO-FOUNDER OF CLOUDFLARE
+## MICHELLE ZATLYN, CO-FOUNDER OF CLOUDFLARE
 
 
 ![Michelle Zatlyn](/wp-content/uploads/2012/11/MichelleZatlyn.jpeg)
@@ -123,7 +123,7 @@ _Create content early. Build an audience by writing interesting content, even if
 
 
 
-### LISA SUGAR, CO-FOUNDER OF POPSUGAR
+## LISA SUGAR, CO-FOUNDER OF POPSUGAR
 
 
 ![Lisa Sugar](/wp-content/uploads/2012/11/LisaSugar.jpeg)
@@ -136,7 +136,7 @@ Check out [POPSUGAR](http://www.popsugar.com/).
 
 
 
-### AMANDA MACNAUGHTON, CO-FOUNDER OF PROMOJAM
+## AMANDA MACNAUGHTON, CO-FOUNDER OF PROMOJAM
 
 
 ![Amanda MacNaughton](/wp-content/uploads/2012/11/AmandaMacNaughton.jpeg)
@@ -149,7 +149,7 @@ _"One of the biggest marketing mistakes startups make is staying in "startup ste
 
 
 
-### HEATHER ANNE CARSON, CO-FOUNDER OF ONBOARDLY
+## HEATHER ANNE CARSON, CO-FOUNDER OF ONBOARDLY
 
 
 ![Heather Anne Carson](/wp-content/uploads/2012/11/HeatherAnne-Carson.jpeg)
@@ -162,7 +162,7 @@ _"I think the #1 marketing mistake startups make is relying on guesswork over fa
 
 
 
-### DANAE RINGELMANN, CO-FOUNDER OF INDIEGOGO
+## DANAE RINGELMANN, CO-FOUNDER OF INDIEGOGO
 
 
 ![Danae Ringelmann](/wp-content/uploads/2012/11/DanaeRingelmann.png)
@@ -176,7 +176,7 @@ Crowdfunding is not only a powerful alternative source of funds for a tech start
 
 
 
-### DESIREE VARGAS WRIGLEY, CO-FOUNDER OF GIVEFORWARD
+## DESIREE VARGAS WRIGLEY, CO-FOUNDER OF GIVEFORWARD
 
 
 ![Desiree Vargas Wrigley](/wp-content/uploads/2012/11/DesireeVargasWrigley.jpeg)

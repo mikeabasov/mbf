@@ -47,7 +47,7 @@ And this is exactly what today's article is about.
 
 
 
-### Way #1. Let the Data Speak for Itself
+## Way #1. Let the Data Speak for Itself
 
 
 In "[The Lean Startup](http://theleanstartup.com/)," Eric Reis talks about the importance of measuring as a part of your product development cycle. Seeing how your users react to and interact with new features and ideas should influence your decisions about those features and ideas.
@@ -86,7 +86,7 @@ _Sidenote: I'll definitely come back to this topic in the future articles on Mar
 
 
 
-### Way #2. Conduct a Survey
+## Way #2. Conduct a Survey
 
 
 Surveys are a really easy and inexpensive way to collect feedback from users. You ask a bunch of questions; you get the answers; you look for insights. Easy, right?
@@ -97,13 +97,13 @@ The problem is that a lot of startups suck at conducting them. They ask the wron
 Start by asking yourself the following five questions.**
 
 
-#### 1. What am I trying to find out?
+### 1. What am I trying to find out?
 
 
 If you want to know why a user quit your service, ask her about that. Don't ask her if she is a cat or a dog person, because it probably won't be helpful. Don't ask for any information, unless you expect to see a [relationship](http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) between that information and what you're researching.
 
 
-#### 2. When is the survey taking place?
+### 2. When is the survey taking place?
 
 
 You need to make sure that you're talking to the right people at the right time. Otherwise, you're not gonna get many responses or the quality of those responses isn't going to be great.
@@ -131,7 +131,7 @@ You need to make sure that you're talking to the right people at the right time.
 There are many other choices, and the decision depends on your answer to the first "why" question. Using the same example as before, if you want to know why users quit, conduct a survey right after they cancel their accounts.
 
 
-#### 3. Are my questions any good?
+### 3. Are my questions any good?
 
 
 It's not only _what_ you ask, it's also _how_ you ask it. If a question is worded badly, you'll get bad data.
@@ -152,7 +152,7 @@ It's not only _what_ you ask, it's also _how_ you ask it. If a question is worde
 
 
 
-#### 4. What are my respondents getting?
+### 4. What are my respondents getting?
 
 
 Responding to your survey is an effort that a person has to make. And they will wonder if it's worth their time.
@@ -162,7 +162,7 @@ Responding to your survey is an effort that a person has to make. And they will 
 You don't need to spend much (or even any) money but incentives can make a huge difference when it comes to response rates.
 
 
-#### 5. What tools should I use?
+### 5. What tools should I use?
 
 
 [Google Forms](http://drive.google.com), [Survey Monkey](http://www.surveymonkey.com/), [Qualtrics](https://www.qualtrics.com/), [Wufoo](http://wufoo.ca/)… the list is endless. It all depends on how complex your survey is and how much money you feel like investing.
@@ -184,7 +184,7 @@ Some of the possible reasons for quitting were technical. Others suggest a possi
 
 
 
-### Way #3. Interview a Customer. Or a Few
+## Way #3. Interview a Customer. Or a Few
 
 
 A great way of collecting insightful qualitative feedback from your customers is to interview a couple of them.
@@ -223,7 +223,7 @@ In the end, the research helped us identify a number of gaps in the product and 
 
 
 
-### Way #4. Use the Power of the Social Web
+## Way #4. Use the Power of the Social Web
 
 
 Social networks, forums and blogs often make for a great debate panel when it comes to talking about products and services.
@@ -233,13 +233,13 @@ Social networks, forums and blogs often make for a great debate panel when it co
 ****So use the power of the social web to your advantage. Here's how.
 
 
-#### Start by listening.
+### Start by listening.
 
 
 Monitor blogs, comments and social networks for relevant keywords and study all conversations and reviews that are being posted. Check out my tutorial on how to build an [Ultimate Listening Dashboard](/2012/08/21/ultimate-listening-dashboard/) for your business and start.
 
 
-#### Go onto engaging.
+### Go onto engaging.
 
 
 Respond to posts and comments where appropriate. When they are positive, thank the person and ask if they have more ideas to share.
@@ -247,12 +247,12 @@ Respond to posts and comments where appropriate. When they are positive, thank t
 When it comes to the negatives, don't argue with the haters but do address all the relevant issues and fix problems if needed.
 
 
-### 
+## 
 
 
 
 
-### Way #5. Make It Easy for Users to Leave Feedback
+## Way #5. Make It Easy for Users to Leave Feedback
 
 
 Many users will be happy to share their ideas and suggestions with you as long as you give them an easy way of doing so. You can start by adding a contact form to your site or just posting your email, but I suggest you take it a step further.
@@ -270,7 +270,7 @@ For instance, when I was driving the bus on the [HootSuite Translation Project](
 
 
 
-### Way #6. Telepathy
+## Way #6. Telepathy
 
 
 Telepathy is by far the number one bullet-proof method for collecting actionable feedback from your users. Too bad it's not available to the majority of entrepreneurs, either for the reasons of sanity or budget constraints.
@@ -280,7 +280,7 @@ So, I guess we'll have to make the most out of the first five methods. In good h
 
 
 
-### Your Turn
+## Your Turn
 
 
 How do you collect feedback from users? Share your examples, experiences and tools in the comments!

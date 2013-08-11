@@ -47,7 +47,7 @@ And if you want to follow all of them on Twitter, [here's a list](https://twitte
 
 
 
-### TONY HSIEH, CEO OF ZAPPOS
+## TONY HSIEH, CEO OF ZAPPOS
 
 
 ![TonyHseih](/wp-content/uploads/2012/08/TonyHseih-copy.jpeg)
@@ -60,7 +60,7 @@ Follow [Tony on Twitter](http://twitter.com/zappos) or learn more about him at [
 
 
 
-### DAVE OLSON, VP COMMUNITY AT HOOTSUITE
+## DAVE OLSON, VP COMMUNITY AT HOOTSUITE
 
 
 ![DaveOlson](/wp-content/uploads/2012/08/DaveOlson-copy.jpeg)
@@ -73,7 +73,7 @@ Follow [Dave on Twitter](http://twitter.com/daveohoots) or learn more about hi
 
 
 
-### BOB WALSH, FOUNDER OF 47HATS
+## BOB WALSH, FOUNDER OF 47HATS
 
 
 ![BobWalsh](/wp-content/uploads/2012/08/BobWalsh-copy.png)
@@ -96,7 +96,7 @@ Follow [Bob on Twitter](https://twitter.com/bobwalsh) or learn more about him a
 
 
 
-### BRAD FELD, MANAGING DIRECTOR AT FOUNDRY GROUP
+## BRAD FELD, MANAGING DIRECTOR AT FOUNDRY GROUP
 
 
 ![BradFeld](/wp-content/uploads/2012/08/BradFeld-copy.jpeg)
@@ -109,7 +109,7 @@ Follow [Brad on Twitter](https://twitter.com/bfeld) or learn more about him at
 
 
 
-### BRIAN WONG, FOUNDER AND CEO AT KIIP
+## BRIAN WONG, FOUNDER AND CEO AT KIIP
 
 
 ![BrianWong](/wp-content/uploads/2012/08/BrianWong-copy.jpeg)
@@ -122,7 +122,7 @@ Follow [Brian on Twitter](https://twitter.com/brian_wong) or learn more about 
 
 
 
-### BEN YOSKOVITZ, VP PRODUCT AT GOINSTANT
+## BEN YOSKOVITZ, VP PRODUCT AT GOINSTANT
 
 
 ![BenYoskovitz](/wp-content/uploads/2012/08/BenYoskovitz-copy.jpeg)
@@ -145,7 +145,7 @@ Follow [Ben on Twitter](https://twitter.com/byosko) or learn more about him at
 
 
 
-### CHRIS GUILLEBEAU, AUTHOR OF "THE $100 STARTUP"
+## CHRIS GUILLEBEAU, AUTHOR OF "THE $100 STARTUP"
 
 
 ![ChrisGuillebeau](/wp-content/uploads/2012/08/ChrisGuillebeau-copy.jpeg)
@@ -163,7 +163,7 @@ Follow [Chris on Twitter](http://twitter.com/chrisguillebeau) or learn more ab
 
 
 
-### IAN WALKER, USER ENGAGEMENT MANAGER AT PERCH
+## IAN WALKER, USER ENGAGEMENT MANAGER AT PERCH
 
 
 ![IanWalker](/wp-content/uploads/2012/08/IanWalker-copy.jpeg)
@@ -206,7 +206,7 @@ Follow [Ian on Twitter](https://twitter.com/walkerian) or find out more about hi
 
 
 
-### DARIO MELI, CO-CEO AT INVOKE MEDIA
+## DARIO MELI, CO-CEO AT INVOKE MEDIA
 
 
 ![DarioMeli](/wp-content/uploads/2012/08/DarioMeli-copy.jpeg)
@@ -219,7 +219,7 @@ Follow [Dario on Twitter](https://twitter.com/quikness) or find out more about
 
 
 
-### BORIS WERTZ, EARLY-STAGE INVESTOR THROUGH VERSION ONE VENTURES
+## BORIS WERTZ, EARLY-STAGE INVESTOR THROUGH VERSION ONE VENTURES
 
 
 ![BorisWertz](/wp-content/uploads/2012/08/Boris-Wertz-copy.jpeg)
@@ -232,7 +232,7 @@ Follow [Boris on Twitter](https://twitter.com/bwertz) or learn more about him a
 
 
 
-### GREG CIOTTI, CONTENT STRATEGIST AT HELPSCOUT
+## GREG CIOTTI, CONTENT STRATEGIST AT HELPSCOUT
 
 
 ![GregCiotti](/wp-content/uploads/2012/08/GregCiotti-copy.png)
@@ -275,7 +275,7 @@ Follow [Greg on Twitter](https://twitter.com/GregoryCiotti) or learn more about
 
 
 
-### JON CARTWRIGHT, CO-FOUNDER AND CEO AT FOOD.EE
+## JON CARTWRIGHT, CO-FOUNDER AND CEO AT FOOD.EE
 
 
 ![JonCartwright](/wp-content/uploads/2012/08/JonCartwright-copy.jpeg)
@@ -288,7 +288,7 @@ Follow [Jon on Twitter](https://twitter.com/jon_cartwright) or learn more about 
 
 
 
-### RYAN HOLMES, CO-FOUNDER AND CEO AT HOOTSUITE
+## RYAN HOLMES, CO-FOUNDER AND CEO AT HOOTSUITE
 
 
 ![RyanHolmes](/wp-content/uploads/2012/08/RyanHolmes-copy.jpeg)
@@ -301,7 +301,7 @@ Follow [Ryan on Twitter](https://twitter.com/invoker) or learn more about his w
 
 
 
-### RAY KANANI, FOUNDER AND CEO AT SMART PICS
+## RAY KANANI, FOUNDER AND CEO AT SMART PICS
 
 
 ![RayKanani](/wp-content/uploads/2012/08/RayKanani-copy.jpeg)

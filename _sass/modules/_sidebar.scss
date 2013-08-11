@@ -25,8 +25,8 @@
     @include transition-property(opacity);
     @include transition-duration(2s);
     @include opacity(0.5);
-    @include screen-max($l-break) {
-        max-width: 420px;
+    @include screen-max($m-break) {
+        width: 100%;
     }
 }
 

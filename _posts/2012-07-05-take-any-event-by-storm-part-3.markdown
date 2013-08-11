@@ -22,12 +22,12 @@ _This is Part Three of my bullet-proof guide to attending events like a rockstar
 Ok, this is the last part! You prepared for your event; you went there; you rocked everyone's world. Now let's talk about the after-event social marketing, and this is where you get real differentiation!
 
 
-### After The Event
+## After The Event
 
 
 
 
-#### 1. Do everything fast.
+### 1. Do everything fast.
 
 
 
@@ -38,7 +38,7 @@ Ok, this is the last part! You prepared for your event; you went there; you rock
 We tend to relax after events and feel like the job is done. Well, it's not. You have a **very brief window of opportunity (one week)** before everyone stops caring about what happened and moves on. This is why I've set a timeframe for all of the following steps.
 
 
-#### 2. Follow up [48 hours].
+### 2. Follow up [48 hours].
 
 
 The first thing you have to do is **follow up with people you've met** at the event. In his bestselling book, "Never Eat Alone," Keith Ferrazzi calls follow-up the "[key to success in any field](http://www.keithferrazzi.com/relationship-development-skills/how-to-surpass-95-of-your-competition-with-one-simple-gesture/)." And I couldn't agree more. But since this post is about social media, let's talk about that.
@@ -52,7 +52,7 @@ Following up with people on **Twitter is powerful** because you get to engage an
 You can also tell them that you're going to be sharing some cool content over the next couple of days. But don't spam them with links to your site; they can figure it out themselves.
 
 
-#### 3. Write a roundup post [one week].
+### 3. Write a roundup post [one week].
 
 
 
@@ -83,7 +83,7 @@ After SXSW 2011, [we (at HootSuite) wrote](http://blog.hootsuite.com/hootsuite-o
 
 
 
-#### 4. Share your content. But portion it [two weeks].
+### 4. Share your content. But portion it [two weeks].
 
 
 If you did everything right, you must have a lot of photos and videos taken. Select the best pictures and **divide them into up to 10 groups**.
@@ -99,7 +99,7 @@ This way you will have **engaging content each day** and people will keep coming
 Same goes for your videos but make sure you spend some time on editing. Photos usually don't need much (or any) fixing unless you are a professional photographer.
 
 
-#### 5. Keep engaging [forever].
+### 5. Keep engaging [forever].
 
 
 The key to social media is that there are no one-time interactions. You have to continue talking, sharing and engaging time and again for your relationships and community to grow.

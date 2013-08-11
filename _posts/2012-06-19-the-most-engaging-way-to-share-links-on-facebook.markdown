@@ -29,7 +29,7 @@ In this post, I'd like to show you a **few simple tricks** that you can apply t
 ![Sharing Links on Facebook, Step 0](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.32.50-AM.png)
 
 
-### Step 1: Throw away the URL.
+## Step 1: Throw away the URL.
 
 
 When you want to share a link, Facebook does an interesting thing with it. It goes to the linked page, grabs its title, images, and a bit of text, and forms a **link preview**. This way people can see what to expect before they open that webpage.
@@ -43,7 +43,7 @@ But did you know that you no longer need the actual URL in your post? Since peop
 This way you are no longer duplicating the information, and have saved yourself a few characters for your post.
 
 
-### Step 2: Remove the Title as Well
+## Step 2: Remove the Title as Well
 
 
 If you're sharing a link via one of the many social media dashboards, such as [_HootSuite_](http://hootsuite.com), you often have the title of the linked page both in the post and in the preview. What for?
@@ -57,7 +57,7 @@ Instead of repeating yourself again, **remove the title and replace it** with so
 This is the key to engagement because you are no longer simply sharing a link, but inviting your audience to participate in a conversation. This simple change can dramatically increase the number of comments and likes you get.
 
 
-### Step 3: Choose The Perfect Thumbnail
+## Step 3: Choose The Perfect Thumbnail
 
 
 The right thumbnail can make a lot of difference. As with pictures in blog posts, these little images grab attention, differentiate your content and attract clicks. So **select the most meaningful one**, the one that best describes what you're sharing.
@@ -65,7 +65,7 @@ The right thumbnail can make a lot of difference. As with pictures in blog posts
 It should be noted that sometimes _Facebook_ doesn't grab any images worth showing, or even no images at all. In this case, you'll have to either go for the next best thing or select "No Thumbnail."
 
 
-### Step 4: Fix the Description
+## Step 4: Fix the Description
 
 Description is also generated automatically from your link. Sometimes it can include things that shouldn't be there or otherwise misrepresent the link.
 
@@ -78,7 +78,7 @@ Just spend a few seconds fixing the problem. **Click on the description to make 
 
 
 
-### BONUS: Other Things to Consider
+## BONUS: Other Things to Consider
 
   * Remove all signs of Twitter hashtags from your post.
   * Tag relevant people/pages in your post by either typing @somebody or clicking the button in the bottom left corner.

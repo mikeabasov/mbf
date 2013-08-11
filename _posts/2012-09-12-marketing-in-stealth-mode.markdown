@@ -44,7 +44,7 @@ Let's examine!
 
 
 
-### When Going Stealth Is a Good Idea
+## When Going Stealth Is a Good Idea
 
 
 
@@ -128,7 +128,7 @@ If any one of those three conditions didn't apply, there would be no need to kee
 
 
 
-### How to Market a Startup in Stealth Mode
+## How to Market a Startup in Stealth Mode
 
 
 
@@ -169,7 +169,7 @@ Here's how...
 
 
 
-### Pre-Launch Conversion Process 
+## Pre-Launch Conversion Process 
 
 
 
@@ -220,7 +220,7 @@ By the way, if you don't want to put too much effort into your "coming soon" pag
 
 
 
-### How Secretive You Should Be
+## How Secretive You Should Be
 
 
 
@@ -237,7 +237,7 @@ Not all stealthy startups are equally stealthy. Depending on how much informatio
 
 
 
-#### Degree Zero: Your startup is a complete secret. 
+### Degree Zero: Your startup is a complete secret. 
 
 
 
@@ -260,7 +260,7 @@ So if you decide to keep everyone completely in the dark, you better be building
 
 
 
-#### First Degree: Something is coming.
+### First Degree: Something is coming.
 
 
 
@@ -296,7 +296,7 @@ Finally, your reputation as a successful entrepreneur can get people very excite
 
 
 
-#### Second Degree: The industry is known.
+### Second Degree: The industry is known.
 
 
 
@@ -319,7 +319,7 @@ At the same time, you can now try connecting with people who may become your fut
 
 
 
-#### Third Degree: The customer pain is known.
+### Third Degree: The customer pain is known.
 
 
 
@@ -356,7 +356,7 @@ Nonetheless, you shouldn't go all out on marketing and stick to reaching out to 
 
 
 
-### That's It for Today… But What About You?
+## That's It for Today… But What About You?
 
 
 

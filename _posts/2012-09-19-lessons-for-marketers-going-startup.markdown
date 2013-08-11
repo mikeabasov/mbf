@@ -68,7 +68,7 @@ Please note that although I do look at this from a marketer's perspective, you a
 
 
 
-### Lesson 1: You have the freedom to do anything. Use it.
+## Lesson 1: You have the freedom to do anything. Use it.
 
 
 
@@ -166,7 +166,7 @@ What can I try today that hasn't been done before?
 
 
 
-### Lesson 2: Writing is your most essential skill. Perfect it.
+## Lesson 2: Writing is your most essential skill. Perfect it.
 
 
 
@@ -223,7 +223,7 @@ Trust me, with time you'll get good. Not "Hemingway kinda good," but good enough
 
 
 
-### Lesson 3: The reports aren't going anywhere. They're just evolving.
+## Lesson 3: The reports aren't going anywhere. They're just evolving.
 
 
 
@@ -258,7 +258,7 @@ _Side note: As your company grows, the processes you've established will help yo
 
 
 
-### Lesson 4: You (still) have to do the things you hate. Get over it.
+## Lesson 4: You (still) have to do the things you hate. Get over it.
 
 
 
@@ -323,7 +323,7 @@ Music helps, and so does coffee.
 
 
 
-### Your Turn
+## Your Turn
 
 
 

@@ -69,17 +69,17 @@ When you put the two together, you end up with is a table just like the one embe
 
 This framework is empty now, and it's yours to fill out. I prefer printing it out, so [here's a PDF]().
 
-#### Step 1:
+### Step 1:
 
 Write down the working title of your content piece.
 
-#### Step 2:
+### Step 2:
 
 Start at the point of origin. Find a cell for it, and write down what exactly you're making.
 
 For example, an ebook will land itself somewhere under text and graphics, and in the 15&ndash;60 minute commitment zone.
 
-#### Step 3:
+### Step 3:
 
 Brainstorm ways you can morph your original content into different formats and shapes.
 
@@ -87,7 +87,7 @@ Can you break it down into smaller pieces? Can you build it up into something ma
 
 If you find yourself struggling, [here are a few ideas](). But remember that these are just pointers, and there are lots of ways to fill out the worksheet.
 
-#### Step 4.
+### Step 4.
 
 Finally, select the content pieces you think you should be making and get to work!
 
@@ -121,7 +121,7 @@ Finally, knowing that our designer would do a great job with the graphics I thou
 
 Note that none of these things took me much time. Blog post was written in an hour, not ten. Social media updates wrote themselves. Meanwhile, the total number of content pieces more than tripled.
 
-#### The Results
+### The Results
 To say the least, the results were great. The deck has been seen by over 18,000 people in less than a month. The post and the deck have been shared 800+ times combined and reposted on a number of cool blogs.
 
 The highlight of the campaign was probably [this inforgraphic](//info.com) that a random company made based on the post. (And that's content morphing too, by the way.)

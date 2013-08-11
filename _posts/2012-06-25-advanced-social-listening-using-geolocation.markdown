@@ -26,7 +26,7 @@ _Twitter_ also allows you to find all these **conversations happening in your lo
 
 [_(click here if you don't see the video)_](http://www.youtube.com/watch?v=A-JjcvfpTEQ)
 
-### How Geolocalated Search Works
+## How Geolocalated Search Works
 
 
 When people tweet, they have the ability to **disclose their current location**. Not everybody does it, but there's a lot of people who do, especially on the mobile platforms.
@@ -36,7 +36,7 @@ Most of the time, their location doesn't matter—it doesn't show up in the twee
 A geocode looks like this: _geocode:49.248523,-123.1088,50km_. It incudes **latitude**, **longitude**, and the **radius** around that location. If you add this code to any of your keyword queries on _Twitter_, you will get back tweets coming from that specific area.
 
 
-### Why Use Geolocalated Search
+## Why Use Geolocalated Search
 
 
 The basic reason for geolocating your searches is that you want to filter out tweets that don't matter to you and concentrate on the ones that do.
@@ -44,13 +44,13 @@ The basic reason for geolocating your searches is that you want to filter out tw
 For example, if you own a local coffee shop, you can narrow down your search for posts mentioning coffee from the whole world to your area specifically. Isn't that amazing?
 
 
-### How to Do It
+## How to Do It
 
 
 For the sake of this example, I'll be using _[HootSuite](http://hootsuite.com)_, but you can use any other social media dashboard or even the basic [_Twitter_ search tool](http://search.twitter.com). Also, let's pretend that you own a small trendy local coffee shop.
 
 
-#### 1. Add  a new search stream.
+### 1. Add  a new search stream.
 
 
 Search for something that matters to your business. Fox example, coffee.
@@ -58,7 +58,7 @@ Search for something that matters to your business. Fox example, coffee.
 
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.26.34-AM.png)
 
-#### 2. Narrow down your search.
+### 2. Narrow down your search.
 
 
 Use the tips from my "[How to Monitor Everything on Twitter](/2010/09/05/how-to-monitor-everything-on-twitter/)" series to narrow down your search to questions about coffee. At this stage, tweets will be appearing from all over the world.
@@ -67,7 +67,7 @@ Use the tips from my "[How to Monitor Everything on Twitter](/2010/09/05/how-to-
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.28.20-AM.png)
 
 
-#### 3. Add geolocation filtering.
+### 3. Add geolocation filtering.
 
 
 As a local coffee shop owner, you probably don't care about what people think about coffee on the other side of the globe, so let's geolocate! **Click on that 'crosshair' button to share you location.** It is important that you do it _at the location of your coffee shop_.
@@ -82,7 +82,7 @@ Once you've saved the changes, you'll have your **targeted local search results*
 ![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.18.29-AM.png)
 
 
-### How to Search Beyond One Location
+## How to Search Beyond One Location
 
 
 Sometimes, just one city is not enough. You may want to search for tweets at a number of places or want to cover a whole country. Unfortunately, there is no easy default way of doing this, but again geolocation comes to the rescue!

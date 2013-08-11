@@ -42,7 +42,7 @@ I promise you that these rules can really help accelerate your company's growth 
 
 
 
-### 1. Marketing starts with the product.
+## 1. Marketing starts with the product.
 
 
 Here’s what I believe. **“Build it and they will come” no longer works.** There’s just too much noise in the marketplace for your product to naturally emerge into massive success.
@@ -68,7 +68,7 @@ But the world has changed, and today **marketing and product development have to
 
 
 
-### 2. Your goals always come first.
+## 2. Your goals always come first.
 
 
 It’s easy to get lost in tactics and tools when deciding how to market your startup. What social media networks should you be using? Should you buy ads on Facebook or on Google? Should you buy any ads at all?
@@ -104,7 +104,7 @@ Once you have the goals in place, **figure out who your potential customers are*
 Only at this point should you **think about specific tactics and tools**. And only when all of them relate back to your goals, you get efficiency while money becomes less of a constraint.
 
 
-### 3. Use the smart approach to DIY.
+## 3. Use the smart approach to DIY.
 
 
 The regular approach to Do-It-Yourself marketing is about the Whats and the Hows.
@@ -144,7 +144,7 @@ You must be curious about things, and you must find time to learn about the reas
 _Side note: Theories and Whys are not the same thing. Because of this, formal education is usually not the best place to learn about marketing._
 
 
-### 4. Market. Measure. Learn.
+## 4. Market. Measure. Learn.
 
 
 One of the core principles in [Eric Ries’ “Lean Startup” methodology](http://theleanstartup.com/principles) is the build-measure-learn feedback loop.
@@ -160,7 +160,7 @@ Startups rarely fail to build. However, sometimes they fail to measure. And even
 But unless you do all these steps relentlessly, you’ll end up wasting your time and money.
 
 
-### 5. Apply the 80/20 Rule.
+## 5. Apply the 80/20 Rule.
 
 
 You might have heard of this rule before. Discovered in 1906 by an Italian economist [Vilfredo Pareto](http://en.wikipedia.org/wiki/Pareto_principle), it states that 80% of effects come from 20% of causes. For example:
@@ -185,7 +185,7 @@ So do it! **Dump the 80% of marketing that doesn’t work** and reinvest those r
 
 
 
-### 6. Use your network. Wisely.
+## 6. Use your network. Wisely.
 
 
 Your network is one of the greatest assets you can have. Your friends, acquaintances, and advisors will help you improve your marketing and spread the word about your product.
@@ -202,7 +202,7 @@ Help people often and without any selfish motives. Be a nice person. Trust me th
 
 
 
-### 7. Don’t judge anything by its price tag.
+## 7. Don’t judge anything by its price tag.
 
 
 Expensive doesn’t always mean good. And neither does cheap.
@@ -219,7 +219,7 @@ _Side note: If you thought that this blog is about "cheap" marketing, I’m sorr
 
 
 
-### 8. You can do it.
+## 8. You can do it.
 
 
 When you don’t have a lot money in your marketing budget, the only option left is to replace it with your time and effort.

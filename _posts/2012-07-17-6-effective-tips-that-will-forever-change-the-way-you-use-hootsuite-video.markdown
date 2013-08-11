@@ -22,7 +22,7 @@ As many of you may know, I'm a huge [HootSuite](http://hootsuite.com) fan. Maybe
 So today I wanted to share some great tips on using HootSuite. They are all pretty simple but can have an huge impact on your efficiency and help you **grow your digital brand** much faster.
 
 
-### 1. The Fastest Way of Adding People to Lists
+## 1. The Fastest Way of Adding People to Lists
 
 
 Whenever you have search feeds set up in a tab, **keep a relevant list stream nearby**. This way you can easily list people who are important to you.
@@ -34,7 +34,7 @@ Just click on a person's userpic, drag it from one stream to another, and drop 
 [youtube_sc url="http://youtu.be/ONO5cnI8WmE" fs="1" hd="1"]
 
 
-### 2. Maximize Efficiency of Your Tabs
+## 2. Maximize Efficiency of Your Tabs
 
 
 I suggest you always follow and list everyone who is relevant to your startup. To maximize efficiency of your listening tabs, keep a list together with the search streams on the same topic (see the previous example).
@@ -46,7 +46,7 @@ But! HootSuite doesn't allow you to drag a userpic outside of your visible scr
 [youtube_sc url="http://www.youtube.com/watch?v=XPhKTHtaKDM" fs="1" hd="1"]
 
 
-### 3. Pin Your Main Social Media Profile
+## 3. Pin Your Main Social Media Profile
 
 
 After pinning your favourite social media profile in HootSuite, everything you write can be posted via that profile by default. This works great with Twitter because it usually gets updated most often.
@@ -56,7 +56,7 @@ To pin an account, go to your profile selection area and click on the little pin
 [youtube_sc url="http://www.youtube.com/watch?v=JMdnEEdSCQw" fs="1" hd="1"]
 
 
-### 4. Set Your Tabs to Manual Refresh
+## 4. Set Your Tabs to Manual Refresh
 
 
 People tweet a lot! When you have 10 streams in your tab and are trying to catch up on what's being posted, nothing hurts more than an auto-refresh that moves things around and creates a complete mess.
@@ -68,7 +68,7 @@ So **set your tabs to manual refresh** and never miss a post! To do so, click on
 [youtube_sc url="http://www.youtube.com/watch?v=2BhMmMJOlxY" fs="1" hd="1"]
 
 
-### 5. Narrow Down Search Results
+## 5. Narrow Down Search Results
 
 
 I've written about this before in "[How to Monitor Your Topic on Twitter](/2010/09/08/how-to-monitor-your-topic-on-twitter/)," but here's a quick summary of cool** search filters** that few people know about:
@@ -90,7 +90,7 @@ I've written about this before in "[How to Monitor Your Topic on Twitter](/2010/
 
 
 
-### 6. Filter the Home Feed in Real Time
+## 6. Filter the Home Feed in Real Time
 
 
 Your Home Feed can be filtered live by keywords or [Klout score](http://klout.com). This allows you to quickly identify valuable tweets in a sea of #humblebrags. In the top right corner of the Home Feed, click on the arrow, select "Filter by..." and set it up to your preference.
@@ -102,7 +102,7 @@ I don't usually use the **Klour score filter**, but I often narrow down my searc
 [youtube_sc url="http://www.youtube.com/watch?v=z-OvuxVLFbI" fs="1" hd="1"]
 
 
-### That's It!
+## That's It!
 
 
 Liked the post? Here are some ideas about what to do next:

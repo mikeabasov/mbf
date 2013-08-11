@@ -40,7 +40,7 @@ Ready? Let's do this!
 
 
 
-### The Basics of Email Guessing
+## The Basics of Email Guessing
 
 
 First, let's discuss some basic assumptions.
@@ -82,7 +82,7 @@ And that's about it. Companies rarely get creative with this, which makes your a
 
 
 
-### Using Rapportive to Go from Guessing to Knowing
+## Using Rapportive to Go from Guessing to Knowing
 
 
 Now that you have a clear understanding of how companies come up with their emails, you can use one simple yet powerful technique (and tool) to turn your educated guesses into bulletproof knowledge.
@@ -112,7 +112,7 @@ Go try it out for yourself…
 
 
 
-### When Rapportive Fails
+## When Rapportive Fails
 
 
 Of course, Rapportive is no panacea.
@@ -122,7 +122,7 @@ Sometimes, the address you're looking for isn't connected to any social media. T
 **But, fortunately, I have a few backup plans for you…**
 
 
-#### Backup plan #1: Research your target.
+### Backup plan #1: Research your target.
 
 
 As you may have noticed, we haven't even started researching your target yet.
@@ -132,7 +132,7 @@ As you may have noticed, we haven't even started researching your target yet.
 If that doesn't work, check out the company's website, your target's personal blog and social media. Hopefully, you'll find what you're looking for.
 
 
-#### Backup plan #2: Try all of them.
+### Backup plan #2: Try all of them.
 
 
 Still no luck?
@@ -152,7 +152,7 @@ At the same time, since the full list of emails is hidden, the person won't feel
 
 
 
-#### Backup Plan #3: If all else fails, go social.
+### Backup Plan #3: If all else fails, go social.
 
 
 If you're reading this, it means that none of the above options worked, and your inbox is full of "Delivery Failed" messages.
@@ -186,7 +186,7 @@ Again, if you had tried everything and nothing worked (which is a ridiculously r
 
 
 
-### Let's Hear Your Ideas!
+## Let's Hear Your Ideas!
 
 
 Have you faced a situation when you needed to get in touch with an influencer, over email or otherwise? How did you go about it? What was the result?

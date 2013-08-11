@@ -1,11 +1,9 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2013-03-05 13:00:49+00:00
 layout: post
 slug: stop-browsing-techcrunch-get-involved-in-your-startup-community
 title: Stop Browsing TechCrunch. Get Involved in Your Startup Community.
-wordpress_id: 1216
 categories:
 - Big Picture Stuff
 - Networking
@@ -46,9 +44,7 @@ Because here are the five easy-as-hell ways to get started.
 <!-- more -->
 
 
-
-
-### 1. Join Conversations Online
+## 1. Join Conversations Online
 
 
 Reading blogs and watching videos is great. Now it's time to start talking, engaging and building relationships.
@@ -70,9 +66,7 @@ Being a passive observer is bad. Being a participant isn't.
 **Getting active on Twitter is a fantastic first step because when you meet people in real life, you won't need to break the ice.**
 
 
-
-
-### 2. Go to a Meetup
+## 2. Go to a Meetup
 
 
 Meetups are community-organized events in your city. They are mostly interest-based, free (or cheap) to attend, and open to anyone. This means no barriers of entry for newcomers.
@@ -90,7 +84,7 @@ It's as cool as Twitter because it's all about making connections and learning n
 
 
 
-### 3. Sign up for a Startup Weekend
+## 3. Sign up for a Startup Weekend
 
 
 _Having fun talking to people online and going to meetups? Time to take it up a notch!_
@@ -108,7 +102,7 @@ I'm sure you will find it rewarding as well.
 
 
 
-### 4. Ask Someone out for Coffee
+## 4. Ask Someone out for Coffee
 
 
 This point will probably seem the scariest of all, but here it goes.
@@ -134,7 +128,7 @@ _(if you're in Vancouver, you can [start with me](/contact/).)_
 
 
 
-### 5. Volunteer
+## 5. Volunteer
 
 
 Volunteering is a great way to get involved. There is a massive shortage of smart people in any city and everyone needs help with something.
@@ -163,7 +157,7 @@ Which brings us to the next point...
 
 
 
-### Next Step: Contribute to the Community
+## Next Step: Contribute to the Community
 
 
 Once you get comfortable being a participant, it's time to become a contributor.
@@ -175,7 +169,7 @@ Once you get comfortable being a participant, it's time to become a contributor.
 
 
 
-### Final Step: The Switch
+## Final Step: The Switch
 
 
 I've given you five ways to get involved in the startup scene. All of them are painless and straightforward.

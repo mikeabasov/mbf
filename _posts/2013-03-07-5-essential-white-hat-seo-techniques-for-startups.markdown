@@ -26,7 +26,7 @@ If you’re in the process of implementing an SEO plan for your startup business
 
 
 
-### 1. Make On-Page SEO the Backbone of Your Strategy
+## 1. Make On-Page SEO the Backbone of Your Strategy
 
 
 A lot of startups head straight for content creation and social media in the first stages of a new site, but that could be a big mistake. Without a solid basis of technical (i.e. on-page) SEO, all of this will be meaningless. 
@@ -47,7 +47,7 @@ With a backbone of technical SEO, you can grow the other aspects of your strateg
 
 
 
-### 2. Use Social Media to Build Awareness
+## 2. Use Social Media to Build Awareness
 
 
 
@@ -77,7 +77,7 @@ This translated to 12,000 people signing up to Dollar Shave Club in just 48 hour
 
 
 
-### 3. Implement a Strong Content Marketing Plan
+## 3. Implement a Strong Content Marketing Plan
 
 
 
@@ -95,7 +95,7 @@ Your content marketing plan doesn’t only have to include written content eithe
 
 
 
-### 4. Give Your Site Good Content
+## 4. Give Your Site Good Content
 
 
 
@@ -114,7 +114,7 @@ People spend [less than a minute](http://www.nngroup.com/articles/how-long-do-us
 
 
 
-### 5. Set Up a Consistent Guest Blogging Program
+## 5. Set Up a Consistent Guest Blogging Program
 
 
 
@@ -139,7 +139,7 @@ If you set up your own blog you can then target long tail keywords that will hel
 
 
 
-### Conclusion
+## Conclusion
 
 
 
