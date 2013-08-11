@@ -1,11 +1,9 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-12-19 14:00:06+00:00
 layout: post
 slug: mbf-2013
 title: New gig at Mobify. (Exciting) Future of Marketing Before Funding
-wordpress_id: 1154
 categories:
 - Other
 ---
@@ -18,13 +16,10 @@ I'll also ask you for a **quick favour at the very end** of the post. No, it won
 
 <!-- more -->
 
-
-
-
 ## New Chapter: Mobify
 
 
-As of last week, I am now a full-time marketing coordinator at [Mobify](http://mobify.com), one of the top Vancouver startup companies.
+As of last week, I am now a full-time marketing coordinator at [Mobify](//mobify.com), one of the top Vancouver startup companies.
 
 ![Mike Abasov's Desk at Mobify](/wp-content/uploads/2012/12/2012-12-11-17.37.59-590x590.jpg)
 
@@ -33,8 +28,6 @@ Mobify's platform-as-a-service (PaaS) software allows large brands, such as Star
 My role within the company is yet to be narrowed down, but for now I will be tackling a wide range of inbound marketing challenges.
 
 Honestly, I couldn't be more excited.
-
-
 
 
 ## Marketing Before Funding in 2013
@@ -60,28 +53,15 @@ And I'll keep doing my best to provide you with great content in 2013 and beyond
 
 **Here's a quick list of things I'm planning for the next year:**
 
-
-
-	
   * Practical "how-to" interviews with top startup marketers.
-
-	
   * Guest posts from amazing growth hackers. And by the way, you can [write for MBF](/guest-post/) too.
-
-	
   * Articles tackling PR, content marketing, SEO, getting interns, and other topics we haven't discussed yet.
-
-	
   * In-depth courses (free and/or paid) on [social media for tech startups](/category/social-media/).
-
 
 Trust me that there's lots of cool stuff in the works!
 
 
-
-
 ## Help Me Help You
-
 
 With so many ideas and plans for 2013, I want to make sure that you're getting what you need out of this blog. So I've set up a quick survey that shouldn't take up much of your time.
 
@@ -89,12 +69,7 @@ There's a number of questions to help me write the best possible articles for yo
 
 **Please, help me help you and fill out the survey by clicking on the big red link below.**
 
-
-
-[**
-BIG RED LINK**](https://docs.google.com/a/marketingbeforefunding.com/spreadsheet/viewform?formkey=dFBmVklSUzJGSkpJY0ltZ3YzLXlXR1E6MQ)
-
-
+[**BIG RED LINK**](//docs.google.com/a/marketingbeforefunding.com/spreadsheet/viewform?formkey=dFBmVklSUzJGSkpJY0ltZ3YzLXlXR1E6MQ)
 
 
 _Thank you so much,

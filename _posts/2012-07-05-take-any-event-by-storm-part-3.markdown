@@ -1,18 +1,12 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-07-05 12:00:38+00:00
 layout: post
 slug: take-any-event-by-storm-part-3
 title: How to Take any Event by Storm with Social Media [Part 3]
-wordpress_id: 361
 categories:
 - Networking
 - Social Media
-tags:
-- Events
-- HootSuite
-- Twitter
 ---
 
 [![How to Take any Event by Storm [Part 3]](/wp-content/uploads/2012/07/storm3.png)](/2012/07/05/take-any-event-by-storm-part-3/)
@@ -22,17 +16,13 @@ _This is Part Three of my bullet-proof guide to attending events like a rockstar
 Ok, this is the last part! You prepared for your event; you went there; you rocked everyone's world. Now let's talk about the after-event social marketing, and this is where you get real differentiation!
 
 
+<!-- more -->
+
 ## After The Event
-
-
-
 
 ### 1. Do everything fast.
 
-
-
-
-[![Timer de Cozinha em forma de Tomate](http://farm6.staticflickr.com/5009/5351547427_9d9447efcd.jpg)](http://www.flickr.com/photos/mlpeixoto/5351547427/)
+[![Timer de Cozinha em forma de Tomate](//farm6.staticflickr.com/5009/5351547427_9d9447efcd.jpg)](//www.flickr.com/photos/mlpeixoto/5351547427/)
 
 
 We tend to relax after events and feel like the job is done. Well, it's not. You have a **very brief window of opportunity (one week)** before everyone stops caring about what happened and moves on. This is why I've set a timeframe for all of the following steps.
@@ -41,7 +31,7 @@ We tend to relax after events and feel like the job is done. Well, it's not. You
 ### 2. Follow up [48 hours].
 
 
-The first thing you have to do is **follow up with people you've met** at the event. In his bestselling book, "Never Eat Alone," Keith Ferrazzi calls follow-up the "[key to success in any field](http://www.keithferrazzi.com/relationship-development-skills/how-to-surpass-95-of-your-competition-with-one-simple-gesture/)." And I couldn't agree more. But since this post is about social media, let's talk about that.
+The first thing you have to do is **follow up with people you've met** at the event. In his bestselling book, "Never Eat Alone," Keith Ferrazzi calls follow-up the "[key to success in any field](//www.keithferrazzi.com/relationship-development-skills/how-to-surpass-95-of-your-competition-with-one-simple-gesture/)." And I couldn't agree more. But since this post is about social media, let's talk about that.
 
 
 > "Make follow-up a habit. Make it automatic." — Keith Ferrazzi
@@ -55,32 +45,16 @@ You can also tell them that you're going to be sharing some cool content over th
 ### 3. Write a roundup post [one week].
 
 
-
-
-[!["Story Road"](http://farm1.staticflickr.com/227/497411169_d6eeb0849a.jpg)](http://www.flickr.com/photos/umjanedoan/497411169/)
+[!["Story Road"](//farm1.staticflickr.com/227/497411169_d6eeb0849a.jpg)](//www.flickr.com/photos/umjanedoan/497411169/)
 
 
 Write a blog post about the event.  Make it **interesting**, **engaging**, and **shareable**.  Here's how:
 
-
-
-	
   * Tell a story.
-
-	
   * Include the best quotes from speakers if there were any.
-
-	
   * Add some photos and videos and link to your Facebook or Flickr, where people can find even more.
-
-	
-  * Make it about others, not just yourself.
-After SXSW 2011, [we (at HootSuite) wrote](http://blog.hootsuite.com/hootsuite-owls-at-sxsw2011/) about Japan earthquake relief efforts and how people could get involved. It wasn't about marketing; it was about helping someone in need.
-
-	
+  * Make it about others, not just yourself. (After SXSW 2011, [we (at HootSuite) wrote](//blog.hootsuite.com/hootsuite-owls-at-sxsw2011/) about Japan earthquake relief efforts and how people could get involved. It wasn't about marketing; it was about helping someone in need._
   * Include links to other bloggers who reviewed the event. (Trackbacks are a nice feature too.)
-
-
 
 
 ### 4. Share your content. But portion it [two weeks].
@@ -104,14 +78,13 @@ Same goes for your videos but make sure you spend some time on editing. Photos u
 
 The key to social media is that there are no one-time interactions. You have to continue talking, sharing and engaging time and again for your relationships and community to grow.
 
-So don't forget about the people you've met at the event. You may delete your massive Twitter list to create space for a new one, but first reassign its members to a different, permanent index (e.g. [Marketers in Vancouver](https://twitter.com/#!/Mike_Abasov/yvr-marketers)).
+So don't forget about the people you've met at the event. You may delete your massive Twitter list to create space for a new one, but first reassign its members to a different, permanent index (e.g. [Marketers in Vancouver](//twitter.com/#!/Mike_Abasov/yvr-marketers)).
 
 
-[![Flower and watering pot](http://farm4.staticflickr.com/3336/3280875784_83078ed2b5.jpg)](http://www.flickr.com/photos/jram23/3280875784/)
-
+[![Flower and watering pot](//farm4.staticflickr.com/3336/3280875784_83078ed2b5.jpg)](//www.flickr.com/photos/jram23/3280875784/)
 
 Remember, events provide a unique opportunity to connect with people in real life, build context quickly and make your online relationships more meaningful.
 
 That's it. I promised you a bullet-proof guide, and here you have it. **These 19 techniques have never failed me before. **Use them wisely, and you'll easily take any event by storm. And once you do, let me know how it goes!
 
-P.S. Liked this article? [Subscribe to my newsletter](http://eepurl.com/bxn-f) to get exclusive content and more.
+P.S. Liked this article? [Subscribe to our newsletter](//eepurl.com/bxn-f) to get exclusive content and more.

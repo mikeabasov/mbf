@@ -34,7 +34,13 @@
                                 {{ page.title }}
                             {%endif %}
                         </h1>
-                        <p class="post-meta">Written by {{ page.author }}&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;{{ page.date | date_to_string }}</p>
+                        <p class="post-meta">
+                            {% if page.author == "Mike Abasov" %}
+                                <a href="/about/#mike">Written by {{ page.author }}</a> &middot; {{ page.date | date_to_string }}
+                            {% else %}
+                                Written by {{ page.author }} &middot; {{ page.date | date_to_string }}
+                            {% endif %}
+                        </p>
                 </div>
             </div>
         </section>

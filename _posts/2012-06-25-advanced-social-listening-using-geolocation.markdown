@@ -1,18 +1,11 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-06-25 12:00:36+00:00
 layout: post
 slug: advanced-social-listening-using-geolocation
 title: Advanced Social Listening Using Geolocation [VIDEO]
-wordpress_id: 240
 categories:
 - Social Media
-tags:
-- Geolocation
-- HootSuite
-- Listening
-- Twitter
 ---
 
 [![Advanced Social Listening Using Geolocation](/wp-content/uploads/2012/06/geolocal.png)](/2012/06/25/advanced-social-listening-using-geolocation/)
@@ -21,10 +14,12 @@ You probably already know that _Twitter_ can be a great tool for listening to yo
 
 _Twitter_ also allows you to find all these **conversations happening in your local area**. This can be incredibly powerful.
 
-[youtube_sc url="http://www.youtube.com/watch?v=A-JjcvfpTEQ" fs="1" hd="1"]
+[youtube_sc url="//www.youtube.com/watch?v=A-JjcvfpTEQ" fs="1" hd="1"]
 
 
-[_(click here if you don't see the video)_](http://www.youtube.com/watch?v=A-JjcvfpTEQ)
+[_(click here if you don't see the video)_](//www.youtube.com/watch?v=A-JjcvfpTEQ)
+
+<!-- more -->
 
 ## How Geolocalated Search Works
 
@@ -38,7 +33,6 @@ A geocode looks like this: _geocode:49.248523,-123.1088,50km_. It incudes **lati
 
 ## Why Use Geolocalated Search
 
-
 The basic reason for geolocating your searches is that you want to filter out tweets that don't matter to you and concentrate on the ones that do.
 
 For example, if you own a local coffee shop, you can narrow down your search for posts mentioning coffee from the whole world to your area specifically. Isn't that amazing?
@@ -46,12 +40,10 @@ For example, if you own a local coffee shop, you can narrow down your search for
 
 ## How to Do It
 
-
-For the sake of this example, I'll be using _[HootSuite](http://hootsuite.com)_, but you can use any other social media dashboard or even the basic [_Twitter_ search tool](http://search.twitter.com). Also, let's pretend that you own a small trendy local coffee shop.
+For the sake of this example, I'll be using _[HootSuite](//hootsuite.com)_, but you can use any other social media dashboard or even the basic [_Twitter_ search tool](//search.twitter.com). Also, let's pretend that you own a small trendy local coffee shop.
 
 
 ### 1. Add  a new search stream.
-
 
 Search for something that matters to your business. Fox example, coffee.
 
@@ -84,14 +76,11 @@ Once you've saved the changes, you'll have your **targeted local search results*
 
 ## How to Search Beyond One Location
 
-
 Sometimes, just one city is not enough. You may want to search for tweets at a number of places or want to cover a whole country. Unfortunately, there is no easy default way of doing this, but again geolocation comes to the rescue!
 
+[![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.57-AM.png)](//geocoder.ca)
 
-[![](/wp-content/uploads/2012/06/Screen-Shot-2012-06-24-at-2.19.57-AM-500x170.png)](http://geocoder.ca)
-
-
-To search for tweets in cities other than your own, you need to find the geocodes of those cities. Use tools such as [GeoCoder.ca](http://geocoder.ca) and [Travelgis.com](http://www.travelgis.com/geocode/default.aspx) to find the codes, and then translate them into the format that works with _Twitter_: **geocode:LATITUDE,LONGITUDE,RADIUSkm**.
+To search for tweets in cities other than your own, you need to find the geocodes of those cities. Use tools such as [GeoCoder.ca](//geocoder.ca) and [Travelgis.com](//www.travelgis.com/geocode/default.aspx) to find the codes, and then translate them into the format that works with _Twitter_: **geocode:LATITUDE,LONGITUDE,RADIUSkm**.
 
 Last thing you need to do is **replicate your search streams** with the new geocodes and enjoy targeted results. Here's an example for Vancouver (left) and Toronto:
 

@@ -1,6 +1,10 @@
 .subscriber {
     background-color: $red;
     color: $white;
+    @include screen-max($m-break) {
+        padding: 1em;
+        margin-bottom: 1em;
+    }
 }
     .subscriber h5 {
         color: $white;
