@@ -25,6 +25,15 @@
     margin: 2*$base-font-size 0;
 }
 
+.category-page h1 {
+    @include header-2;
+    margin-top: 0;
+}
+
+.category-page h2 {
+    @include header-2;
+    font-weight: 400;
+}
 
 // Comments
 

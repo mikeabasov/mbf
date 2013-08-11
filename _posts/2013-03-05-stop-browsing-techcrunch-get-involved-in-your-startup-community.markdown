@@ -17,7 +17,6 @@ tags:
 - Events
 ---
 
-[![Get Involved in Your Startup Community](/wp-content/uploads/2013/03/stop-browsing-techcrunch-590x393.png)](/2013/03/05/stop-browsing-techcrunch-get-involved-in-your-startup-community/)
 
 A couple of weeks ago, I went out to get a few beers with a friend of mine. He's working for a big corporation, but over the last year has become really interested in startups.
 
@@ -35,7 +34,6 @@ I've heard this story so many times before, and I'm tired of explaining how easy
 
 
 > What if all these _passive observers_ stop surfing the Web and actually get involved in their local startup communities? Wouldn't that be awesome?
-
 
 
 I believe that the world would become a much better place.
@@ -145,16 +143,16 @@ Volunteering is a great way to get involved. There is a massive shortage of smar
 
 
 
-	
+
   * Talk to meetup hosts. How can you help?
 
-	
+
   * Connect with your local Startup Weekend organizers. How can you help?
 
-	
+
   * Reach out to accelerators / incubators. How can you help?
 
-	
+
   * Talk to startups too. How can you help?
 
 

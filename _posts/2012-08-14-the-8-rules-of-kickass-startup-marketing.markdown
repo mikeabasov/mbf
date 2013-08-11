@@ -75,7 +75,7 @@ It’s easy to get lost in tactics and tools when deciding how to market your st
 
 **Before you can select the right tools for your startup, you need to decide what your goals are.**
 
-[![](/wp-content/uploads/2012/08/3145391821_f9d93e842d_z-590x393.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
+[![](/wp-content/uploads/2012/08/3145391821_f9d93e842d_z.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
 
 First, think in broad, [big picture](/category/big-picture-stuff/), terms, but then also go into detail when working on something like you social media or content strategy.
 
@@ -190,7 +190,7 @@ So do it! **Dump the 80% of marketing that doesn’t work** and reinvest those r
 
 Your network is one of the greatest assets you can have. Your friends, acquaintances, and advisors will help you improve your marketing and spread the word about your product.
 
-[![](/wp-content/uploads/2012/08/5090069380_e93d381635_z-590x393.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
+[![](/wp-content/uploads/2012/08/5090069380_e93d381635_z.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
 
 Connect with the right people and you will receive [free advice](/2012/08/07/startup-marketing-priorities/), introductions to the influencers and the media, and otherwise get help.
 

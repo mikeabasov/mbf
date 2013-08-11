@@ -259,7 +259,7 @@ Many companies have found ways to reward their fans with small, inexpensive gift
 
 For example, the guys over at [Hockey Community](http://hockey-community.com/) send hockey pucks that get photographed, Instagram’ed and shared all over the place.
 
-[![](/wp-content/uploads/2012/08/Hockey-Community-puck-590x393.jpeg)](http://hockey-community.com/)
+[![](/wp-content/uploads/2012/08/Hockey-Community-puck.jpeg)](http://hockey-community.com/)
 
 If you were considering spending money on advertising, I suggest you look into such micro-rewards instead.
 

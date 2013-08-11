@@ -14,7 +14,7 @@ tags:
 - Tools
 ---
 
-[![Telepathy and 5 Other Ways to Collect Actionable User Feedback](/wp-content/uploads/2012/11/telepathy-590x393.png)](/2012/11/07/collecting-user-feedback/telepathy/)
+[![Telepathy and 5 Other Ways to Collect Actionable User Feedback](/wp-content/uploads/2012/11/telepathy.png)](/2012/11/07/collecting-user-feedback/telepathy/)
 
 How good is your big idea? How good are your small ones? Your new features? Is your startup solving a real problem? Who are your most loyal customers?…
 

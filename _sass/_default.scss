@@ -3,25 +3,24 @@
 @import "compass/css3";
 
 
-/* ------------------ COLORS ------------------ */
 
 body {
     background-color: $white;
     color: $grey;
 }
 
-
-
-/* ------------------ BLOCKS ------------------ */
-
-
-/* ------------------ end BLOCKS ------------------ */
-
 img {
     max-width: 100%;
 }
 
-/* ------------------ LISTS ------------------------ */
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+
+}
 
 .post-list{
     list-style-type: none;
@@ -34,4 +33,3 @@ img {
     	padding: 0.7*$base-font-size 0;
     }
 
-/* ------------------ end LISTS -------------------- */

@@ -16,7 +16,7 @@ tags:
 - Lessons
 ---
 
-[![Complete Guide to Creating a Customer Persona for Your Startup](/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups-590x393.png)](/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
+[![Complete Guide to Creating a Customer Persona for Your Startup](/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups.png)](/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
 
 _Why do some marketing campaigns succeed and others fail?_
 
