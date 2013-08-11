@@ -101,7 +101,7 @@ h1 {
 h2 {
     @include header-2;
     @include screen-max($m-break) {
-        @include header-4;
+        @include header-5;
     }
 }
 

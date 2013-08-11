@@ -36,7 +36,7 @@ layout: blog
 <div class="grid-container grid-parent pagination">
     <div class="grid-50">
         {% if paginator.next_page %}
-            <a class="btn" href="{{ paginator.next_page_path }}">
+            <a class="btn btn-secondary" href="{{ paginator.next_page_path }}">
                 &laquo View older posts
             </a>
         {% endif %}
@@ -44,9 +44,13 @@ layout: blog
     <div class="grid-50">
         {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
-                <a class="btn" href="/">View newer posts &raquo</a>
+                <a class="btn btn-secondary" href="/">
+                    View newer posts &raquo
+                </a>
             {% else %}
-                <a class="btn" href="{{ paginator.previous_page_path }}">View newer posts &raquo</a>
+                <a class="btn btn-secondary" href="{{ paginator.previous_page_path }}">
+                    View newer posts &raquo
+                </a>
             {% endif %}
         {% endif %}
     </div>
