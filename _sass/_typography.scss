@@ -101,21 +101,21 @@ h1 {
 h2 {
     @include header-2;
     @include screen-max($m-break) {
-        @include header-3;
+        @include header-4;
     }
 }
 
 h3 {
     @include header-3;
     @include screen-max($m-break) {
-        @include header-4;
+        @include header-5;
     }
 }
 
 h4 {
     @include header-4;
     @include screen-max($m-break) {
-        @include header-5;
+        @include header-6;
     }
 }
 

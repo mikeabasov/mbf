@@ -1,6 +1,6 @@
 ---
 title:  Blog
-headline:  Fresh Content
+headline:  Fresh content
 summary: "Learn startup marketing, build a remarkable company, get traction..."
 layout: blog
 ---
@@ -21,7 +21,7 @@ layout: blog
 
         <p>
             <a href="{{ post.url }}" title="{{ post.title }}">
-                <strong>Read more &raquo</strong>
+                <strong>Continue reading &raquo</strong>
             </a>
         </p>
 
@@ -31,7 +31,9 @@ layout: blog
 
 {% endfor %}
 
-<div class="grid-container pagination">
+<hr>
+
+<div class="grid-container grid-parent pagination">
     <div class="grid-50">
         {% if paginator.next_page %}
             <a class="btn" href="{{ paginator.next_page_path }}">
