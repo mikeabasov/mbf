@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-08-14 09:18:33+00:00
 layout: post
@@ -12,7 +12,7 @@ categories:
 - Remarkable Products
 ---
 
-[![8 Rules of Kickass Startup Marketing](http://marketingbeforefunding.com/wp-content/uploads/2012/08/1246790051_db893534c3_b-590x396.jpeg)](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/)
+[![8 Rules of Kickass Startup Marketing](/wp-content/uploads/2012/08/1246790051_db893534c3_b-590x396.jpeg)](/2012/08/14/the-8-rules-of-kickass-startup-marketing/)
 
 
 
@@ -23,7 +23,7 @@ Let me say a few words before we begin. I launched this blog only a week ago, 
 
 **Thank you so much** for becoming a part of our new community of entrepreneurs and marketers! We have a lot to discuss and learn in the coming months, and by “we” I mean you and I 'cause this is a two-way conversation.
 
-If you have any feedback, questions, or otherwise input, don’t hesitate to leave comments or [contact me directly](http://marketingbeforefunding.com/contact/). And if you haven't done it already, you can also [quickly subscribe to our newsletter](http://eepurl.com/ou0tv) for updates and exclusive content.
+If you have any feedback, questions, or otherwise input, don’t hesitate to leave comments or [contact me directly](/contact/). And if you haven't done it already, you can also [quickly subscribe to our newsletter](http://eepurl.com/ou0tv) for updates and exclusive content.
 
 
 
@@ -42,7 +42,7 @@ I promise you that these rules can really help accelerate your company's growth 
 
 
 
-### 1. Marketing starts with the product.
+## 1. Marketing starts with the product.
 
 
 Here’s what I believe. **“Build it and they will come” no longer works.** There’s just too much noise in the marketplace for your product to naturally emerge into massive success.
@@ -57,7 +57,7 @@ In order to build something remarkable, you have to go beyond just solving someb
 
 This can be accomplished through design, copywriting, customer service, and many other ways, all of which fall under the umbrella of marketing.
 
-[caption id="attachment_705" align="aligncenter" width="580"][![Dropbox offers much more than just utility. Its copywriting is brilliant.](http://marketingbeforefunding.com/wp-content/uploads/2012/08/dropbox-copy.png)](http://blog.hubspot.com/blog/tabid/6307/bid/33441/10-Companies-That-Totally-Nail-Copywriting.aspx) Dropbox offers much more than just utility. It's copywriting is brilliantly simple.[/caption]
+[caption id="attachment_705" align="aligncenter" width="580"][![Dropbox offers much more than just utility. Its copywriting is brilliant.](/wp-content/uploads/2012/08/dropbox-copy.png)](http://blog.hubspot.com/blog/tabid/6307/bid/33441/10-Companies-That-Totally-Nail-Copywriting.aspx) Dropbox offers much more than just utility. It's copywriting is brilliantly simple.[/caption]
 
 
 Before, marketing used to be separate from product development (not counting market research). 
@@ -68,16 +68,16 @@ But the world has changed, and today **marketing and product development have to
 
 
 
-### 2. Your goals always come first.
+## 2. Your goals always come first.
 
 
 It’s easy to get lost in tactics and tools when deciding how to market your startup. What social media networks should you be using? Should you buy ads on Facebook or on Google? Should you buy any ads at all?
 
 **Before you can select the right tools for your startup, you need to decide what your goals are.**
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/3145391821_f9d93e842d_z-590x393.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
+[![](/wp-content/uploads/2012/08/3145391821_f9d93e842d_z.jpeg)](http://www.flickr.com/photos/birgerking/3145391821/)
 
-First, think in broad, [big picture](http://marketingbeforefunding.com/category/big-picture-stuff/), terms, but then also go into detail when working on something like you social media or content strategy.
+First, think in broad, [big picture](/category/big-picture-stuff/), terms, but then also go into detail when working on something like you social media or content strategy.
 
 I like using the [S.M.A.R.T. framework](http://www.projectsmart.co.uk/smart-goals.html) for goal-setting. They need to be:
 
@@ -104,7 +104,7 @@ Once you have the goals in place, **figure out who your potential customers are*
 Only at this point should you **think about specific tactics and tools**. And only when all of them relate back to your goals, you get efficiency while money becomes less of a constraint.
 
 
-### 3. Use the smart approach to DIY.
+## 3. Use the smart approach to DIY.
 
 
 The regular approach to Do-It-Yourself marketing is about the Whats and the Hows.
@@ -144,12 +144,12 @@ You must be curious about things, and you must find time to learn about the reas
 _Side note: Theories and Whys are not the same thing. Because of this, formal education is usually not the best place to learn about marketing._
 
 
-### 4. Market. Measure. Learn.
+## 4. Market. Measure. Learn.
 
 
 One of the core principles in [Eric Ries’ “Lean Startup” methodology](http://theleanstartup.com/principles) is the build-measure-learn feedback loop.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/methodology_diagram-590x381.jpeg)](http://theleanstartup.com/principles)
+[![](/wp-content/uploads/2012/08/methodology_diagram-590x381.jpeg)](http://theleanstartup.com/principles)
 
 First you take your ideas, **build** a product or a part of it, and put it out into the world. Then you **measure** data, talk to customers, split test, and see what happens. Finally, you take all that feedback, analyze it, **learn** from it, and decide what to do next.
 
@@ -160,7 +160,7 @@ Startups rarely fail to build. However, sometimes they fail to measure. And even
 But unless you do all these steps relentlessly, you’ll end up wasting your time and money.
 
 
-### 5. Apply the 80/20 Rule.
+## 5. Apply the 80/20 Rule.
 
 
 You might have heard of this rule before. Discovered in 1906 by an Italian economist [Vilfredo Pareto](http://en.wikipedia.org/wiki/Pareto_principle), it states that 80% of effects come from 20% of causes. For example:
@@ -185,14 +185,14 @@ So do it! **Dump the 80% of marketing that doesn’t work** and reinvest those r
 
 
 
-### 6. Use your network. Wisely.
+## 6. Use your network. Wisely.
 
 
 Your network is one of the greatest assets you can have. Your friends, acquaintances, and advisors will help you improve your marketing and spread the word about your product.
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/08/5090069380_e93d381635_z-590x393.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
+[![](/wp-content/uploads/2012/08/5090069380_e93d381635_z.jpeg)](http://www.flickr.com/photos/scobleizer/5090069380/)
 
-Connect with the right people and you will receive [free advice](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/), introductions to the influencers and the media, and otherwise get help.
+Connect with the right people and you will receive [free advice](/2012/08/07/startup-marketing-priorities/), introductions to the influencers and the media, and otherwise get help.
 
 Of course, I’m not suggesting you make friends for the sake of using them. I’m just saying that **you shouldn’t be shy about reaching out to the people you know for help**.
 
@@ -202,7 +202,7 @@ Help people often and without any selfish motives. Be a nice person. Trust me th
 
 
 
-### 7. Don’t judge anything by its price tag.
+## 7. Don’t judge anything by its price tag.
 
 
 Expensive doesn’t always mean good. And neither does cheap.
@@ -219,7 +219,7 @@ _Side note: If you thought that this blog is about "cheap" marketing, I’m sorr
 
 
 
-### 8. You can do it.
+## 8. You can do it.
 
 
 When you don’t have a lot money in your marketing budget, the only option left is to replace it with your time and effort.

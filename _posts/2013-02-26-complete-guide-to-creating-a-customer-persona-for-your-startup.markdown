@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2013-02-26 14:00:52+00:00
 layout: post
@@ -16,7 +16,7 @@ tags:
 - Lessons
 ---
 
-[![Complete Guide to Creating a Customer Persona for Your Startup](http://marketingbeforefunding.com/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups-590x393.png)](http://marketingbeforefunding.com/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
+[![Complete Guide to Creating a Customer Persona for Your Startup](/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups.png)](/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
 
 _Why do some marketing campaigns succeed and others fail?_
 
@@ -45,7 +45,7 @@ So today we're gonna learn how to develop a customer persona for your startup, a
 
 
 
-### Collecting Information: Where to Start?
+## Collecting Information: Where to Start?
 
 
 When creating a customer persona, you want to be as detailed as possible, which may be a bit difficult to do at first.
@@ -59,7 +59,7 @@ And if you don't have any customers yet, don't worry! Fill in the gaps with assu
 
 
 
-### 8 Components of Your Customer Persona
+## 8 Components of Your Customer Persona
 
 
 In total, there are about eight different questions you need to address when creating your character. Most are pretty straightforward, but let's go through the list one by one.
@@ -69,7 +69,7 @@ Also, at the end of the post, there's a downloadable worksheet that you can use 
 _Side note: this template is something we've been using at [Mobify](http://mobify.com) and the credit goes to [James & Monique Sherrett](http://www.boxcarmarketing.com/)._
 
 
-#### 1. Name and title.
+### 1. Name and title.
 
 
 Start by giving your buyer persona a name and a title. This will make the character more real and will allow you to easily reference him or her.
@@ -77,7 +77,7 @@ Start by giving your buyer persona a name and a title. This will make the charac
 **Example:** Ted Mosby, architect. _(he's a [How I Met Your Mother character](http://en.wikipedia.org/wiki/Ted_Mosby))_
 
 
-#### 2. Basics.
+### 2. Basics.
 
 
 Now move on to the basic background information, including demographics and psychographics — age, gender, location, family life, likes and dislikes, and location on the [adoption curve](http://en.wikipedia.org/wiki/Technology_adoption_lifecycle).
@@ -85,7 +85,7 @@ Now move on to the basic background information, including demographics and psyc
 **Example:** Ted is 30 years old single male living in New York. He likes old buildings and is an early adopter for [your product].
 
 
-#### 3. Professional and personal background.
+### 3. Professional and personal background.
 
 
 Consider information such as job history, role, leisure activities, hobbies, etc.
@@ -93,7 +93,7 @@ Consider information such as job history, role, leisure activities, hobbies, etc
 **Example:** Ted graduated from NYU, tried architecture for a few years, but ended up teaching a course about architecture history instead. In his spare time, Ted goes to a pub with a group of friends, actively dates women and is looking to settle down. He's a bit of a showoff.
 
 
-#### 4. Quote.
+### 4. Quote.
 
 
 A quote is just a couple of sentences that encapsulate the persona’s attitude towards your product or service.
@@ -101,7 +101,7 @@ A quote is just a couple of sentences that encapsulate the persona’s attitude 
 **Example:** Ted knows about [your product] but he isn't sure if it has all the right features. He's hesitant to sign up.
 
 
-#### 5. Technical background.
+### 5. Technical background.
 
 
 How comfortable is your character online and what activities do they perform on the web? What devices do they use? This is important for determining how the audience will interact with the brand online.
@@ -109,7 +109,7 @@ How comfortable is your character online and what activities do they perform on 
 **Example:** Ted grew up without social media. He's on Facebook like everyone else but he doesn't use it much. He only reads a few blogs to which he subscribes via email. He likes to download information rather than read it online.
 
 
-#### 6. Favourite websites (1-3).
+### 6. Favourite websites (1-3).
 
 
 _Do you really need an explanation for this one?_
@@ -130,7 +130,7 @@ _Do you really need an explanation for this one?_
 
 
 
-#### 7. Goals.
+### 7. Goals.
 
 
 What are this person’s goals when looking for a product? Do they want to find a vendor they can work with quickly? Do they shop by price? Do they need a partner for long-term engagement?
@@ -138,7 +138,7 @@ What are this person’s goals when looking for a product? Do they want to find 
 **Example:** Money isn't a big concern for Ted as long as the solution is worth it.
 
 
-#### 8. I need / I want statements.
+### 8. I need / I want statements.
 
 
 What does this person need and or want in order to reach the above goals? Remember to keep in mind all of the characteristics you described above.
@@ -152,7 +152,7 @@ _That's it! We're done writing!_
 
 
 
-### Using Your Buyer Persona
+## Using Your Buyer Persona
 
 
 Now we have Ted to help us make better business and marketing decisions. Here are a few questions that he may help us answer.
@@ -179,7 +179,7 @@ _Goodbye intuition. Hello customer intelligence!_
 
 
 
-### Common Mistakes to Avoid when Creating a Customer Persona
+## Common Mistakes to Avoid when Creating a Customer Persona
 
 
 Before I sign off, here are a couple of common mistakes that I've seen being made when creating a character like that:
@@ -201,10 +201,10 @@ You can find more information about these and other mistakes in [this great post
 
 
 
-### Downloadable Buyer Persona Worksheet
+## Downloadable Buyer Persona Worksheet
 
 
-As promised, [here's your .pdf worksheet](http://marketingbeforefunding.com/wp-content/uploads/2013/02/Marketing-Before-Funding-Customer-Persona-Template.pdf). No sign up required.
+As promised, [here's your .pdf worksheet](/wp-content/uploads/2013/02/Marketing-Before-Funding-Customer-Persona-Template.pdf). No sign up required.
 
 I encourage you to try creating your own customer persona as soon as possible and then using it in real business situations.
 

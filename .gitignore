@@ -7,3 +7,11 @@ _site/
 .sass-cache/
 
 css/core.css
+
+wp-content
+
+wp-content/
+
+.DS_Store
+
+_site/img/logo.png

@@ -1,11 +1,9 @@
 ---
-author: MikeAbasov
-comments: true
+author: Mike Abasov
 date: 2013-03-05 13:00:49+00:00
 layout: post
 slug: stop-browsing-techcrunch-get-involved-in-your-startup-community
 title: Stop Browsing TechCrunch. Get Involved in Your Startup Community.
-wordpress_id: 1216
 categories:
 - Big Picture Stuff
 - Networking
@@ -17,7 +15,6 @@ tags:
 - Events
 ---
 
-[![Get Involved in Your Startup Community](http://marketingbeforefunding.com/wp-content/uploads/2013/03/stop-browsing-techcrunch-590x393.png)](http://marketingbeforefunding.com/2013/03/05/stop-browsing-techcrunch-get-involved-in-your-startup-community/)
 
 A couple of weeks ago, I went out to get a few beers with a friend of mine. He's working for a big corporation, but over the last year has become really interested in startups.
 
@@ -37,7 +34,6 @@ I've heard this story so many times before, and I'm tired of explaining how easy
 > What if all these _passive observers_ stop surfing the Web and actually get involved in their local startup communities? Wouldn't that be awesome?
 
 
-
 I believe that the world would become a much better place.
 
 So if it's you who needs this — read on!
@@ -48,9 +44,7 @@ Because here are the five easy-as-hell ways to get started.
 <!-- more -->
 
 
-
-
-### 1. Join Conversations Online
+## 1. Join Conversations Online
 
 
 Reading blogs and watching videos is great. Now it's time to start talking, engaging and building relationships.
@@ -72,9 +66,7 @@ Being a passive observer is bad. Being a participant isn't.
 **Getting active on Twitter is a fantastic first step because when you meet people in real life, you won't need to break the ice.**
 
 
-
-
-### 2. Go to a Meetup
+## 2. Go to a Meetup
 
 
 Meetups are community-organized events in your city. They are mostly interest-based, free (or cheap) to attend, and open to anyone. This means no barriers of entry for newcomers.
@@ -92,7 +84,7 @@ It's as cool as Twitter because it's all about making connections and learning n
 
 
 
-### 3. Sign up for a Startup Weekend
+## 3. Sign up for a Startup Weekend
 
 
 _Having fun talking to people online and going to meetups? Time to take it up a notch!_
@@ -110,7 +102,7 @@ I'm sure you will find it rewarding as well.
 
 
 
-### 4. Ask Someone out for Coffee
+## 4. Ask Someone out for Coffee
 
 
 This point will probably seem the scariest of all, but here it goes.
@@ -131,12 +123,12 @@ It helps if you have met them online or offline beforehand. It helps if you can 
 
 But don't be afraid to reach out to those you don't know. Just be honest, straightforward and people will understand.
 
-_(if you're in Vancouver, you can [start with me](http://marketingbeforefunding.com/contact/).)_
+_(if you're in Vancouver, you can [start with me](/contact/).)_
 
 
 
 
-### 5. Volunteer
+## 5. Volunteer
 
 
 Volunteering is a great way to get involved. There is a massive shortage of smart people in any city and everyone needs help with something.
@@ -145,16 +137,16 @@ Volunteering is a great way to get involved. There is a massive shortage of smar
 
 
 
-	
+
   * Talk to meetup hosts. How can you help?
 
-	
+
   * Connect with your local Startup Weekend organizers. How can you help?
 
-	
+
   * Reach out to accelerators / incubators. How can you help?
 
-	
+
   * Talk to startups too. How can you help?
 
 
@@ -165,7 +157,7 @@ Which brings us to the next point...
 
 
 
-### Next Step: Contribute to the Community
+## Next Step: Contribute to the Community
 
 
 Once you get comfortable being a participant, it's time to become a contributor.
@@ -177,7 +169,7 @@ Once you get comfortable being a participant, it's time to become a contributor.
 
 
 
-### Final Step: The Switch
+## Final Step: The Switch
 
 
 I've given you five ways to get involved in the startup scene. All of them are painless and straightforward.

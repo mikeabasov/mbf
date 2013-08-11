@@ -1,4 +1,9 @@
 name: Marketing Before Funding
+url: http://marketingbeforefunding.com
+
 markdown: redcarpet
 pygments: true
-permalink: :year/:day/:month/:title/
+
+paginate: 5
+paginate_path: page/:num/
+permalink: :year/:month/:day/:title/

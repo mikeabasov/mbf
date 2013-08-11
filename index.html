@@ -1,29 +1,77 @@
 ---
-title: index
-layout: static
-hero: Marketing resources <br/>to help your startup kick&nbsp;ass.
-summary: "Your startup is a product of your vision for the way the world should be and your passion to bring that vision to life. Marketing Before Funding is here to help you do just that: build a remarkable company, make an impact you seek, and not go bankrupt along the way."
+title:  Blog
+headline:  Fresh Content
+summary: "Learn startup marketing, build a remarkable company, get traction..."
+layout: blog
 ---
 
 
+{% for post in paginator.posts %}
+
+    <hr>
+
+    <h2>
+        <a href="{{ post.url }}" title="Published on {{ post.date | date_to_string }}">
+            {{ post.title }}
+        </a>
+    </h2>
+
+    {% if post.content contains '<!-- more -->' %}
+        {{ post.content | split:'<!-- more -->' | first }}
+
+        <p>
+            <a href="{{ post.url }}" title="{{ post.title }}">
+                <strong>Read more &raquo</strong>
+            </a>
+        </p>
+
+    {% else %}
+        {{ post.content }}
+    {% endif %}
+
+{% endfor %}
+
+<div class="grid-container pagination">
+    <div class="grid-50">
+        {% if paginator.next_page %}
+            <a class="btn" href="{{ paginator.next_page_path }}">
+                &laquo View older posts
+            </a>
+        {% endif %}
+    </div>
+    <div class="grid-50">
+        {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+                <a class="btn" href="/">View newer posts &raquo</a>
+            {% else %}
+                <a class="btn" href="{{ paginator.previous_page_path }}">View newer posts &raquo</a>
+            {% endif %}
+        {% endif %}
+    </div>
+</div>
+
+<!--
+
+<li><span></span> &raquo; <a href=""></a></li>
+
 <section class="section">
-    <div class="grid-container">                
+    <div class="grid-container">
         <div class="grid-50 grid-50--addPaddingRight">
             <h2>New here?</h2>
             <p>
-                Marketing Before Funding was build for <strong>early-stage startups with no money to waste</strong>. 
+                Marketing Before Funding was build for <strong>early-stage startups with no money to waste</strong>.
             </p>
             <p>
                 Our mission is to provide you with actionable, no-bullshit startup marketing advice and resources, so you can go out there and build a profitable, successful business.
             </p>
             <p>
-                To get you going, we've put together a list our best articles and guides. <a href="#">Go ahead, take a look.</a>   
+                To get you going, we've put together a list our best articles and guides. <a href="#">Go ahead, take a look.</a>
             </p>
         </div>
         <div class="grid-50 grid-50--addPaddingLeft">
             <h2>Meet the founder.</h2>
             <p>
-                Hi there! My name is Mike Abasov, and I started and run Marketing Before Funding. 
+                Hi there! My name is Mike Abasov, and I started and run Marketing Before Funding.
             </p>
             <p>
                 Many, though not all, posts you'll find on this site were written by me and are based on my experiences working with a number of new ventures over the last five years.
@@ -33,5 +81,4 @@ summary: "Your startup is a product of your vision for the way the world should 
             </p>
         </div>
     </div>
-</section>
-        
+</section> -->

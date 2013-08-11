@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-08-28 12:00:58+00:00
 layout: post
@@ -14,7 +14,7 @@ tags:
 - Storytelling
 ---
 
-[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](http://marketingbeforefunding.com/wp-content/uploads/2012/08/sld-590x394.png)](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](/wp-content/uploads/2012/08/sld-590x394.png)](/2012/08/28/startup-storytelling-mistakes/)
 
 **Let me start with a question: What is your startup’s story?**
 
@@ -28,7 +28,7 @@ I know that you may be very confused right now. But bear with me, as today we’
 
 
 
-### Why Storytelling Is such a Big Deal
+## Why Storytelling Is such a Big Deal
 
 
 People are wired to communicate via stories. This is how we’ve survived for thousands of years. This is how we teach our children morality. This is how we entertain ourselves.
@@ -55,7 +55,7 @@ And this brings us to the first storytelling mistake you need to avoid.
 
 
 
-### Mistake #1: Focusing too Much on the Features
+## Mistake #1: Focusing too Much on the Features
 
 
 [App.net](http://join.app.net) didn't become popular because it promised a “real-time social feed” or an unrestricted API. That isn't App.net’s story.
@@ -78,7 +78,7 @@ _“Focusing on specifications or detailed descriptions of what you do will be l
 
 
 
-### Mistake #2: Telling a Story Your Customers Don’t Want to Hear
+## Mistake #2: Telling a Story Your Customers Don’t Want to Hear
 
 
 When you tell a bedtime story to children, they often try to take over and tell you what the story should _really_ be about. And you have no other way but to comply.
@@ -108,7 +108,7 @@ Either way, don’t try to change people’s worldview. It doesn't work.
 
 
 
-### Mistake #3: Telling an Emotionless Story
+## Mistake #3: Telling an Emotionless Story
 
 
 I want to share a secret with you. A secret about virility.
@@ -131,7 +131,7 @@ _Side note: Humour is extremely tough to master. It’s much easier to make your
 
 
 
-### Mistake #4: Letting the Facts Get in the Way of a Good Story
+## Mistake #4: Letting the Facts Get in the Way of a Good Story
 
 
 This may sound controversial, so let me clarify: I am not suggesting you lie.
@@ -157,7 +157,7 @@ It makes for a better story. And you are, after all, in the storytelling busines
 
 
 
-### Mistake #5: Lacking consistency
+## Mistake #5: Lacking consistency
 
 
 One last mistake I often see startups make is lacking consistency.
@@ -170,7 +170,7 @@ Be consistent.
 
 
 
-### Wrapping up
+## Wrapping up
 
 
 A couple of days ago, I met with Alex Chuang, the CEO of Weeve, and our conversation inspired me to write this post.

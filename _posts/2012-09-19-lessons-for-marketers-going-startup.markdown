@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-09-19 12:00:39+00:00
 layout: post
@@ -14,7 +14,7 @@ tags:
 - Lessons
 ---
 
-[![4 Vital Lessons for Marketing Professionals Going Startup](http://marketingbeforefunding.com/wp-content/uploads/2012/09/goingstartup-590x324.png)](http://marketingbeforefunding.com/2012/09/19/lessons-for-marketers-going-startup/)
+[![4 Vital Lessons for Marketing Professionals Going Startup](/wp-content/uploads/2012/09/goingstartup-590x324.png)](/2012/09/19/lessons-for-marketers-going-startup/)
 
 
 
@@ -68,7 +68,7 @@ Please note that although I do look at this from a marketer's perspective, you a
 
 
 
-### Lesson 1: You have the freedom to do anything. Use it.
+## Lesson 1: You have the freedom to do anything. Use it.
 
 
 
@@ -147,7 +147,7 @@ What really matters, however, is that Dropbox did something new and unique with 
 
 
 
-And even if they had failed, there was nothing huge at stake. They could've tried again on a different platform or with a [different story](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/).
+And even if they had failed, there was nothing huge at stake. They could've tried again on a different platform or with a [different story](/2012/08/28/startup-storytelling-mistakes/).
 
 
 
@@ -166,7 +166,7 @@ What can I try today that hasn't been done before?
 
 
 
-### Lesson 2: Writing is your most essential skill. Perfect it.
+## Lesson 2: Writing is your most essential skill. Perfect it.
 
 
 
@@ -223,7 +223,7 @@ Trust me, with time you'll get good. Not "Hemingway kinda good," but good enough
 
 
 
-### Lesson 3: The reports aren't going anywhere. They're just evolving.
+## Lesson 3: The reports aren't going anywhere. They're just evolving.
 
 
 
@@ -258,7 +258,7 @@ _Side note: As your company grows, the processes you've established will help yo
 
 
 
-### Lesson 4: You (still) have to do the things you hate. Get over it.
+## Lesson 4: You (still) have to do the things you hate. Get over it.
 
 
 
@@ -323,7 +323,7 @@ Music helps, and so does coffee.
 
 
 
-### Your Turn
+## Your Turn
 
 
 

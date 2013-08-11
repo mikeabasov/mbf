@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-09-12 10:59:18+00:00
 layout: post
@@ -14,7 +14,7 @@ tags:
 - Stealth
 ---
 
-[![How to Start Marketing Your Startup While in Stealth Mode](http://marketingbeforefunding.com/wp-content/uploads/2012/09/stealthmarketing-590x365.png)](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/stealthmarketing/)
+[![How to Start Marketing Your Startup While in Stealth Mode](/wp-content/uploads/2012/09/stealthmarketing-590x365.png)](/2012/09/12/marketing-in-stealth-mode/stealthmarketing/)
 
 
 
@@ -34,7 +34,7 @@ Except that there are many successful startups that told no one about their prod
 
 
 
-So what's the deal here? Are we a bunch of hypocrites, or are there some exceptions to the rule? And most importantly, how can you start marketing your company and [start telling its story](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/) from day one while not revealing any of its secrets?
+So what's the deal here? Are we a bunch of hypocrites, or are there some exceptions to the rule? And most importantly, how can you start marketing your company and [start telling its story](/2012/08/28/startup-storytelling-mistakes/) from day one while not revealing any of its secrets?
 
 
 
@@ -44,7 +44,7 @@ Let's examine!
 
 
 
-### When Going Stealth Is a Good Idea
+## When Going Stealth Is a Good Idea
 
 
 
@@ -98,7 +98,7 @@ In order to qualify for being in that special category, your product needs to ma
 
 
 
-[![Kiip Screenshot](http://marketingbeforefunding.com/wp-content/uploads/2012/09/kiip-video-game-rewardsjpg-69018f67bab8b4f1-590x377.jpeg)](http://www.mlive.com/videogames/index.ssf/2011/04/new_startup_kiip_to_broker_rea.html)
+[![Kiip Screenshot](/wp-content/uploads/2012/09/kiip-video-game-rewardsjpg-69018f67bab8b4f1-590x377.jpeg)](http://www.mlive.com/videogames/index.ssf/2011/04/new_startup_kiip_to_broker_rea.html)
 
 
 
@@ -128,7 +128,7 @@ If any one of those three conditions didn't apply, there would be no need to kee
 
 
 
-### How to Market a Startup in Stealth Mode
+## How to Market a Startup in Stealth Mode
 
 
 
@@ -157,7 +157,7 @@ The content you produce can be about the industry you're about to disrupt or abo
 
 
 
-**But before you go crazy with publishing infographics and instagramming screenshots of your [app design](http://marketingbeforefunding.com/2012/09/05/startup-design-questions/), you need to get your pre-launch conversion process figured out.**
+**But before you go crazy with publishing infographics and instagramming screenshots of your [app design](/2012/09/05/startup-design-questions/), you need to get your pre-launch conversion process figured out.**
 
 
 
@@ -169,7 +169,7 @@ Here's how...
 
 
 
-### Pre-Launch Conversion Process 
+## Pre-Launch Conversion Process 
 
 
 
@@ -208,19 +208,19 @@ That's why you must have a "coming soon" landing page that lets you collect emai
 
 
 
-![EpicBets on LaunchRock](http://marketingbeforefunding.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-3.31.49-AM-590x281.png)
+![EpicBets on LaunchRock](/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-3.31.49-AM-590x281.png)
 
 
 
 
 
-By the way, if you don't want to put too much effort into your "coming soon" page, [LaunchRock](http://LaunchRock.com) offers a fantastic free solution with a built-in referral system. For instance, it helped my team collect over 200 emails in just two days of [Startup Weekend Vancouver](http://marketingbeforefunding.com/2011/11/21/epicbets-presentation-at-startup-weekend-vancouver/). 
+By the way, if you don't want to put too much effort into your "coming soon" page, [LaunchRock](http://LaunchRock.com) offers a fantastic free solution with a built-in referral system. For instance, it helped my team collect over 200 emails in just two days of [Startup Weekend Vancouver](/2011/11/21/epicbets-presentation-at-startup-weekend-vancouver/). 
 
 
 
 
 
-### How Secretive You Should Be
+## How Secretive You Should Be
 
 
 
@@ -237,7 +237,7 @@ Not all stealthy startups are equally stealthy. Depending on how much informatio
 
 
 
-#### Degree Zero: Your startup is a complete secret. 
+### Degree Zero: Your startup is a complete secret. 
 
 
 
@@ -260,7 +260,7 @@ So if you decide to keep everyone completely in the dark, you better be building
 
 
 
-#### First Degree: Something is coming.
+### First Degree: Something is coming.
 
 
 
@@ -296,7 +296,7 @@ Finally, your reputation as a successful entrepreneur can get people very excite
 
 
 
-#### Second Degree: The industry is known.
+### Second Degree: The industry is known.
 
 
 
@@ -319,7 +319,7 @@ At the same time, you can now try connecting with people who may become your fut
 
 
 
-#### Third Degree: The customer pain is known.
+### Third Degree: The customer pain is known.
 
 
 
@@ -331,7 +331,7 @@ You may choose to disclose the customer pain you're addressing. For example, you
 
 
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-3.43.57-AM-590x253.png)](http://remindness.com/)
+[![](/wp-content/uploads/2012/09/Screen-Shot-2012-09-12-at-3.43.57-AM-590x253.png)](http://remindness.com/)
 
 
 
@@ -344,7 +344,7 @@ This way, although you're giving away quite a bit of info, your unique, innovati
 
 
 
-In this case, follow [Ray Kanani's advice](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/#RayKanani) and try manually fixing your customers' problems by generating content that helps either identify or tackle them, by meeting with them one-on-one, and so on.
+In this case, follow [Ray Kanani's advice](/2012/08/07/startup-marketing-priorities/#RayKanani) and try manually fixing your customers' problems by generating content that helps either identify or tackle them, by meeting with them one-on-one, and so on.
 
 
 
@@ -356,7 +356,7 @@ Nonetheless, you shouldn't go all out on marketing and stick to reaching out to 
 
 
 
-### That's It for Today… But What About You?
+## That's It for Today… But What About You?
 
 
 

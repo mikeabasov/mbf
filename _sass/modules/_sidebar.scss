@@ -22,10 +22,12 @@
 
 .classic-posts img {
     margin: 0.5em 0;
-    max-width: 420px;
     @include transition-property(opacity);
     @include transition-duration(2s);
     @include opacity(0.5);
+    @include screen-max($m-break) {
+        width: 100%;
+    }
 }
 
 .classic-posts img:hover {

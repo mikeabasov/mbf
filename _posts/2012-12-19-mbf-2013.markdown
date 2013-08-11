@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-12-19 14:00:06+00:00
 layout: post
@@ -21,12 +21,12 @@ I'll also ask you for a **quick favour at the very end** of the post. No, it won
 
 
 
-### New Chapter: Mobify
+## New Chapter: Mobify
 
 
 As of last week, I am now a full-time marketing coordinator at [Mobify](http://mobify.com), one of the top Vancouver startup companies.
 
-![Mike Abasov's Desk at Mobify](http://marketingbeforefunding.com/wp-content/uploads/2012/12/2012-12-11-17.37.59-590x590.jpg)
+![Mike Abasov's Desk at Mobify](/wp-content/uploads/2012/12/2012-12-11-17.37.59-590x590.jpg)
 
 Mobify's platform-as-a-service (PaaS) software allows large brands, such as Starbucks, Beyond the Rack and Wired to easily and quickly adapt their desktop websites for any mobile or tablet device.
 
@@ -37,14 +37,14 @@ Honestly, I couldn't be more excited.
 
 
 
-### Marketing Before Funding in 2013
+## Marketing Before Funding in 2013
 
 
-It's been abound 5 months since we've [launched](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/) this small community of entrepreneurs and startup marketers. And the response from all over the world has been truly overwhelming.
+It's been abound 5 months since we've [launched](/2012/08/07/startup-marketing-priorities/) this small community of entrepreneurs and startup marketers. And the response from all over the world has been truly overwhelming.
 
 For instance, here's an official US embassy shirt I received as a gift from a reader in Baghdad.
 
-![Shirt from the US embassy in Baghdad ](http://marketingbeforefunding.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-8.08.53-PM-590x322.png)
+![Shirt from the US embassy in Baghdad ](/wp-content/uploads/2012/12/Screen-Shot-2012-12-18-at-8.08.53-PM-590x322.png)
 
 Cool, eh?
 
@@ -66,13 +66,13 @@ And I'll keep doing my best to provide you with great content in 2013 and beyond
   * Practical "how-to" interviews with top startup marketers.
 
 	
-  * Guest posts from amazing growth hackers. And by the way, you can [write for MBF](http://marketingbeforefunding.com/guest-post/) too.
+  * Guest posts from amazing growth hackers. And by the way, you can [write for MBF](/guest-post/) too.
 
 	
   * Articles tackling PR, content marketing, SEO, getting interns, and other topics we haven't discussed yet.
 
 	
-  * In-depth courses (free and/or paid) on [social media for tech startups](http://marketingbeforefunding.com/category/social-media/).
+  * In-depth courses (free and/or paid) on [social media for tech startups](/category/social-media/).
 
 
 Trust me that there's lots of cool stuff in the works!
@@ -80,7 +80,7 @@ Trust me that there's lots of cool stuff in the works!
 
 
 
-### Help Me Help You
+## Help Me Help You
 
 
 With so many ideas and plans for 2013, I want to make sure that you're getting what you need out of this blog. So I've set up a quick survey that shouldn't take up much of your time.

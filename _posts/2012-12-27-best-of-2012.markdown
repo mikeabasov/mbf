@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-12-27 14:00:14+00:00
 layout: post
@@ -12,7 +12,7 @@ tags:
 - Resources
 ---
 
-[![Top 10 Best Startup Marketing Resources of 2012](http://marketingbeforefunding.com/wp-content/uploads/2012/12/bestof2012-590x390.png)](http://marketingbeforefunding.com/2012/12/27/best-of-2012/)
+[![Top 10 Best Startup Marketing Resources of 2012](/wp-content/uploads/2012/12/bestof2012-590x390.png)](/2012/12/27/best-of-2012/)
 
 2012 was a great year for startups, and there were plenty of cool articles, videos, blog posts and other resources created by marketing experts to help entrepreneurs grow their companies.
 
@@ -28,26 +28,26 @@ Now, let's begin the countdown!
 
 
 
-### 10. [Sixteen Tips for Picking the Perfect Startup Name](http://mashable.com/2012/10/04/startup-naming/)
+## 10. [Sixteen Tips for Picking the Perfect Startup Name](http://mashable.com/2012/10/04/startup-naming/)
 
 
 Selecting a good name for your company can be very difficult and time-consuming. This post on Mashable does a good job at simplifying and explaining the whole process. [Learn more >>](http://mashable.com/2012/10/04/startup-naming/)
 
 
 
-### 9. [Six Skills that Will Get You a Startup Marketing Job](http://www.rocketwatcher.com/blog/2012/04/startup-marketing-job.html)
+## 9. [Six Skills that Will Get You a Startup Marketing Job](http://www.rocketwatcher.com/blog/2012/04/startup-marketing-job.html)
 
 
 This great post by April Dunford outlines the key skills that startups are looking for in a marketing professional, as well as the ways to develop and showcase those skills. If you're looking to hire or to get hired as a startup marketer, [read on >>](http://www.rocketwatcher.com/blog/2012/04/startup-marketing-job.html)
 
 
-### 8. [The Beginner’s Guide to Mobile App Marketing](http://www.quicksprout.com/2012/05/10/the-beginners-guide-to-mobile-app-marketing/)
+## 8. [The Beginner’s Guide to Mobile App Marketing](http://www.quicksprout.com/2012/05/10/the-beginners-guide-to-mobile-app-marketing/)
 
 
 Neil Patel of KISSmetrics and CrazyEgg is a great marketer, no doubt about it. In this particular article, he dissects mobile app marketing and outlines the key principles and tactics to consider. [Learn more >>](http://www.quicksprout.com/2012/05/10/the-beginners-guide-to-mobile-app-marketing/)
 
 
-### 7. [Social Media Marketing Strategy for Startups [Infographic]](http://www.udemy.com/blog/social-media-marketing-for-startups-infographic/)
+## 7. [Social Media Marketing Strategy for Startups [Infographic]](http://www.udemy.com/blog/social-media-marketing-for-startups-infographic/)
 
 
 Udemy has had some great successes lately, specifically with raising a significant amount ($12MM) in funding to democratize online education and enable experts in any industry to connect with the right audience.
@@ -55,31 +55,31 @@ Udemy has had some great successes lately, specifically with raising a significa
 On top of that, Udemy also gets a spot on our Best of 2012 list because of its "Social Media Marketing Strategy for Startups" infographic. It's so good I suggest you print it out and hang it on a wall. [See for yourself >>](http://www.udemy.com/blog/social-media-marketing-for-startups-infographic/)
 
 
-### 6. [Why You Should Market Your Startup Earlier than You Think](http://leostartsup.com/2012/07/why-you-should-market-your-startup-earlier-than-you-think/)
+## 6. [Why You Should Market Your Startup Earlier than You Think](http://leostartsup.com/2012/07/why-you-should-market-your-startup-earlier-than-you-think/)
 
 
 I've been a fan of Leo Widrich's work for a while now. Leo is a co-founder of Buffer and is know for, among other things, being a guest blogging superstar. This post, however, is more about strategy than tactics. [Read on >>](http://leostartsup.com/2012/07/why-you-should-market-your-startup-earlier-than-you-think/)
 
 
-### 5. [Why Growth Hackers are Taking Over Startup Marketing](http://technori.com/2012/10/2600-up-and-to-the-right-why-growth-hackers-are-taking-over-startup-marketing/)
+## 5. [Why Growth Hackers are Taking Over Startup Marketing](http://technori.com/2012/10/2600-up-and-to-the-right-why-growth-hackers-are-taking-over-startup-marketing/)
 
 
 In this article, Sean Johnson of Digital Intent talks about the phenomenon of growth hacking. So if you're still wondering what this new movement is all about or how you can become a growth hacker yourself, [read this >>](http://technori.com/2012/10/2600-up-and-to-the-right-why-growth-hackers-are-taking-over-startup-marketing/)
 
 
-### 4. [Startup Marketing: How to Earn Customers Without Paying for Them](http://www.seomoz.org/blog/startup-marketing-how-to-earn-customers-without-paying-for-them)
+## 4. [Startup Marketing: How to Earn Customers Without Paying for Them](http://www.seomoz.org/blog/startup-marketing-how-to-earn-customers-without-paying-for-them)
 
 
 Over the past 10 years, we've seen a remarkable shift from pushy outbound marketing to friendly inbound marketing. SEOmoz is one of the few companies that not only do inbound well but also empower others to succeed. In this presentation, Rand Fishkin shares some great ideas on how startups can use inbound marketing to grow. [Watch it >>](http://www.seomoz.org/blog/startup-marketing-how-to-earn-customers-without-paying-for-them)
 
 
-### 3. [How To Get Media Coverage For Your Startup: A Complete Guide](http://onstartups.com/tabid/3339/bid/80121/How-To-Get-Media-Coverage-For-Your-Startup-A-Complete-Guide.aspx)
+## 3. [How To Get Media Coverage For Your Startup: A Complete Guide](http://onstartups.com/tabid/3339/bid/80121/How-To-Get-Media-Coverage-For-Your-Startup-A-Complete-Guide.aspx)
 
 
 OnStartups is one of the top online communities for entrepreneurs (which you probably already know). There are plenty of great things there to read, but the post I wanted to highlight comes from Leo Widrich (again!). [Check it out >>](http://onstartups.com/tabid/3339/bid/80121/How-To-Get-Media-Coverage-For-Your-Startup-A-Complete-Guide.aspx)
 
 
-### 2. [Seth Godin's Startup School](http://www.earwolf.com/show/startup-school/)
+## 2. [Seth Godin's Startup School](http://www.earwolf.com/show/startup-school/)
 
 
 Seth Godin is a best selling author and the founder of Squidoo. In 2012, he taught a small group of entrepreneurs how to tackle some of the most important startup marketing challenges. 
@@ -87,7 +87,7 @@ Seth Godin is a best selling author and the founder of Squidoo. In 2012, he taug
 From getting over the Dip and setting correct expectations, to identifying your perfect customers and calculating the cost of their acquisition, this series of audio recordings covers it all. [See for yourself >>](http://www.earwolf.com/show/startup-school/)
 
 
-### 1. [The Ultimate Guide to Startup Marketing](http://blog.kissmetrics.com/ultimate-guide-startup-marketing/)
+## 1. [The Ultimate Guide to Startup Marketing](http://blog.kissmetrics.com/ultimate-guide-startup-marketing/)
 
 
 KISSmetrics runs one of my favourite marketing blogs focusing on startups. And one thing they do particularly well is finding guest bloggers with kickass content. This time, Renée Warren of Onboardly shared one of the biggest and best guides to startup marketing I've ever seen.
@@ -102,40 +102,40 @@ KISSmetrics runs one of my favourite marketing blogs focusing on startups. And o
 
 
 
-### Best of Marketing Before Funding
+## Best of Marketing Before Funding
 
 
 As promised, here's a list of the best posts on Marketing Before Funding this year. Note that we've only been live since August, so there was less content to choose from.
 
 
-#### 5. ["Corporate Identity Essentials for Startups" ebook](http://marketingbeforefunding.com/2012/10/18/ebook/)
+### 5. ["Corporate Identity Essentials for Startups" ebook](/2012/10/18/ebook/)
 
 
-This small free ebook has potential to help your startup rock a sweet corporate identity without spending a fortune. [Get a copy >>](http://marketingbeforefunding.com/2012/10/18/ebook/)
+This small free ebook has potential to help your startup rock a sweet corporate identity without spending a fortune. [Get a copy >>](/2012/10/18/ebook/)
 
 
-#### 4. [How to Start Marketing Your Startup While in Stealth Mode](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/)
+### 4. [How to Start Marketing Your Startup While in Stealth Mode](/2012/09/12/marketing-in-stealth-mode/)
 
 
-What I expected to be a very controversial post (I argued that there are situations when going stealth is a smart decision), ended up being positively received by readers and media alike. [Learn more >>](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/)
+What I expected to be a very controversial post (I argued that there are situations when going stealth is a smart decision), ended up being positively received by readers and media alike. [Learn more >>](/2012/09/12/marketing-in-stealth-mode/)
 
 
-#### 3. [Five Storytelling Mistakes to Avoid when Marketing Your Startup](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+### 3. [Five Storytelling Mistakes to Avoid when Marketing Your Startup](/2012/08/28/startup-storytelling-mistakes/)
 
 
-This article covers what storytelling is, why it is a powerful marketing tool and how avoid some of the most common mistakes associated with it. [Read on >>](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/)
+This article covers what storytelling is, why it is a powerful marketing tool and how avoid some of the most common mistakes associated with it. [Read on >>](/2012/08/28/startup-storytelling-mistakes/)
 
 
-#### 2. [Sixteen Ways to Write Kickass Copy for Your Startup](http://marketingbeforefunding.com/2012/09/26/ways-to-improve-copywriting/)
+### 2. [Sixteen Ways to Write Kickass Copy for Your Startup](/2012/09/26/ways-to-improve-copywriting/)
 
 
-With this post, I tried to compile most of my knowledge about copywriting into one practical guide. There are tips, tricks, "big picture" ideas and everything in-between. [Check it out >>](http://marketingbeforefunding.com/2012/09/26/ways-to-improve-copywriting/)
+With this post, I tried to compile most of my knowledge about copywriting into one practical guide. There are tips, tricks, "big picture" ideas and everything in-between. [Check it out >>](/2012/09/26/ways-to-improve-copywriting/)
 
 
-#### 1. [Fourteen Renowned Experts Share Insanely Useful Startup Marketing Advice](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)
+### 1. [Fourteen Renowned Experts Share Insanely Useful Startup Marketing Advice](/2012/08/07/startup-marketing-priorities/)
 
 
-Without a doubt, this is the biggest post on MBF this year as it has resonated with lots and lots of entrepreneurs around the world. In this massive article, Tony Hsieh, Brad Feld, Ryan Holmes and others shared their thoughts and insights about impactful startup marketing. So if you haven't read it already, you're really missing out! [Catch up and read it >>](http://marketingbeforefunding.com/2012/08/07/startup-marketing-priorities/)
+Without a doubt, this is the biggest post on MBF this year as it has resonated with lots and lots of entrepreneurs around the world. In this massive article, Tony Hsieh, Brad Feld, Ryan Holmes and others shared their thoughts and insights about impactful startup marketing. So if you haven't read it already, you're really missing out! [Catch up and read it >>](/2012/08/07/startup-marketing-priorities/)
 
 
 
@@ -145,7 +145,7 @@ Without a doubt, this is the biggest post on MBF this year as it has resonated w
 
 
 
-### Your turn
+## Your turn
 
 
 That's all I've got, but you probably know a whole lot more great resources that I missed. So feel free to share links to the best content of 2012 in the comments!

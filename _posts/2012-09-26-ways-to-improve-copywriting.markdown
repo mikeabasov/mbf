@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-09-26 13:37:10+00:00
 layout: post
@@ -20,7 +20,7 @@ tags:
 - Video
 ---
 
-[![16 Ways to Drastically Improve Your Copywriting for Better Storytelling, Higher Conversion Rates and More Engagement](http://marketingbeforefunding.com/wp-content/uploads/2012/09/copy-590x495.png)](http://marketingbeforefunding.com/2012/09/26/ways-to-improve-copywriting)
+[![16 Ways to Drastically Improve Your Copywriting for Better Storytelling, Higher Conversion Rates and More Engagement](/wp-content/uploads/2012/09/copy-590x495.png)](/2012/09/26/ways-to-improve-copywriting)
 
 Ever since the Madman era, copywriting has been a significant part of any marketer's job. And in today's digital, text-driven world it is as important as it has ever been.
 
@@ -40,7 +40,7 @@ And this article offers 16 practical and straightforward ways to take your copyw
 
 
 
-### 1. Think about Your Audience
+## 1. Think about Your Audience
 
 
 Always start with the audience. A press release for a major tech magazine has one audience. Your landing page has a different one. Your demo day pitch is for yet another one.
@@ -53,14 +53,14 @@ For example, it hurts me to see startups that talk about their APIs when their a
 
 In contrast, I can throw in this term here because you, the reader, are most likely in the know. And even if you aren't, you are the kind of person who enjoys [learning new things](http://en.wikipedia.org/wiki/Application_programming_interface). This is why you're here in the first place.
 
-![why-do-people-use-hashtags-on-facebook](http://marketingbeforefunding.com/wp-content/uploads/2012/09/why-do-people-use-hashtags-on-facebook.jpeg)
+![why-do-people-use-hashtags-on-facebook](/wp-content/uploads/2012/09/why-do-people-use-hashtags-on-facebook.jpeg)
 
 Another example. Using hashtags on Facebook is a clear violation of your audience's trust. It screams "I'm too lazy or too busy to write a message for you. I just don't care about you that much."
 
 
 
 
-### 2. Consider the Platform
+## 2. Consider the Platform
 
 
 Depending on the platform you're writing for, you have different elements and rules to follow.
@@ -71,7 +71,7 @@ An email, for instance, has a subject line, a "from" field, a body, and a signat
 
 Here's an example. I used to send out new posts to our subscribers using the post's headline as a subject line, just as I do with my tweets.
 
-Lately, though, I've changed my approach and use a more interesting and personal subject lines such as "_Shhhhh... Do not tell anyone about this post... It's in stealth mode..._" instead of "_[How to Start Marketing Your Startup While in Stealth Mode](http://marketingbeforefunding.com/2012/09/12/marketing-in-stealth-mode/)._"
+Lately, though, I've changed my approach and use a more interesting and personal subject lines such as "_Shhhhh... Do not tell anyone about this post... It's in stealth mode..._" instead of "_[How to Start Marketing Your Startup While in Stealth Mode](/2012/09/12/marketing-in-stealth-mode/)._"
 
 **Such openings would NEVER work as post headlines, but they took the open rate for my emails from the 30-40% range to the 50-60% range.**
 
@@ -82,7 +82,7 @@ What changes should you make to your copy?
 
 
 
-### 3. Talk like a Human Being
+## 3. Talk like a Human Being
 
 
 It doesn't matter if you're B2B. It doesn't matter if you're for the enterprise or the government. Every person in your audience, however "suit-n-tie" he is, is a human being.
@@ -100,7 +100,7 @@ And on the other side of the spectrum are the companies like Starbucks. They hav
 
 
 
-### 4. Make It "Wacky"
+## 4. Make It "Wacky"
 
 
 Neville Medhora, the author of the famous [AppSumo Kopywriting Kourse](http://www.appsumo.com/kopywriting-kourse-eg), suggests taking the approach described above to the extreme.
@@ -124,7 +124,7 @@ I've used this technique myself, and it works. My only advice is to ease into it
 
 
 
-### 5. Use the Content Wireframe
+## 5. Use the Content Wireframe
 
 
 The Content Wireframe is probably on my TOP 3 favourite techniques for writing kickass copy. It works like this.
@@ -152,7 +152,7 @@ Try it out!
 
 
 
-### 6. Read a Good Book
+## 6. Read a Good Book
 
 
 Trust me when I say that reading affects your writing. Every time I finish a book I can sense the author's style slipping into my copy.
@@ -166,14 +166,14 @@ Sometimes, good is a Pulitzer Prize winning book. Other times, it's simply somet
 
 
 
-### 7. Have a Drink / Let the Words Flow
+## 7. Have a Drink / Let the Words Flow
 
 
 Not kidding. In fact, a large section of this post may or may not have been written after a bottle of beer ;).
 
 **Seriously though, the actual tip is not about getting tipsy, but about letting your words flow.**
 
-[![](http://marketingbeforefunding.com/wp-content/uploads/2012/09/48ltp5-590x590.jpeg)](http://www.etsy.com/listing/65242328/original-illustration-ernest-hemingway)
+[![](/wp-content/uploads/2012/09/48ltp5-590x590.jpeg)](http://www.etsy.com/listing/65242328/original-illustration-ernest-hemingway)
 
 We tend to over-think every sentence and focus on making it perfect before moving on to the next one. We tend to edit as we write, and this often stops us from being creative.
 
@@ -182,7 +182,7 @@ We tend to over-think every sentence and focus on making it perfect before movin
 
 
 
-### 8. Talk to Someone about What You Want to Say
+## 8. Talk to Someone about What You Want to Say
 
 
 Most people are better at describing things vocally rather than in writing. So talk to a friend or a colleague about what you're writing.
@@ -192,7 +192,7 @@ This really helps clarify your message, get instant feedback about confusing or 
 
 
 
-### 9. Tell a Story
+## 9. Tell a Story
 
 
 Storytelling is one of the most underrated skills in business. It's been getting some attention lately but still is far from being common sense for most marketers.
@@ -227,12 +227,12 @@ Did you like it?
   5. Lacking consistency.
 
 
-You can [read up on all of these mistakes](http://marketingbeforefunding.com/2012/08/28/startup-storytelling-mistakes/) in my post from a couple of weeks ago.
+You can [read up on all of these mistakes](/2012/08/28/startup-storytelling-mistakes/) in my post from a couple of weeks ago.
 
 
 
 
-### 10. Use the AIDA Framework
+## 10. Use the AIDA Framework
 
 
 AIDA stands for "Attention > Interest > Desire > Action," and its one of the most powerful frameworks for copywriting.
@@ -307,7 +307,7 @@ There's a lot more to learn about AIDA, but this should get you started.
 
 
 
-### 11. Apply the PEE principle
+## 11. Apply the PEE principle
 
 
 Another writing technique the PEE principle (I know it sounds funny). It works well with articles and blog posts, but isn't as valuable as AIDA to sales.
@@ -323,7 +323,7 @@ Makes sense?
 
 
 
-### 12. Use Lists
+## 12. Use Lists
 
 
 
@@ -351,7 +351,7 @@ Makes sense?
 
 
 
-### 13. Try a Different Medium
+## 13. Try a Different Medium
 
 
 [youtube_sc url="http://www.youtube.com/watch?v=i-JcCFlF5HU" fs="1" hd="1"]
@@ -359,7 +359,7 @@ Makes sense?
 
 
 
-### 14. Delete at least 10% of Words from Your First Draft
+## 14. Delete at least 10% of Words from Your First Draft
 
 
 One of the most effective ways to improve your copy is to delete 10% of the words you've written. Such pressure pushes you to stay on point.
@@ -369,7 +369,7 @@ This is also the time to sober up and edit whatever you've written in the "free 
 
 
 
-### 15. Ask Someone to Proofread the Copy
+## 15. Ask Someone to Proofread the Copy
 
 
 Ask your colleague, friend, partner, or whomever else to proofread what you've written and give you feedback.
@@ -380,7 +380,7 @@ However, in rare cases, it may be because they aren't your intended audience. St
 
 In many companies, there are multiple levels of approval that create barriers between the writer and the reader. But even then mistakes happen, as can be seen from this example.
 
-[![Romney's Amercia](http://marketingbeforefunding.com/wp-content/uploads/2012/09/0530_amercia2_300-590x384.jpeg)](http://www.wired.com/gadgetlab/2012/05/romneys-amercia-and-7-more-political-gaffe-rooted-in-technology)
+[![Romney's Amercia](/wp-content/uploads/2012/09/0530_amercia2_300-590x384.jpeg)](http://www.wired.com/gadgetlab/2012/05/romneys-amercia-and-7-more-political-gaffe-rooted-in-technology)
 
 However, if you're a small startup, you may not have others to keep you accountable, so pay attention to what you're writing.
 
@@ -389,21 +389,21 @@ Proofread, proofread, proofread.
 
 
 
-### 16. Split Test Your Copy
+## 16. Split Test Your Copy
 
 
 One of the best things about the Internet is the ability to almost effortlessly split test any copy you write.
 
 The harsh truth is that, often, our creative headlines and witty descriptions don't perform as well as we would expect. Often, common sense is wrong; our assumptions are flawed, and our expectations get crushed with a simple A/B test.
 
-[caption id="attachment_886" align="alignnone" width="590"][![Cutting in Line Experiment](http://marketingbeforefunding.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-26-at-4.42.42-AM-590x109.png)](http://blog.kissmetrics.com/6-copywriting-mistakes/) How to cut in line with maximum success probability[/caption]
+[caption id="attachment_886" align="alignnone" width="590"][![Cutting in Line Experiment](/wp-content/uploads/2012/09/Screen-Shot-2012-09-26-at-4.42.42-AM-590x109.png)](http://blog.kissmetrics.com/6-copywriting-mistakes/) How to cut in line with maximum success probability[/caption]
 
 The good news is that, from [Google Website Optimizer](http://www.google.com/websiteoptimizer/tutorials.html) to [Mailchimp](http://mailchimp.com), most tools allow you to quickly test your beliefs and see what works.
 
 
 
 
-### Your Turn!
+## Your Turn!
 
 
 What techniques, frameworks or tools do you use for copywriting? Have you had interesting discoveries along the way? Share in the comments!

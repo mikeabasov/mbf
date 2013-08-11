@@ -1,5 +1,5 @@
 ---
-author: MikeAbasov
+author: Mike Abasov
 comments: true
 date: 2012-09-05 12:00:57+00:00
 layout: post
@@ -14,7 +14,7 @@ tags:
 - Resources
 ---
 
-[![6 Questions to Ask Yourself When Bootstrapping Your Startup Design](http://marketingbeforefunding.com/wp-content/uploads/2012/09/design-590x442.png)](http://marketingbeforefunding.com/2012/09/05/startup-design-questions)
+[![6 Questions to Ask Yourself When Bootstrapping Your Startup Design](/wp-content/uploads/2012/09/design-590x442.png)](/2012/09/05/startup-design-questions)
 
 
 
@@ -66,7 +66,7 @@ But first things first...
 
 
 
-### How Design Has Become so Important 
+## How Design Has Become so Important 
 
 
 
@@ -125,7 +125,7 @@ You ask yourself the following six questions.
 
 
 
-#### Question #1: What is my Minimum Viable Design?
+### Question #1: What is my Minimum Viable Design?
 
 
 
@@ -216,7 +216,7 @@ There is no right answer. It's all about priorities.
 
 
 
-Remember the [80/20 rule we've talked about](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/) a couple of weeks ago? Use it to define the 20% of design elements that are most important (e.g. UI and website) and focus on just that. 
+Remember the [80/20 rule we've talked about](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) a couple of weeks ago? Use it to define the 20% of design elements that are most important (e.g. UI and website) and focus on just that. 
 
 
 
@@ -228,7 +228,7 @@ The other 80%, say logo, business cards, banner ads, infographics, etc. should b
 
 
 
-#### Question #2: Should I hire or take the DIY route?
+### Question #2: Should I hire or take the DIY route?
 
 
 
@@ -263,7 +263,7 @@ If you have the money to pay a professional designer (freelancer or full-time hi
 
 
 
-**2. Your network.** It's often the case that you may already know a good designer or know somebody who can connect you with one. [Use your network](http://marketingbeforefunding.com/2012/08/14/the-8-rules-of-kickass-startup-marketing/) to find people willing to help you out either at a discounted rate or even for free.
+**2. Your network.** It's often the case that you may already know a good designer or know somebody who can connect you with one. [Use your network](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) to find people willing to help you out either at a discounted rate or even for free.
 
 
 
@@ -317,7 +317,7 @@ Also, as Jason Fried of 37signals wrote in [Rework](http://37signals.com/rework/
 
 
 
-#### Question #3: What do I suck at? What am I good at? How can I get better? 
+### Question #3: What do I suck at? What am I good at? How can I get better? 
 
 
 
@@ -420,7 +420,7 @@ Start small. Try. Fail. Try again.
 
 
 
-#### Question #4: How can I make my design timeless?
+### Question #4: How can I make my design timeless?
 
 
 
@@ -473,7 +473,7 @@ Think about it.
 
 
 
-#### Question #5: Can I use a template for this?
+### Question #5: Can I use a template for this?
 
 
 
@@ -530,7 +530,7 @@ Check them out!
 
 
 
-#### Question #6: Where can I learn more about design?
+### Question #6: Where can I learn more about design?
 
 
 
@@ -616,7 +616,7 @@ I personally vouch for every singe one of them.
 
 
 
-### Your Turn
+## Your Turn
 
 
 
@@ -627,7 +627,7 @@ Let me know what's your take on design in 2012 and how you tackle it on a budget
 
 
 
-### Shameless Plug Section
+## Shameless Plug Section
 
 
 

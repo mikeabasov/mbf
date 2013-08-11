@@ -20,33 +20,20 @@
 
         {% include header.html %}
 
-        {% if page.featured %}
-        <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
-        {% else %}
-        <section class="section-headline" style="background-image: url('/img/featured/back3.jpg')">
-        {% endif %}
-            <div class="grid-container">
-                <div class="grid-65 suffix-35">
-                        <h1>
-                            {% if page.headline %}
-                                {{ page.headline }}
-                            {% else %}
-                                {{ page.title }}
-                            {%endif %}
-                        </h1>
-                        <p class="post-meta">Written by {{ page.author }}</p>
-                </div>
-            </div>
-        </section>
 
         <section>
             <div class="grid-container">
-                <div class="grid-60 tablet-grid-60 post-content">
+                <div class="grid-60 tablet-grid-60 post-content category-page">
+                            <h1>
+                                {% if page.headline %}
+                                    {{ page.headline }}
+                                {% else %}
+                                    {{ page.title }}
+                                {%endif %}
+                            </h1>
+                            <p class="category-page-meta">{{ page.summary }}</p>
+
                             {{ content }}
-
-                            {% include share.html %}
-
-                            {% include disqus.html %}
                 </div>
                 <div class="grid-35 tablet-grid-35 prefix-5 tablet-prefix-5 sidebar">
                             {% include sidebar-subscriber.html %}

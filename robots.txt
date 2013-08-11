@@ -1,0 +1,7 @@
+
+sitemap: http://marketingbeforefunding.com/sitemap.xml
+
+User-agent: *
+Disallow: /almost-finished/
+Disallow: /subscribed/
+Disallow: /unsubscribed/

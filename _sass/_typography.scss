@@ -14,8 +14,24 @@ ol {
 	margin: 0 0 $base-p-spacing 0;
 }
 
-	ul {margin-left: 50px; list-style: disc;}
-	ol {margin-left: 50px; list-style: decimal;}
+	ul {
+        margin-left: $base-font-size;
+        @include screen-max($m-break) {
+          margin-left: 0;
+        }
+        list-style: disc;
+    }
+	ol {
+        margin-left: $base-font-size;
+        @include screen-max($m-break) {
+          margin-left: 0;
+        }
+        list-style: decimal;
+    }
+
+    li {
+        padding: 0 0 0.5*$base-p-spacing 0;
+    }
 
 br {
     line-height: 0;
@@ -38,14 +54,14 @@ h6 {
     font-weight: 800;
 }
 
-h4{
+h3, h4{
     font-weight: 400;
 }
 
 // Mixins
 
 @mixin header-1 {
-    font-size: 2.775*$base-font-size;
+    font-size: 3*$base-font-size;
     line-height: 0.75*$base-line-height;
 }
 
@@ -77,32 +93,35 @@ h4{
 
 h1 {
     @include header-1;
+    @include screen-max($m-break) {
+        @include header-3;
+    }
 }
 
 h2 {
     @include header-2;
-    @include screen-max($m-break - 1px) {
+    @include screen-max($m-break) {
         @include header-3;
     }
 }
 
 h3 {
     @include header-3;
-    @include screen-max($m-break - 1px) {
+    @include screen-max($m-break) {
         @include header-4;
     }
 }
 
 h4 {
     @include header-4;
-    @include screen-max($m-break - 1px) {
+    @include screen-max($m-break) {
         @include header-5;
     }
 }
 
 h5 {
     @include header-5;
-    @include screen-max($m-break - 1px) {
+    @include screen-max($m-break) {
         @include header-6;
     }
 }
@@ -111,6 +130,7 @@ h5 {
 a {
 	color: $link;
 	text-decoration: none;
+    font: inherit;
 }
 	a:hover {text-decoration: none; color: $hover;}
 	a:visited {text-decoration: none;}
@@ -123,7 +143,4 @@ strong, b {
 .left {text-align: left;}
 .right {text-align: right;}
 
-img {
-    width: 100%;
-    border: none;
-}
+
