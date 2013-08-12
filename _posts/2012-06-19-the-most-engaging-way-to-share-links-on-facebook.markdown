@@ -1,33 +1,27 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-06-19 12:00:13+00:00
 layout: post
 slug: the-most-engaging-way-to-share-links-on-facebook
 title: The Most Engaging Way to Share Links on Facebook
-wordpress_id: 179
 categories:
 - Social Media
-tags:
-- Facebook
 ---
 
 [![The Most Engaging Way to Share Links on Facebook](/wp-content/uploads/2012/06/5886225374_c57c6c1966_b.jpeg)](/2012/06/19/the-most-engaging-way-to-share-links-on-facebook/)
 
-
-
-_[Photo Credit: Johannes Fuchs](http://www.flickr.com/photos/goiabarea/5886225374/)_
+_[Photo Credit: Johannes Fuchs](//www.flickr.com/photos/goiabarea/5886225374/)_
 
 
 Many businesses shares links on _Facebook_. It may be promotions or blog posts; other times it's just articles that are relevant to your audience. But there are not that many businesses that have **perfected the art of sharing links** on the most popular social network in the world.
 
 In this post, I'd like to show you a **few simple tricks** that you can apply to any link you want to share on Facebook. Just go through this checklist before you hit "Post," and you can turn a rather mediocre update into the most engaging one.
 
+<!-- more -->
+
 **We'll be working with this example:**
 
-
 ![Sharing Links on Facebook, Step 0](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.32.50-AM.png)
-
 
 ## Step 1: Throw away the URL.
 
@@ -46,7 +40,7 @@ This way you are no longer duplicating the information, and have saved yourself 
 ## Step 2: Remove the Title as Well
 
 
-If you're sharing a link via one of the many social media dashboards, such as [_HootSuite_](http://hootsuite.com), you often have the title of the linked page both in the post and in the preview. What for?
+If you're sharing a link via one of the many social media dashboards, such as [_HootSuite_](//hootsuite.com), you often have the title of the linked page both in the post and in the preview. What for?
 
 Instead of repeating yourself again, **remove the title and replace it** with something exciting. It could be a question or your own opinion about what you're sharing, or something else interesting.
 
@@ -75,9 +69,6 @@ Just spend a few seconds fixing the problem. **Click on the description to make 
 ![Sharing Links on Facebook, Step 3](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.37.56-AM.png)
 
 
-
-
-
 ## BONUS: Other Things to Consider
 
   * Remove all signs of Twitter hashtags from your post.
@@ -88,10 +79,9 @@ Just spend a few seconds fixing the problem. **Click on the description to make 
 
 **The result:**
 
-
 ![Sharing Links on Facebook, Step 4](/wp-content/uploads/2012/06/Screen-Shot-2012-06-18-at-4.39.33-AM.png)
 
 
-That's it! These simple steps have been embraced by **many successful brands** such as [_Mashable_](https://www.facebook.com/mashable), [_Red Bull_](https://www.facebook.com/redbull), _[WSJ](https://www.facebook.com/wsj)_, and others. And if you want **your company's Facebook Page** to be remarkable, you should implement them too.
+That's it! These simple steps have been embraced by **many successful brands** such as [_Mashable_](//www.facebook.com/mashable), [_Red Bull_](//www.facebook.com/redbull), _[WSJ](//www.facebook.com/wsj)_, and others. And if you want **your company's Facebook Page** to be remarkable, you should implement them too.
 
 Leave a link to your Facebook page in the comments and show everyone how it's done!

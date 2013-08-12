@@ -1,39 +1,38 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-08-28 12:00:58+00:00
 layout: post
 slug: startup-storytelling-mistakes
 title: 5 Storytelling Mistakes to Avoid when Marketing Your Startup
-wordpress_id: 773
 categories:
 - Big Picture Stuff
 - Startup Branding
-tags:
-- Mistakes
-- Storytelling
 ---
 
-[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](/wp-content/uploads/2012/08/sld-590x394.png)](/2012/08/28/startup-storytelling-mistakes/)
+[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](/wp-content/uploads/2012/08/sld.png)](/2012/08/28/startup-storytelling-mistakes/)
 
 **Let me start with a question: What is your startup’s story?**
 
-What is it that you tell your customers? What do you write on your landing pages, social media, and all that other stuff?
+What is it that you tell your customers? What do you write on your landing pages,
+social media, and all that other stuff?
 
-And I’m not asking about your features or your elevator pitch, or whatever else you put on your powerpoint slides.
+And I’m not asking about your features or your elevator pitch, or whatever else
+you put on your powerpoint slides.
 
-**I’m wondering if you have a clear, meaningful message that you consistently communicate to the outside world through everything that you do.**
+**I’m wondering if you have a clear, meaningful message that you consistently
+communicate to the outside world through everything that you do.**
 
-I know that you may be very confused right now. But bear with me, as today we’re going to figure out how to take your storytelling to the next level.
+I know that you may be very confused right now. But bear with me, as today we’re
+going to figure out how to take your storytelling to the next level.
 
+<!-- more -->
 
 
 ## Why Storytelling Is such a Big Deal
 
-
 People are wired to communicate via stories. This is how we’ve survived for thousands of years. This is how we teach our children morality. This is how we entertain ourselves.
 
-[![Grimm rocked storytelling!](http://farm6.staticflickr.com/5174/5427836708_d33f23ca82_z.jpg)](http://www.flickr.com/photos/infiniteache/5427836708/)
+[![Grimm rocked storytelling!](//farm6.staticflickr.com/5174/5427836708_d33f23ca82_z.jpg)](//www.flickr.com/photos/infiniteache/5427836708/)
 
 **Storytelling has been around forever. However, storytelling for business is a relatively new concept.**
 
@@ -58,18 +57,18 @@ And this brings us to the first storytelling mistake you need to avoid.
 ## Mistake #1: Focusing too Much on the Features
 
 
-[App.net](http://join.app.net) didn't become popular because it promised a “real-time social feed” or an unrestricted API. That isn't App.net’s story.
+[App.net](//join.app.net) didn't become popular because it promised a “real-time social feed” or an unrestricted API. That isn't App.net’s story.
 
 Their story is about customers tired of being treated as products, about changing the way social networks have worked so far, about the promise of ethics in dealing with privacy, about challenging the status quo.
 
-And a lot of people love that promise enough to pay $50+ for a product that doesn't exist. As Andrew Chen [writes on his blog](http://andrewchen.co/2012/07/18/i-supported-app-net-with-50month-heres-why/): “[I] don’t actually know what it’s going to be, I’m just writing about what I hope it will be!”
+And a lot of people love that promise enough to pay $50+ for a product that doesn't exist. As Andrew Chen [writes on his blog](//andrewchen.co/2012/07/18/i-supported-app-net-with-50month-heres-why/): “[I] don’t actually know what it’s going to be, I’m just writing about what I hope it will be!”
 
-[![Engine](http://farm6.staticflickr.com/5090/5218105507_2339c24f04_z.jpg)](http://www.flickr.com/photos/profilerehab/5218105507/)
+[![Engine](//farm6.staticflickr.com/5090/5218105507_2339c24f04_z.jpg)](//www.flickr.com/photos/profilerehab/5218105507/)
 
 **Storytelling works because people can relate to it.**
 **Nobody has ever related to bullet points.**
 
-Here’s what [Riley Gibson writes for Inc.](http://www.inc.com/riley-gibson/3-reasons-every-start-up-should-tell-more-stories.html):
+Here’s what [Riley Gibson writes for Inc.](//www.inc.com/riley-gibson/3-reasons-every-start-up-should-tell-more-stories.html):
 
 
 _“Focusing on specifications or detailed descriptions of what you do will be lost on most of your audiences, while a compelling and inspiring story about what you do, why you do it, and how it will make something better will help attract and motivate people.”_
@@ -87,15 +86,15 @@ Same applies to business!
 
 **Your potential customers already know the story they want to hear; they just want to hear it from you.**
 
-In his bestselling book “[All Marketers are Liars](http://www.amazon.ca/All-Marketers-Are-Liars-Authentic/dp/1591841003),” Seth Godin talks about how every person already has a worldview about any subject, and there’s no point convincing them otherwise.
+In his bestselling book “[All Marketers are Liars](//www.amazon.ca/All-Marketers-Are-Liars-Authentic/dp/1591841003),” Seth Godin talks about how every person already has a worldview about any subject, and there’s no point convincing them otherwise.
 
 **So don’t try to persuade people into believing your story, but find those people who want to believe and communicate to them.**
 
-[![I want to believe (dinosaurs are not dead)](http://farm3.staticflickr.com/2392/2148083301_7695beaae0_z.jpg)](http://www.flickr.com/photos/xyotiogyo/2148083301/)
+[![I want to believe (dinosaurs are not dead)](//farm3.staticflickr.com/2392/2148083301_7695beaae0_z.jpg)](//www.flickr.com/photos/xyotiogyo/2148083301/)
 
-Corbett Barr has built a [significant following](http://thinktraffic.net/about) by telling a story about growing traffic to not only increase income but to have a more meaningful life and a more impactful business.
+Corbett Barr has built a [significant following](//thinktraffic.net/about) by telling a story about growing traffic to not only increase income but to have a more meaningful life and a more impactful business.
 
-John Chow has also built a [successful blog about traffic](http://www.johnchow.com/about/). But his story is about laziness and “living the dot com lifestyle,” and finding the top-paying affiliate programs.
+John Chow has also built a [successful blog about traffic](//www.johnchow.com/about/). But his story is about laziness and “living the dot com lifestyle,” and finding the top-paying affiliate programs.
 
 Both of these blogs attract large audiences, but those audiences have very different worldviews. And there’s no way to convince them to listen to a story they don’t believe.
 
@@ -115,19 +114,19 @@ I want to share a secret with you. A secret about virility.
 
 **Only stories that trigger some kind of emotional response go viral.**
 
-In his book, Unmarketing, [Scott Stratten](http://www.unmarketing.com/) talks about this, and he identifies a number of emotions that cause people to share your content: sadness, happiness, excitement, anger, etc.
+In his book, Unmarketing, [Scott Stratten](//www.unmarketing.com/) talks about this, and he identifies a number of emotions that cause people to share your content: sadness, happiness, excitement, anger, etc.
 
-Not so long ago, [Dollar Shave Club](http://www.dollarshaveclub.com/) successfully launched by telling a compelling story about simplicity and masculinity.
+Not so long ago, [Dollar Shave Club](//www.dollarshaveclub.com/) successfully launched by telling a compelling story about simplicity and masculinity.
 
 They could’ve made a video that simply explains their service and left it at that. But they decided to take it a step further with a video that was funny and exciting, and awesome.
 
-[youtube_sc url="http://www.youtube.com/watch?v=ZUG9qYTJMsI" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></div>
 
-[Watch it](http://www.youtube.com/watch?v=ZUG9qYTJMsI) and tell me how it makes you feel.
+[Watch it](//www.youtube.com/embed/ZUG9qYTJMsI) and tell me how it makes you feel.
 
 **Too often we settle on crafting stories that don’t go beyond being explanatory. Next time you’re working on a story, try adding emotions.**
 
-_Side note: Humour is extremely tough to master. It’s much easier to make your story sad or exciting, than it is to make it funny.  All the lame [Shit People Say](http://www.youtube.com/results?search_query=shit+say) videos only prove this point._
+_Side note: Humour is extremely tough to master. It’s much easier to make your story sad or exciting, than it is to make it funny.  All the lame [Shit People Say](//www.youtube.com/results?search_query=shit+say) videos only prove this point._
 
 
 
@@ -142,12 +141,7 @@ For example, let’s imagine that you’re about to hit a significant growth mil
 
 Now you, basically, have 2 options:
 
-
-
-	
   1. Make an announcement on that day. Then the news becomes irrelevant by Monday.
-
-	
   2. Or wait till Monday and announce the news then getting all the press coverage you can carry.
 
 
@@ -169,13 +163,12 @@ If you’re making a promise when telling a story, you have to keep it. If you�
 Be consistent.
 
 
-
 ## Wrapping up
 
 
 A couple of days ago, I met with Alex Chuang, the CEO of Weeve, and our conversation inspired me to write this post.
 
-Weeve is a [crowdfunding platform](http://weeve.it/) with a straightforward value proposition:
+Weeve is a [crowdfunding platform](//weeve.it/) with a straightforward value proposition:
 
 
 > 100% of donations directly fund nonprofit projects.
@@ -188,9 +181,9 @@ It’s a story about a broken system, about sacrificing your own profits to give
 
 It’s not a story for everyone. But everyone who can relate to it, loves Weeve. And tells their friends about it. And becomes a member of Weeve’s community.
 
-[![My Small Help](http://farm8.staticflickr.com/7058/6947435171_e39c8e4124_z.jpg)](http://www.flickr.com/photos/geezaweezer/6947435171/)
+[![My Small Help](//farm8.staticflickr.com/7058/6947435171_e39c8e4124_z.jpg)](//www.flickr.com/photos/geezaweezer/6947435171/)
 
-Now Alex’s goal is to maintain consistency and make his messaging emotional. Just like [charity: water](http://www.charitywater.org/) does.
+Now Alex’s goal is to maintain consistency and make his messaging emotional. Just like [charity: water](//www.charitywater.org/) does.
 
 Alex knows that storytelling is critical for any startup. He knows that a good story engages; it inspires action; it sells.
 

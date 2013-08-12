@@ -23,18 +23,28 @@
         {% if page.featured %}
         <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
         {% else %}
-        <section class="section-headline" style="background-image: url('/img/featured/back3.jpg')">
+        <section class="section-headline" style="background-image: url('/img/featured/book.jpg')">
         {% endif %}
             <div class="grid-container">
                 <div class="grid-65 suffix-35 tablet-grid-70 suffix-30">
-                        <h1>
-                            {% if page.headline %}
-                                {{ page.headline }}
-                            {% else %}
-                                {{ page.title }}
-                            {%endif %}
-                        </h1>
-                        <p class="post-meta">{{ page.summary }}</p>
+                        {% if page.summary %}
+                            <h1>
+                                {% if page.headline %}
+                                    {{ page.headline }}
+                                {% else %}
+                                    {{ page.title }}
+                                {% endif %}
+                            </h1>
+                            <p class="post-meta">{{ page.summary }}</p>
+                        {% else %}
+                            <h1 class="noMETA">
+                                {% if page.headline %}
+                                    {{ page.headline }}
+                                {% else %}
+                                    {{ page.title }}
+                                {% endif %}
+                            </h1>
+                        {% endif %}
                 </div>
             </div>
         </section>
@@ -48,8 +58,6 @@
                             {% include sidebar-subscriber.html %}
 
                             {% include sidebar-popular.html %}
-
-                            {% include sidebar-classic.html %}
                 </div>
             </div>
         </section>

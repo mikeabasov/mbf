@@ -23,7 +23,7 @@
         {% if page.featured %}
         <section class="section-headline" style="background-image: url('/img/featured/{{ page.featured }}')">
         {% else %}
-        <section class="section-headline" style="background-image: url('/img/featured/back3.jpg')">
+        <section class="section-headline" style="background-image: url('/img/featured/book.jpg')">
         {% endif %}
             <div class="grid-container">
                 <div class="grid-65 suffix-35">
@@ -34,7 +34,13 @@
                                 {{ page.title }}
                             {%endif %}
                         </h1>
-                        <p class="post-meta">Written by {{ page.author }}</p>
+                        <p class="post-meta">
+                            {% if page.author == "Mike Abasov" %}
+                                <a href="/about/#mike">Written by {{ page.author }}</a> &middot; {{ page.date | date_to_string }}
+                            {% else %}
+                                Written by {{ page.author }} &middot; {{ page.date | date_to_string }}
+                            {% endif %}
+                        </p>
                 </div>
             </div>
         </section>
@@ -52,8 +58,6 @@
                             {% include sidebar-subscriber.html %}
 
                             {% include sidebar-popular.html %}
-
-                            {% include sidebar-classic.html %}
                 </div>
             </div>
         </section>

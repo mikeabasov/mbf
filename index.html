@@ -1,40 +1,36 @@
 ---
 title:  Blog
-headline:  Fresh Content
-summary: "Learn startup marketing, build a remarkable company, get traction..."
+headline:  Fresh content
+summary: "Learn startup marketing, build a remarkable company, change the world..."
 layout: blog
 ---
 
 
 {% for post in paginator.posts %}
-
     <hr>
-
     <h2>
         <a href="{{ post.url }}" title="Published on {{ post.date | date_to_string }}">
             {{ post.title }}
         </a>
     </h2>
-
     {% if post.content contains '<!-- more -->' %}
         {{ post.content | split:'<!-- more -->' | first }}
-
         <p>
             <a href="{{ post.url }}" title="{{ post.title }}">
-                <strong>Read more &raquo</strong>
+                <strong>Continue reading &raquo</strong>
             </a>
         </p>
-
     {% else %}
         {{ post.content }}
     {% endif %}
-
 {% endfor %}
 
-<div class="grid-container pagination">
+<hr>
+
+<div class="grid-container grid-parent pagination">
     <div class="grid-50">
         {% if paginator.next_page %}
-            <a class="btn" href="{{ paginator.next_page_path }}">
+            <a class="btn btn-secondary" href="{{ paginator.next_page_path }}">
                 &laquo View older posts
             </a>
         {% endif %}
@@ -42,43 +38,14 @@ layout: blog
     <div class="grid-50">
         {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
-                <a class="btn" href="/">View newer posts &raquo</a>
+                <a class="btn btn-secondary" href="/">
+                    View newer posts &raquo
+                </a>
             {% else %}
-                <a class="btn" href="{{ paginator.previous_page_path }}">View newer posts &raquo</a>
+                <a class="btn btn-secondary" href="{{ paginator.previous_page_path }}">
+                    View newer posts &raquo
+                </a>
             {% endif %}
         {% endif %}
     </div>
 </div>
-
-<!--
-
-<li><span></span> &raquo; <a href=""></a></li>
-
-<section class="section">
-    <div class="grid-container">
-        <div class="grid-50 grid-50--addPaddingRight">
-            <h2>New here?</h2>
-            <p>
-                Marketing Before Funding was build for <strong>early-stage startups with no money to waste</strong>.
-            </p>
-            <p>
-                Our mission is to provide you with actionable, no-bullshit startup marketing advice and resources, so you can go out there and build a profitable, successful business.
-            </p>
-            <p>
-                To get you going, we've put together a list our best articles and guides. <a href="#">Go ahead, take a look.</a>
-            </p>
-        </div>
-        <div class="grid-50 grid-50--addPaddingLeft">
-            <h2>Meet the founder.</h2>
-            <p>
-                Hi there! My name is Mike Abasov, and I started and run Marketing Before Funding.
-            </p>
-            <p>
-                Many, though not all, posts you'll find on this site were written by me and are based on my experiences working with a number of new ventures over the last five years.
-            </p>
-            <p>
-                To learn more about my story, <a href="#">go here</a>. And don't hesitate to <a href="#">drop me a line</a>, if you wanna chat. I'd love to connect!
-            </p>
-        </div>
-    </div>
-</section> -->

@@ -9,10 +9,6 @@ categories:
 - Networking
 - Other
 - Personal Branding
-tags:
-- Community
-- Engagement
-- Events
 ---
 
 
@@ -71,15 +67,15 @@ Being a passive observer is bad. Being a participant isn't.
 
 Meetups are community-organized events in your city. They are mostly interest-based, free (or cheap) to attend, and open to anyone. This means no barriers of entry for newcomers.
 
-[Meetup.com](http://meetup.com) is the main site for hosting and discovering such events. _If you've never heard of it before, you're in for a treat!_
+[Meetup.com](//meetup.com) is the main site for hosting and discovering such events. _If you've never heard of it before, you're in for a treat!_
 
 **In my opinion, Meetup.com is one of the greatest things that have happened on the Internet since the beginning of the Internet.**
 
-[![Top 10 Tech Meetup Cities](http://contently.com/blog/wp-content/uploads/2012/04/Tech-Meetup-Cities6.jpg)](http://contently.com/blog/2012/02/16/successful-startup-blogs/)
+[![Top 10 Tech Meetup Cities](//contently.com/blog/wp-content/uploads/2012/04/Tech-Meetup-Cities6.jpg)](//contently.com/blog/2012/02/16/successful-startup-blogs/)
 
 It's as cool as Twitter because it's all about making connections and learning new things. But it's _better than any social network_ because you're pushed to interact with real people in real life.
 
-**Here's some homework for you.** For the next month, instead of watching TV after work, browsing the web, or whatever else you're doing to murder your braincells, [go to a meetup about startups](http://www.meetup.com/find/).
+**Here's some homework for you.** For the next month, instead of watching TV after work, browsing the web, or whatever else you're doing to murder your braincells, [go to a meetup about startups](//www.meetup.com/find/).
 
 
 
@@ -135,18 +131,9 @@ Volunteering is a great way to get involved. There is a massive shortage of smar
 
 **Here are a few ways you can get a volunteering gig:**
 
-
-
-
   * Talk to meetup hosts. How can you help?
-
-
   * Connect with your local Startup Weekend organizers. How can you help?
-
-
   * Reach out to accelerators / incubators. How can you help?
-
-
   * Talk to startups too. How can you help?
 
 
@@ -164,7 +151,7 @@ Once you get comfortable being a participant, it's time to become a contributor.
 
 **Online,** this means curating and creating content. Share good reads and, maybe, start a blog.
 
-**Offline,** this means offering your advice and expertise to the people you meet, volunteering and, if you're feeling adventurous, [organizing something yourself](http://www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1118441540).
+**Offline,** this means offering your advice and expertise to the people you meet, volunteering and, if you're feeling adventurous, [organizing something yourself](//www.amazon.ca/Startup-Communities-Building-Entrepreneurial-Ecosystem/dp/1118441540).
 
 
 

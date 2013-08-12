@@ -1,19 +1,12 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2013-02-26 14:00:52+00:00
 layout: post
 slug: complete-guide-to-creating-a-customer-persona-for-your-startup
 title: Complete Guide to Creating a Customer Persona for Your Startup
-wordpress_id: 1198
 categories:
 - Big Picture Stuff
 - Other
-tags:
-- Content Marketing
-- Copywriting
-- Freebies
-- Lessons
 ---
 
 [![Complete Guide to Creating a Customer Persona for Your Startup](/wp-content/uploads/2013/02/Creating-Customer-Personas-for-Startups.png)](/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
@@ -24,7 +17,7 @@ One of the most important factors, I believe, is the ability of marketers to put
 
 **Only if you can think like, feel like, and behave like your audience, will you be able to communicate with them effectively.**
 
-In fact, this is one of the main reasons you're often told to [work on solving your own problems](http://gettingreal.37signals.com/ch02_Whats_Your_Problem.php). It's just easier to build and market a product when you know exactly how your target market will react.
+In fact, this is one of the main reasons you're often told to [work on solving your own problems](//gettingreal.37signals.com/ch02_Whats_Your_Problem.php). It's just easier to build and market a product when you know exactly how your target market will react.
 
 _But what if you're **not** solving your own problem? And even if you are, how can you make sure you're always on target with your marketing?_
 
@@ -41,9 +34,6 @@ Customer personas help us make better business decisions and communicate both ef
 So today we're gonna learn how to develop a customer persona for your startup, and how to use it.
 
 <!-- more -->
-
-
-
 
 ## Collecting Information: Where to Start?
 
@@ -66,7 +56,7 @@ In total, there are about eight different questions you need to address when cre
 
 Also, at the end of the post, there's a downloadable worksheet that you can use with your team.
 
-_Side note: this template is something we've been using at [Mobify](http://mobify.com) and the credit goes to [James & Monique Sherrett](http://www.boxcarmarketing.com/)._
+_Side note: this template is something we've been using at [Mobify](//mobify.com) and the credit goes to [James & Monique Sherrett](//www.boxcarmarketing.com/)._
 
 
 ### 1. Name and title.
@@ -74,13 +64,13 @@ _Side note: this template is something we've been using at [Mobify](http://mobif
 
 Start by giving your buyer persona a name and a title. This will make the character more real and will allow you to easily reference him or her.
 
-**Example:** Ted Mosby, architect. _(he's a [How I Met Your Mother character](http://en.wikipedia.org/wiki/Ted_Mosby))_
+**Example:** Ted Mosby, architect. _(he's a [How I Met Your Mother character](//en.wikipedia.org/wiki/Ted_Mosby))_
 
 
 ### 2. Basics.
 
 
-Now move on to the basic background information, including demographics and psychographics — age, gender, location, family life, likes and dislikes, and location on the [adoption curve](http://en.wikipedia.org/wiki/Technology_adoption_lifecycle).
+Now move on to the basic background information, including demographics and psychographics — age, gender, location, family life, likes and dislikes, and location on the [adoption curve](//en.wikipedia.org/wiki/Technology_adoption_lifecycle).
 
 **Example:** Ted is 30 years old single male living in New York. He likes old buildings and is an early adopter for [your product].
 
@@ -116,22 +106,12 @@ _Do you really need an explanation for this one?_
 
 **Example:**
 
-
-
-	
   1. www.archdaily.com
-
-	
   2. www.gmail.com
-
-	
   3. www.ted.com
 
 
-
-
 ### 7. Goals.
-
 
 What are this person’s goals when looking for a product? Do they want to find a vendor they can work with quickly? Do they shop by price? Do they need a partner for long-term engagement?
 
@@ -146,10 +126,7 @@ What does this person need and or want in order to reach the above goals? Rememb
 **Example:** Ted wants a product that will not only do the job but make him look smart in front of his peers.
 
 
-
 _That's it! We're done writing!_
-
-
 
 
 ## Using Your Buyer Persona
@@ -158,25 +135,13 @@ _That's it! We're done writing!_
 Now we have Ted to help us make better business and marketing decisions. Here are a few questions that he may help us answer.
 
 
-
-	
-  1. **Should we write more blog posts or ebooks?
-**E-books, because Ted likes PDF's. (#5)
-
-	
-  2. **Where should we be buying banner ads?
-**Easy, www.archdaily.com and www.ted.com. (#6)
-
-	
-  3. **Is it a good idea to drop the price of our product?
-**Not really, Ted cares about the features more than the price. (#4, #7)
-
+  1. **Should we write more blog posts or ebooks?** E-books, because Ted likes PDF's. (#5)
+  2. **Where should we be buying banner ads?** Easy, www.archdaily.com and www.ted.com. (#6)
+  3. **Is it a good idea to drop the price of our product?** Not really, Ted cares about the features more than the price. (#4, #7)
 
 **See how powerful this can be? Any question can now be answered with a specific character in mind.**
 
 _Goodbye intuition. Hello customer intelligence!_
-
-
 
 
 ## Common Mistakes to Avoid when Creating a Customer Persona
@@ -184,25 +149,15 @@ _Goodbye intuition. Hello customer intelligence!_
 
 Before I sign off, here are a couple of common mistakes that I've seen being made when creating a character like that:
 
-
-
-	
   1. **Basing your customer persona on one real customer.** Your buyer persona should be a representative composite description of all current and potential customers. Frankly, no single person can fully represent your target market.
-
-	
   2. **Making your persona flawless.** If you think that your buyer may be a douchebag or a shy wallflower, write it down. Don't make your character perfect — no human being is.
-
-	
   3. **Being inconsistent.** If your customer works at Microsoft, they probably aren't an Apple fanboy, right? So make sure that everything fits together nicely.
 
 
-You can find more information about these and other mistakes in [this great post by Adele Revella](http://contentmarketinginstitute.com/author/adele-revella/).
-
-
+You can find more information about these and other mistakes in [this great post by Adele Revella](//contentmarketinginstitute.com/author/adele-revella/).
 
 
 ## Downloadable Buyer Persona Worksheet
-
 
 As promised, [here's your .pdf worksheet](/wp-content/uploads/2013/02/Marketing-Before-Funding-Customer-Persona-Template.pdf). No sign up required.
 

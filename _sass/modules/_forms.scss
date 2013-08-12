@@ -17,7 +17,7 @@ input[type="email"],
     padding: 10px 5px;
 
     border: solid 1px;
-    @include border-radius(6px);
+    @include border-radius(0px);
 }
 
 
@@ -36,13 +36,27 @@ input[type="text"]:focus, input[type="email"]:focus {
     text-align: center;
     text-decoration: none;
     text-shadow: none;
-    color: $white;
-    border-color: $link;
-    background-color: $link;
 }
-    .btn:hover {
+    .btn:hover { text-decoration: none; }
+
+    .btn-primary {
         color: $white;
-        text-decoration: none;
-        background: $hover;
-        border-color: $hover ;
+        border-color: $link;
+        background-color: $link;
     }
+        .btn-primary:hover {
+            color: $white;
+            background: $hover;
+            border-color: $hover ;
+        }
+
+    .btn-secondary {
+        color: $white;
+        border-color: $very-light-grey;
+        background-color: $very-light-grey;
+    }
+        .btn-secondary:hover {
+            color: $white;
+            border-color: $light-grey;
+            background-color: $light-grey;
+        }

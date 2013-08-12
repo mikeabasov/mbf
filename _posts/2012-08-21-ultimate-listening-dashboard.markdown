@@ -1,22 +1,15 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-08-21 12:00:04+00:00
 layout: post
 slug: ultimate-listening-dashboard
 title: Why Your Startup Needs an Ultimate Listening Dashboard
-wordpress_id: 728
 categories:
 - Great PR
 - Inbound Marketing
-tags:
-- Community
-- Customer Service
-- Engagement
-- Video
 ---
 
-[![Why Your Startup Needs an Ultimate Listening Dashboard](/wp-content/uploads/2012/08/ULD-590x394.png)](/2012/08/21/ultimate-listening-dashboard/)
+[![Why Your Startup Needs an Ultimate Listening Dashboard](/wp-content/uploads/2012/08/ULD.png)](/2012/08/21/ultimate-listening-dashboard/)
 
 Expert advice is sure [inspiring](/2012/08/07/startup-marketing-priorities/).
 Theory is great too for [getting you on the right track](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) from day one.
@@ -41,6 +34,7 @@ Whether you have 10 million users or just 1, a listening dash is a must have.
 
 **The best part:** I’ll show you how to build it from scratch and the whole thing won’t cost you a dime.
 
+<!-- more -->
 
 ## Why Your Startup Needs a Listening Dashboard
 
@@ -51,9 +45,11 @@ And if you’re doing something remarkable, people will be happy to share your s
 
 But how do you track these mentions?
 
-Sometimes, your friend will tell you about an article they found.
-Or you may be already following the site that mentioned you.
-Or you may get an automated trackback from somebody.
+<p>
+    Sometimes, your friend will tell you about an article they found.<br>
+    Or you may be already following the site that mentioned you.<br>
+    Or you may get an automated trackback from somebody.<br>
+</p>
 
 Most of the time, however, nothing happens. And unless you are constantly searching for mentions of your startup all over the Web, **it’s easy to miss articles that matter**.
 
@@ -66,34 +62,33 @@ You need the Ultimate Listening Dashboard.
 
 ## Step-by-Step Guide to Building the Dashboard
 
-
 As promised, I’m going to show you how to build this thing from scratch and for free.
 
 In order to **make this tutorial clear as day** and show how you can apply it to any company, I decided to **use a random startup as an example**.
 
-_[Gumroad](http://gumroad.com) allows anyone to sell products online as easily as it is to share content. You can quickly build a page, get a short link, & start collecting money._
+_[Gumroad](//gumroad.com) allows anyone to sell products online as easily as it is to share content. You can quickly build a page, get a short link, & start collecting money._
 
 Let's do this!
 
-[youtube_sc url="http://www.youtube.com/watch?v=Moekfp74Vbg" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/Moekfp74Vbg" frameborder="0" allowfullscreen></iframe></div>
 
-(If you can't see [the video](http://www.youtube.com/watch?v=Moekfp74Vbg) or prefer text, read on.)
+(If you can't see [the video](//www.youtube.com/embed/Moekfp74Vbg) or prefer text, read on.)
 
 
 ### 1. Sign up for Netvibes.
 
 
-Go to [Netvibes.com](http://Netvibes.com), click the _Get Started_ button, and select _Go basic_.
+Go to [Netvibes.com](//Netvibes.com), click the _Get Started_ button, and select _Go basic_.
 
-[![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.38.04-AM-590x219.png)](http://Netvibes.com)
+[![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.38.04-AM.png)](//Netvibes.com)
 
 Enter your startup's name as the topic, and click _Dashboard it_.
 
-![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.40.50-AM-590x98.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-12.40.50-AM.png)
 
 You’ll be sent to a page with a variety of information from different sources.
 
-![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.11.04-AM-590x183.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.11.04-AM.png)
 
 It can be overwhelming, so let’s clean it up.
 
@@ -103,36 +98,15 @@ It can be overwhelming, so let’s clean it up.
 
 Delete every feed in every tab, except for these ones:
 
-
-
-	
   * Google Blogs
-
-	
   * Wordpress.com
-
-	
   * Yahoo! News
-
-	
   * Bing News
-
-	
   * BoardReader
-
-	
   * Flickr
-
-	
   * YouTube and Vimeo
-
-	
   * WikiAnswers
-
-	
   * Yahoo! Answers
-
-	
   * Social Mention Networks and Blogs
 
 
@@ -144,11 +118,11 @@ _Note: If you've just started your company, there won’t be many (or any) resul
 
 Go to Google and search for your own name (e.g. Mike Abasov). Choose to only search in the _News _and grab the RSS feed at the bottom.
 
-![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.12-AM-590x97.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.12-AM.png)
 
 Then go back to NetVibes, click _Add content_ → _Add a feed_, paste the RSS link, and click _Add feed_. Then drag and drop the new feed into your tab.
 
-![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.33-AM-590x146.png)
+![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.33-AM.png)
 
 Repeat this step with** Google Blog Search**, **Yahoo! News**, **Bing News**, **Social Mention Blogs**, and any other relevant search engines.
 
@@ -160,18 +134,9 @@ Search for your startup’s name, common misspellings, the names of the founder
 
 Now, we want to organize everything into four tabs:
 
-
-
-	
   1. Blogs & media
-
-	
   2. Conversations
-
-	
   3. Visual content
-
-	
   4. People
 
 
@@ -233,7 +198,7 @@ In the case of negative posts, your responses could help prevent PR conundrums, 
 ### 3. Logging
 
 
-The next step is to save the post so you can go back to it in the future. I use [Diigo bookmarking service](http://diigo.com) for this, but other tools such as [Delicious Bookmarks](http://delicious.com/) work just fine.
+The next step is to save the post so you can go back to it in the future. I use [Diigo bookmarking service](//diigo.com) for this, but other tools such as [Delicious Bookmarks](//delicious.com/) work just fine.
 
 Bookmark the article, tag it thoroughly, and make it “private” if you don’t want random people seeing it.
 
@@ -257,9 +222,9 @@ The extra traffic and the recognition encourages people to write about you more 
 
 Many companies have found ways to reward their fans with small, inexpensive gifts that can be mailed all over the world.
 
-For example, the guys over at [Hockey Community](http://hockey-community.com/) send hockey pucks that get photographed, Instagram’ed and shared all over the place.
+For example, the guys over at [Hockey Community](//hockey-community.com/) send hockey pucks that get photographed, Instagram’ed and shared all over the place.
 
-[![](/wp-content/uploads/2012/08/Hockey-Community-puck.jpeg)](http://hockey-community.com/)
+[![](/wp-content/uploads/2012/08/Hockey-Community-puck.jpeg)](//hockey-community.com/)
 
 If you were considering spending money on advertising, I suggest you look into such micro-rewards instead.
 
@@ -274,8 +239,6 @@ Do you track what people write about your startup online? How do you respond to 
 
 
 * * *
-
-
 
 
 

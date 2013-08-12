@@ -1,17 +1,11 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2010-09-09 07:15:28+00:00
 layout: post
 slug: how-to-monitor-your-competition-on-twitter
 title: How to Monitor Your Competition on Twitter
 categories:
 - Social Media
-tags:
-- HootSuite
-- Klout
-- Listening
-- Twitter
 ---
 
 _Continuing the “[Twitter Monitoring Series](/2010/09/05/how-to-monitor-everything-on-twitter/).” Check out the other parts, if you don't know how to do something I mention in this post._
@@ -28,3 +22,5 @@ Here is an awesome search stream that _Toyota_ could use to monitor people talki
 
 
 This post ends the series. If there is anything else you'd like to know, tell me, and I might write about it too. Also, take a look at my [Super Engagement Tip](/2010/09/03/how-to-start-engaging-on-twitter-in-seconds/).
+
+<!-- more -->

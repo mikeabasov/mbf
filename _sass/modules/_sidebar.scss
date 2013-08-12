@@ -29,7 +29,6 @@
         width: 100%;
     }
 }
-
-.classic-posts img:hover {
-    @include opacity(1);
-}
+    .classic-posts img:hover {
+        @include opacity(1);
+    }

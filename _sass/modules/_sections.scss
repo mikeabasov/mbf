@@ -14,6 +14,11 @@
             @include header-3;
         }
         text-shadow: 1px 1px 2px black;
+
      }
      .section-headline a {color: $white;}
      .section-headline a:hover {color: $super-light-grey;}
+
+     h1.noMETA {
+        margin: 1em 0;
+     }

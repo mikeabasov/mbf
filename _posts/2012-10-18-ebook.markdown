@@ -1,64 +1,42 @@
 ---
 author: Mike Abasov
-comments: true
 date: 2012-10-18 11:15:47+00:00
 layout: post
 slug: ebook
 title: 'Free Ebook: Corporate Identity Essentials for Startups '
-wordpress_id: 911
 categories:
 - Social Media
 - Startup Branding
-tags:
-- Corporate Identity
-- Freebies
 ---
 
 Do you ever wonder if having a corporate identity is important for your startup? Are you trying to figure out what kind of logo and colours you need? Are you thinking about getting merchandise but don't know where to start?
 
-Well, start here! After months of writing, I'm happy to share with you our first ever ebook. As you can guess, it's called "7 Basic Components of Your Startup's  Corporate Identity," and it's exactly what you need if your company requires more design and branding love.
+Well, start here! After months of writing, I'm happy to share with you our first ever ebook. As you can guess, it's called "7 Basic Components of Your Startup's Corporate Identity," and it's exactly what you need if your company requires more design and branding love.
 
-
-
+<!-- more -->
 
 ## What's Inside
 
-
 **This ebook contains over 4,000 words on 33 pages**. It's filled with tips, frameworks and ideas to help your startup explode. It's made to help you:
 
-
-
-	
   * Master the art of first impressions.
-
-	
   * Improve conversion rates and speed up growth.
-
-	
   * And achieve greater impact through consistent branding.
 
 
 We'll be talking about naming, color theory, logo design, stationary and merchandise, social media, and even you as a founder.
 
 
-
-
 ## And Now the Best Part
-
 
 **The ebook it totally, completely, relentlessly free! **All you need to do is fill out the form below, and you'll get it delivered right into your lovely inbox. No up-selling, no pitching, just an awesome subscription to our content and a free ebook.
 
 I know you'll love it, so don't wait and get it now.
 
 
+{% include post-subscriber.html %}
 
-[ois skin="Book Download"]
-
-  
-
-[social_share/]
-
-
+{% include share.html %}
 
 ([click here if you're reading via RSS and can't see the form](/2012/10/18/ebook/))
 
