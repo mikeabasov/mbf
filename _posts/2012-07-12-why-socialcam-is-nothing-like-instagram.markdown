@@ -8,7 +8,7 @@ categories:
 - Social Media
 ---
 
-[youtube_sc url="//www.youtube.com/watch?v=bpiKNyMC2PA" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/bpiKNyMC2PA" frameborder="0" allowfullscreen></iframe></div>
 
 What do you think?
 

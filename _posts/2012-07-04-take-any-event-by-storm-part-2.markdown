@@ -39,9 +39,9 @@ Next, **set up listening on your phone**. This way you can see what's going on o
   * Mentions and DMs.
 
 
-Your default stream should be the one with the hashtag. This way every time you hit "Compose" while in the stream, you will have the hashtag included in your tweet. Check out [Dave Olson's video](//www.youtube.com/watch?v=i9uBk3uZSlo) below for more ideas about mobile listening.
+Your default stream should be the one with the hashtag. This way every time you hit "Compose" while in the stream, you will have the hashtag included in your tweet. Check out [Dave Olson's video](//www.youtube.com/embed/i9uBk3uZSlo) below for more ideas about mobile listening.
 
-[youtube_sc url="//www.youtube.com/watch?v=i9uBk3uZSlo" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/i9uBk3uZSlo" frameborder="0" allowfullscreen></iframe></div>
 
 
 ### 2. Devote a team member to social.

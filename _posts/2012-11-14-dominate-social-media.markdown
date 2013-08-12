@@ -8,7 +8,7 @@ categories:
 - Social Media
 ---
 
-[![How to Dominate Social Media with HootSuite [VIDEO]](/wp-content/uploads/2012/11/highres_177627112-1-590x355.jpeg)](/2012/11/14/dominate-social-media/)
+[![How to Dominate Social Media with HootSuite [VIDEO]](/wp-content/uploads/2012/11/highres_177627112-1.jpeg)](/2012/11/14/dominate-social-media/)
 
 Social media can be extremely powerful for business. Everyone knows that by now. But...
 
@@ -41,9 +41,9 @@ If you have never used HootSuite, you can [try it out for free](//www.shareasale
 
 Without further ado, here it is...
 
-[youtube_sc url="//www.youtube.com/watch?v=zW-9nFYmRbQ" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/zW-9nFYmRbQ" frameborder="0" allowfullscreen></iframe></div>
 
-_([click here if you can't see the video](//www.youtube.com/watch?v=zW-9nFYmRbQ))_
+_([click here if you can't see the video](//www.youtube.com/embed/zW-9nFYmRbQ))_
 
 I apologize for the quality of the video and audio. Next time will be better, I promise.
 

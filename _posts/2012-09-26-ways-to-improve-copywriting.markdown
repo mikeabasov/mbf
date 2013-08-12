@@ -3,15 +3,13 @@ author: Mike Abasov
 date: 2012-09-26 13:37:10+00:00
 layout: post
 slug: ways-to-improve-copywriting
-title: 16 Ways to Write Kickass Copy for Your Startup
+title: 15 Ways to Write Kickass Copy for Your Startup
 categories:
 - Great PR
 - Inbound Marketing
 - Remarkable Products
 - Startup Branding
 ---
-
-[![16 Ways to Drastically Improve Your Copywriting for Better Storytelling, Higher Conversion Rates and More Engagement](/wp-content/uploads/2012/09/copy.png)](/2012/09/26/ways-to-improve-copywriting)
 
 Ever since the Madman era, copywriting has been a significant part of any marketer's job. And in today's digital, text-driven world it is as important as it has ever been.
 
@@ -169,7 +167,11 @@ So, if applicable, consider telling a story. Maybe, it should be about solving y
 
 Here's a fantastic story from Best Buy and Foursquare's Dennis Crowley.
 
-[youtube_sc url="//www.youtube.com/watch?v=P-bB2hwxmpQ" fs="1" hd="1"]
+<div class="embed-container">
+    <iframe
+        src="//www.youtube.com/embed/rvjKWCuA6FA"
+        frameborder="0" allowfullscreen></iframe>
+</div>
 
 Did you like it?
 
@@ -251,19 +253,14 @@ Makes sense?
   5. Lists add structure and clarity.
   6. Lists are pretty damn awesome.
 
-
-## 13. Try a Different Medium
-
-[youtube_sc url="//www.youtube.com/watch?v=i-JcCFlF5HU" fs="1" hd="1"]
-
-## 14. Delete at least 10% of Words from Your First Draft
+## 13. Delete at least 10% of Words from Your First Draft
 
 One of the most effective ways to improve your copy is to delete 10% of the words you've written. Such pressure pushes you to stay on point.
 
 This is also the time to sober up and edit whatever you've written in the "free flow" mode. But be careful not to lose the meaning along the way.
 
 
-## 15. Ask Someone to Proofread the Copy
+## 14. Ask Someone to Proofread the Copy
 
 Ask your colleague, friend, partner, or whomever else to proofread what you've written and give you feedback.
 
@@ -280,7 +277,7 @@ However, if you're a small startup, you may not have others to keep you accounta
 Proofread, proofread, proofread.
 
 
-## 16. Split Test Your Copy
+## 15. Split Test Your Copy
 
 
 One of the best things about the Internet is the ability to almost effortlessly split test any copy you write.

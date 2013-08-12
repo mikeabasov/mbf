@@ -34,7 +34,7 @@ A lot of startups head straight for content creation and social media in the
 first stages of a new site, but that could be a big mistake. Without a solid
 basis of technical (i.e. on-page) SEO, all of this will be meaningless.
 
-![5 Essential White Hat SEO Techniques for Startups](/wp-content/uploads/2013/03/google-startup-seo-white-hat-techniques-590x440.jpg)
+![5 Essential White Hat SEO Techniques for Startups](/wp-content/uploads/2013/03/google-startup-seo-white-hat-techniques.jpg)
 
 Make sure your website can be crawled by search engines by giving it good architecture
 that’s easy to navigate. The next step in your technical SEO process is to ensure

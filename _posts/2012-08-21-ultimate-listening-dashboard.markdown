@@ -70,9 +70,9 @@ _[Gumroad](//gumroad.com) allows anyone to sell products online as easily as it 
 
 Let's do this!
 
-[youtube_sc url="//www.youtube.com/watch?v=Moekfp74Vbg" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/Moekfp74Vbg" frameborder="0" allowfullscreen></iframe></div>
 
-(If you can't see [the video](//www.youtube.com/watch?v=Moekfp74Vbg) or prefer text, read on.)
+(If you can't see [the video](//www.youtube.com/embed/Moekfp74Vbg) or prefer text, read on.)
 
 
 ### 1. Sign up for Netvibes.

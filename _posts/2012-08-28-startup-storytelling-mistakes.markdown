@@ -120,9 +120,9 @@ Not so long ago, [Dollar Shave Club](//www.dollarshaveclub.com/) successfully la
 
 They could’ve made a video that simply explains their service and left it at that. But they decided to take it a step further with a video that was funny and exciting, and awesome.
 
-[youtube_sc url="//www.youtube.com/watch?v=ZUG9qYTJMsI" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe></div>
 
-[Watch it](//www.youtube.com/watch?v=ZUG9qYTJMsI) and tell me how it makes you feel.
+[Watch it](//www.youtube.com/embed/ZUG9qYTJMsI) and tell me how it makes you feel.
 
 **Too often we settle on crafting stories that don’t go beyond being explanatory. Next time you’re working on a story, try adding emotions.**
 

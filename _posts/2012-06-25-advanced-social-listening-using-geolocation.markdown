@@ -14,10 +14,10 @@ You probably already know that _Twitter_ can be a great tool for listening to yo
 
 _Twitter_ also allows you to find all these **conversations happening in your local area**. This can be incredibly powerful.
 
-[youtube_sc url="//www.youtube.com/watch?v=A-JjcvfpTEQ" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/A-JjcvfpTEQ" frameborder="0" allowfullscreen></iframe></div>
 
 
-[_(click here if you don't see the video)_](//www.youtube.com/watch?v=A-JjcvfpTEQ)
+[_(click here if you don't see the video)_](//www.youtube.com/embed/A-JjcvfpTEQ)
 
 <!-- more -->
 

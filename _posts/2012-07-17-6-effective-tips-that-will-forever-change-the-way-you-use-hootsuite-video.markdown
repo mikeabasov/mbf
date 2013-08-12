@@ -25,7 +25,7 @@ Just click on a person's userpic, drag it from one stream to another, and drop 
 
 [The video below shows how to do it.](//youtu.be/ONO5cnI8WmE)
 
-[youtube_sc url="//youtu.be/ONO5cnI8WmE" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//youtu.be/ONO5cnI8WmE" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## 2. Maximize Efficiency of Your Tabs
@@ -35,9 +35,9 @@ I suggest you always follow and list everyone who is relevant to your startup. 
 
 But! HootSuite doesn't allow you to drag a userpic outside of your visible screen area, and if you have a lot of search feeds, it can become a problem. To fix this, simply** put your list stream in the middle**, and you will be able to reach it form anywhere in the tab.
 
-[Here's another how-to video.](//www.youtube.com/watch?v=XPhKTHtaKDM)
+[Here's another how-to video.](//www.youtube.com/embed/XPhKTHtaKDM)
 
-[youtube_sc url="//www.youtube.com/watch?v=XPhKTHtaKDM" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/XPhKTHtaKDM" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## 3. Pin Your Main Social Media Profile
@@ -45,9 +45,9 @@ But! HootSuite doesn't allow you to drag a userpic outside of your visible scr
 
 After pinning your favourite social media profile in HootSuite, everything you write can be posted via that profile by default. This works great with Twitter because it usually gets updated most often.
 
-To pin an account, go to your profile selection area and click on the little pin in the drop-down menu. [See the video](//www.youtube.com/watch?v=JMdnEEdSCQw), if you're having trouble figuring this one out.
+To pin an account, go to your profile selection area and click on the little pin in the drop-down menu. [See the video](//www.youtube.com/embed/JMdnEEdSCQw), if you're having trouble figuring this one out.
 
-[youtube_sc url="//www.youtube.com/watch?v=JMdnEEdSCQw" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/JMdnEEdSCQw" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## 4. Set Your Tabs to Manual Refresh
@@ -57,9 +57,9 @@ People tweet a lot! When you have 10 streams in your tab and are trying to catch
 
 So **set your tabs to manual refresh** and never miss a post! To do so, click on the small arrow button near "+ Add Stream" and select "Manual Refresh."
 
-[Watch the video for extra help.](//www.youtube.com/watch?v=2BhMmMJOlxY)
+[Watch the video for extra help.](//www.youtube.com/embed/2BhMmMJOlxY)
 
-[youtube_sc url="//www.youtube.com/watch?v=2BhMmMJOlxY" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/2BhMmMJOlxY" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## 5. Narrow Down Search Results
@@ -82,9 +82,9 @@ Your Home Feed can be filtered live by keywords or [Klout score](//klout.com). T
 
 I don't usually use the **Klour score filter**, but I often narrow down my search by a question mark ("?"). This allows me to [engage with people in seconds](/2010/09/03/how-to-start-engaging-on-twitter-in-seconds/) because answering questions is always easier than coming up with something to say.
 
-[Watch the video bellow to see how I do it.](//www.youtube.com/watch?v=z-OvuxVLFbI)
+[Watch the video bellow to see how I do it.](//www.youtube.com/embed/z-OvuxVLFbI)
 
-[youtube_sc url="//www.youtube.com/watch?v=z-OvuxVLFbI" fs="1" hd="1"]
+<div class="embed-container"><iframe src="//www.youtube.com/embed/z-OvuxVLFbI" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## That's It!
