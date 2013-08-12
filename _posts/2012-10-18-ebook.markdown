@@ -7,6 +7,7 @@ title: 'Free Ebook: Corporate Identity Essentials for Startups '
 categories:
 - Social Media
 - Startup Branding
+featured: book.jpg
 ---
 
 Do you ever wonder if having a corporate identity is important for your startup? Are you trying to figure out what kind of logo and colours you need? Are you thinking about getting merchandise but don't know where to start?

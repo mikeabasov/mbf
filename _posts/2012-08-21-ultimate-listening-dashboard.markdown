@@ -7,9 +7,8 @@ title: Why Your Startup Needs an Ultimate Listening Dashboard
 categories:
 - Great PR
 - Inbound Marketing
+featured: hipster-tools.jpg
 ---
-
-[![Why Your Startup Needs an Ultimate Listening Dashboard](/wp-content/uploads/2012/08/ULD.png)](/2012/08/21/ultimate-listening-dashboard/)
 
 Expert advice is sure [inspiring](/2012/08/07/startup-marketing-priorities/).
 Theory is great too for [getting you on the right track](/2012/08/14/the-8-rules-of-kickass-startup-marketing/) from day one.

@@ -9,6 +9,7 @@ categories:
 - Networking
 - Other
 - Personal Branding
+featured: laptop-on-desk.jpg
 ---
 
 

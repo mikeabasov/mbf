@@ -9,6 +9,7 @@ categories:
 - Inbound Marketing
 - Remarkable Products
 - Startup Branding
+featured: dude-working-4.jpg
 ---
 
 Ever since the Madman era, copywriting has been a significant part of any marketer's job. And in today's digital, text-driven world it is as important as it has ever been.

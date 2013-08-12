@@ -7,9 +7,8 @@ title: 6 Questions to Ask Yourself when Bootstrapping Your Startup Design
 categories:
 - Remarkable Products
 - Startup Branding
+featured: ui-design.jpg
 ---
-
-[![6 Questions to Ask Yourself When Bootstrapping Your Startup Design](/wp-content/uploads/2012/09/design.png)](/2012/09/05/startup-design-questions)
 
 Here's a question I know a lot of startup founders have:
 

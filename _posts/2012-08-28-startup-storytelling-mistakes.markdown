@@ -7,9 +7,8 @@ title: 5 Storytelling Mistakes to Avoid when Marketing Your Startup
 categories:
 - Big Picture Stuff
 - Startup Branding
+featured: book.jpg
 ---
-
-[![5 Storytelling Mistakes to Avoid when Marketing Your Startup](/wp-content/uploads/2012/08/sld.png)](/2012/08/28/startup-storytelling-mistakes/)
 
 **Let me start with a question: What is your startup’s story?**
 

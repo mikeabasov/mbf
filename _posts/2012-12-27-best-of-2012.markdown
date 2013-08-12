@@ -6,9 +6,9 @@ slug: best-of-2012
 title: Top 10 Best Startup Marketing Resources of 2012
 categories:
 - Resources
+featured: sparkles.jpg
 ---
 
-[![Top 10 Best Startup Marketing Resources of 2012](/wp-content/uploads/2012/12/bestof2012.png)](/2012/12/27/best-of-2012/)
 
 2012 was a great year for startups, and there were plenty of cool articles, videos, blog posts and other resources created by marketing experts to help entrepreneurs grow their companies.
 

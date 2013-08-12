@@ -5,7 +5,6 @@ layout: post
 title: 5 Essential White Hat SEO Techniques for Startups
 headline: 5 Essential White Hat SEO Techniques for Startups
 categories: Inbound Marketing
-featured: back.jpg
 ---
 
 _This post is by Aurora Johnson of [Custard](//www.custard.co.uk/design/)._

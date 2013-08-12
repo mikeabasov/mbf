@@ -7,7 +7,6 @@ title: 4 Vital Lessons for Marketing Professionals Going Startup
 categories:
 - Big Picture Stuff
 - Other
-tags:
 ---
 
 [![4 Vital Lessons for Marketing Professionals Going Startup](/wp-content/uploads/2012/09/goingstartup.png)](/2012/09/19/lessons-for-marketers-going-startup/)
