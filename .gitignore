@@ -11,3 +11,9 @@ css/core.css
 .DS_Store
 
 _site/img/logo.png
+
+.htaccess
+
+_posts
+
+_posts/

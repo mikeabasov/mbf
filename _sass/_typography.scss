@@ -139,6 +139,21 @@ strong, b {
 	font-weight: 600;
 }
 
+blockquote {
+    font-size: 1.5*$base-font-size;
+    @include screen-max($m-break) {
+        font-size: 1.2*$base-font-size;
+    }
+    font-family: $headline-font;
+    font-style: italic;
+    color: $dark-grey;
+    padding-left: $base-font-size;
+    padding-right: $base-font-size;
+    margin-left: 0;
+    border-left: 5px $dark-grey solid;
+    display: block;
+}
+
 .center {text-align: center;}
 .left {text-align: left;}
 .right {text-align: right;}
