@@ -78,7 +78,7 @@ Same goes for your videos but make sure you spend some time on editing. Photos u
 
 The key to social media is that there are no one-time interactions. You have to continue talking, sharing and engaging time and again for your relationships and community to grow.
 
-So don't forget about the people you've met at the event. You may delete your massive Twitter list to create space for a new one, but first reassign its members to a different, permanent index (e.g. [Marketers in Vancouver](//twitter.com/#!/Mike_Abasov/yvr-marketers)).
+So don't forget about the people you've met at the event. You may delete your massive Twitter list to create space for a new one, but first reassign its members to a different, permanent index (e.g. [Marketers in Vancouver](//twitter.com/#!/Misha_Abasov/yvr-marketers)).
 
 
 [![Flower and watering pot](//farm4.staticflickr.com/3336/3280875784_83078ed2b5.jpg)](//www.flickr.com/photos/jram23/3280875784/)
