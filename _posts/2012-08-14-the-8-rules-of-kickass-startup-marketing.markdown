@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-08-14 09:18:33+00:00
 layout: post
 slug: the-8-rules-of-kickass-startup-marketing

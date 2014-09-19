@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2010-09-09 07:15:28+00:00
 layout: post
 slug: how-to-monitor-your-competition-on-twitter

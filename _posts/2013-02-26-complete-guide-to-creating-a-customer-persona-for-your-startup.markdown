@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2013-02-26 14:00:52+00:00
 layout: post
 slug: complete-guide-to-creating-a-customer-persona-for-your-startup

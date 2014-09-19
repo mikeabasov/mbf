@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-07-12 12:00:42+00:00
 layout: post
 slug: why-socialcam-is-nothing-like-instagram

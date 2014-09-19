@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-09-12 10:59:18+00:00
 layout: post
 slug: marketing-in-stealth-mode

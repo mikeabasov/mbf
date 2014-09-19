@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-09-05 12:00:57+00:00
 layout: post
 slug: startup-design-questions

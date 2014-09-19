@@ -129,6 +129,6 @@ marketing services. You can visit [custard.co.uk](//www.custard.co.uk/design/) n
 to find out more about the agency._
 
 
-**From Mike:** This is the first time we have a guest post here at Marketing
+**From Misha:** This is the first time we have a guest post here at Marketing
 Before Funding. I'd love to hear your feedback! And if you want to write for us,
 [go here](/guest-post/).

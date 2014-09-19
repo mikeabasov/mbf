@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2013-03-05 13:00:49+00:00
 layout: post
 slug: stop-browsing-techcrunch-get-involved-in-your-startup-community
@@ -56,7 +56,7 @@ Follow your heroes, follow anyone they talk to, follow bigger and smaller names 
 
 Trust me that nobody's gonna judge you unless you're being an ass. On the contrary, soon enough you'll make a few genuine connections within your local (and global) startup scene.
 
-_"...Wait Mike, didn't you just say that surfing the Web is bad?"_
+_"...Wait Misha, didn't you just say that surfing the Web is bad?"_
 
 Being a passive observer is bad. Being a participant isn't.
 

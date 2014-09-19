@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-08-28 12:00:58+00:00
 layout: post
 slug: startup-storytelling-mistakes

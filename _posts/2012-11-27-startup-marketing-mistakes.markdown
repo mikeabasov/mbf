@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-11-27 13:00:01+00:00
 layout: post
 slug: startup-marketing-mistakes
@@ -34,7 +34,7 @@ I couldn't agree more!
 
 **Now... Once you're done reading, I'd love to hear your thoughts on the subject.** What mistakes have the experts missed? Which ones did you make yourself and what did you learn?
 
-By the way, there's also a [Twitter list](//twitter.com/Mike_Abasov/featured-on-mbf/members) of everyone who's ever been featured on Marketing Before Funding.
+By the way, there's also a [Twitter list](//twitter.com/Misha_Abasov/featured-on-mbf/members) of everyone who's ever been featured on Marketing Before Funding.
 
 
 ## JULIA HARTZ, CO-FOUNDER OF EVENTBRITE

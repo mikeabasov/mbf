@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2010-09-08 06:03:00+00:00
 layout: post
 slug: how-to-monitor-your-startup-on-twitter

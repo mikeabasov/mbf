@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-09-26 13:37:10+00:00
 layout: post
 slug: ways-to-improve-copywriting

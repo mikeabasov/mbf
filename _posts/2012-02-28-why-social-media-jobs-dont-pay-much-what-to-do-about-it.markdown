@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-02-28 09:13:55+00:00
 layout: post
 slug: why-social-media-jobs-dont-pay-much-what-to-do-about-it

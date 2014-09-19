@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Start Creating Three Times More Content without Killing Yourself"
-author: Mike Abasov
+author: Misha Abasov
 category: content-marketing
 featured: book.jpg
 ---

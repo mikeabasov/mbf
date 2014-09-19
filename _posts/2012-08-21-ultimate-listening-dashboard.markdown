@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-08-21 12:00:04+00:00
 layout: post
 slug: ultimate-listening-dashboard
@@ -115,7 +115,7 @@ _Note: If you've just started your company, there won’t be many (or any) resul
 ### 3. Add more feeds
 
 
-Go to Google and search for your own name (e.g. Mike Abasov). Choose to only search in the _News _and grab the RSS feed at the bottom.
+Go to Google and search for your own name (e.g. Misha Abasov). Choose to only search in the _News _and grab the RSS feed at the bottom.
 
 ![](/wp-content/uploads/2012/08/Screen-Shot-2012-08-20-at-1.05.12-AM.png)
 

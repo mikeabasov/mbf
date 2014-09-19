@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2010-09-03 04:49:03+00:00
 layout: post
 slug: how-to-start-engaging-on-twitter-in-seconds

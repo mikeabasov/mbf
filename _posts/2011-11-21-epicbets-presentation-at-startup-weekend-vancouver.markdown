@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2011-11-21 08:58:34+00:00
 layout: post
 slug: epicbets-presentation-at-startup-weekend-vancouver

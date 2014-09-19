@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-11-14 13:00:12+00:00
 layout: post
 slug: dominate-social-media
@@ -51,6 +51,6 @@ On the bright side, here's the [slide deck to help you follow along](//www.slide
 
 <hr>
 
-_**Disclosure:** Mike Abasov worked at HootSuite during the period from Sep. 2010 through Sep. 2011. He is currently not employed by HootSuite but still uses the product in his daily work. Basically, his opinions are biased. Deal with it. _
+_**Disclosure:** Misha Abasov worked at HootSuite during the period from Sep. 2010 through Sep. 2011. He is currently not employed by HootSuite but still uses the product in his daily work. Basically, his opinions are biased. Deal with it. _
 
 _HootSuite, KISSmetrics, HubSpot and other trademarks and content excerpts belong to their rightful owners and are used for educational purposes under the fair use agreements._

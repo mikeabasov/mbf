@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-07-17 09:40:19+00:00
 layout: post
 slug: 6-effective-tips-that-will-forever-change-the-way-you-use-hootsuite-video

@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-08-07 10:45:23+00:00
 layout: post
 slug: startup-marketing-priorities
@@ -33,7 +33,7 @@ All these and other topics will be discussed on Marketing Before Funding in the 
 
 Then, **I'd love to see your answer to the same question.** What's your #1 marketing priority? Why? Let me know in the comments!
 
-And if you want to follow all of them on Twitter, [here's a list](//twitter.com/Mike_Abasov/featured-on-mbf/members).
+And if you want to follow all of them on Twitter, [here's a list](//twitter.com/Misha_Abasov/featured-on-mbf/members).
 
 <!-- more -->
 

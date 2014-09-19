@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-06-19 12:00:13+00:00
 layout: post
 slug: the-most-engaging-way-to-share-links-on-facebook

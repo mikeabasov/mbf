@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2010-09-06 05:58:51+00:00
 layout: post
 slug: how-to-monitor-everything-on-twitter

@@ -1,5 +1,5 @@
 ---
-author: Mike Abasov
+author: Misha Abasov
 date: 2012-07-04 12:00:33+00:00
 layout: post
 slug: take-any-event-by-storm-part-2
