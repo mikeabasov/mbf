@@ -4,20 +4,21 @@
 #        attributes in the _config.yml file
 #
 # Uses the following attributes in _config.yml:
-#   name        - the name of the site
-#   url         - the url of the site
-#   description - (optional) a description for the feed (if not specified will be generated from name)
-#   author      - (optional) the author of the site (if not specified will be left blank)
-#   copyright   - (optional) the copyright of the feed (if not specified will be left blank)
-#   rss_path    - (optional) the path to the feed (if not specified "/" will be used)
-#   rss_name    - (optional) the name of the rss file (if not specified "rss.xml" will be used)
+#   name           - the name of the site
+#   url            - the url of the site
+#   description    - (optional) a description for the feed (if not specified will be generated from name)
+#   author         - (optional) the author of the site (if not specified will be left blank)
+#   copyright      - (optional) the copyright of the feed (if not specified will be left blank)
+#   rss_path       - (optional) the path to the feed (if not specified "/" will be used)
+#   rss_name       - (optional) the name of the rss file (if not specified "rss.xml" will be used)
+#   rss_post_limit - (optional) the number of posts in the feed
 #
 # Author: Assaf Gelber <assaf.gelber@gmail.com>
 # Site: http://agelber.com
 # Source: http://github.com/agelber/jekyll-rss
 #
 # Distributed under the MIT license
-# Copyright Assaf Gelber 2013
+# Copyright Assaf Gelber 2014
 
 module Jekyll
   class RssFeed < Page; end
@@ -33,6 +34,7 @@ module Jekyll
     # Returns nothing
     def generate(site)
       require 'rss'
+      require 'cgi/util'
 
       # Create the rss with the help of the RSS module
       rss = RSS::Maker.make("2.0") do |maker|
@@ -40,14 +42,24 @@ module Jekyll
         maker.channel.link = site.config['url']
         maker.channel.description = site.config['description'] || "RSS feed for #{site.config['name']}"
         maker.channel.author = site.config["author"]
-        maker.channel.updated = site.posts.map { |p| p.date  }.max
+        maker.channel.updated = site.posts.docs.map { |p| p.date  }.max
         maker.channel.copyright = site.config['copyright']
-        site.posts.each do |post|
+
+        post_limit = site.config['rss_post_limit'].nil? ? site.posts.docs.count : site.config['rss_post_limit'] - 1
+
+        site.posts.docs.reverse[0..post_limit].each do |doc|
+          doc.read
           maker.items.new_item do |item|
-            item.title = post.title
-            item.link = "#{site.config['url']}#{post.url}"
-            item.description = post.excerpt
-            item.updated = post.date
+            link = "#{site.config['url']}#{doc.url}"
+            item.guid.content = link
+            item.title = doc.data['title']
+            item.link = link
+            item.description = "<![CDATA[" + doc.data['excerpt'].to_s.gsub(%r{</?[^>]+?>}, '') + "]]>"
+
+            # the whole doc content, wrapped in CDATA tags
+            item.content_encoded = "<![CDATA[" + doc.content + "]]>"
+
+            item.updated = doc.date
           end
         end
       end
@@ -57,13 +69,19 @@ module Jekyll
       rss_name = site.config['rss_name'] || "rss.xml"
       full_path = File.join(site.dest, rss_path)
       ensure_dir(full_path)
-      File.open("#{full_path}#{rss_name}", "w") { |f| f.write(rss) }
+
+      # We only have HTML in our content_encoded field which is surrounded by CDATA.
+      # So it should be safe to unescape the HTML.
+      feed = CGI::unescapeHTML(rss.to_s)
+
+      File.open("#{full_path}#{rss_name}", "w") { |f| f.write(feed) }
 
       # Add the feed page to the site pages
       site.pages << Jekyll::RssFeed.new(site, site.dest, rss_path, rss_name)
     end
 
     private
+
     # Ensures the given path has leading and trailing slashes
     #
     # path - the string path
@@ -99,6 +117,5 @@ module Jekyll
     def ensure_dir(path)
       FileUtils.mkdir_p(path)
     end
-
   end
 end
